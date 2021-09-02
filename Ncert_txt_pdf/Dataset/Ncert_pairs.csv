@@ -1,0 +1,127 @@
+subject,relation,object,subject_type,object_type
+list,include,use,NOUN_CHUNK,NOUN_CHUNK
+torch,get,electricity,NOUN_CHUNK,NOUN_CHUNK
+torch bulb,has,outer case,NOUN_CHUNK,NOUN_CHUNK
+Activity,Take,torch,NOUN_CHUNK,NOUN_CHUNK
+electric bulbs,have,similar design,NOUN_CHUNK,NOUN_CHUNK
+electric cell,have,two terminals,NOUN_CHUNK,CARDINAL
+Activity,Take,four lengths,NOUN_CHUNK,CARDINAL
+break,means,break,NOUN_CHUNK,NOUN_CHUNK
+Activity,Take,torch bulb,NOUN_CHUNK,NOUN_CHUNK
+Paheli,has,arrangement,GPE,NOUN_CHUNK
+electric bulb,has,filament,NOUN_CHUNK,NOUN_CHUNK
+repair work,have,plastic rubber covers,NOUN_CHUNK,NOUN_CHUNK
+long hand,lowered,block,NOUN_CHUNK,NOUN_CHUNK
+stick,had,small piece,NOUN_CHUNK,NOUN_CHUNK
+4,shows,magnets,CARDINAL,NOUN_CHUNK
+rock,attracted,iron tip,NOUN_CHUNK,NOUN_CHUNK
+Magnetite,contains,iron,NOUN_CHUNK,NOUN_CHUNK
+artificial Activity,Take,plastic,NOUN_CHUNK,NOUN_CHUNK
+Boojho,has,question,ORG,NOUN_CHUNK
+tailor,stitching,buttons,NOUN_CHUNK,NOUN_CHUNK
+MAGNETS,Rub,magnet,NOUN_CHUNK,NOUN_CHUNK
+Activity,Spread,iron filings,NOUN_CHUNK,NOUN_CHUNK
+statue,had,interesting property,NOUN_CHUNK,NOUN_CHUNK
+Activity,Take,bar magnet,NOUN_CHUNK,NOUN_CHUNK
+Boojho,has,question,ORG,NOUN_CHUNK
+towards/ Position,loose,cars properties,NOUN_CHUNK,NOUN_CHUNK
+Magnet,attracts,materials,NOUN_CHUNK,NOUN_CHUNK
+magnet,has,two magnetic poles,NOUN_CHUNK,CARDINAL
+Column II,indicates,resulting action,NOUN_CHUNK,NOUN_CHUNK
+S Repulstion,Write,properties,NOUN_CHUNK,NOUN_CHUNK
+electric circuit,components,S.,NOUN_CHUNK,NOUN_CHUNK
+Symbol devices,use,batteries,NOUN_CHUNK,NOUN_CHUNK
+rubber bands,hold,metal strips,NOUN_CHUNK,NOUN_CHUNK
+EFFECTS,touch,lighted electric bulb,NOUN_CHUNK,NOUN_CHUNK
+electric bulb,used for,heat,NOUN_CHUNK,NOUN_CHUNK
+Compact fluorescent lamps,reduce,wastage,NOUN_CHUNK,NOUN_CHUNK
+ELECTRIC CURRENT,tie,thin strand,ORG,NOUN_CHUNK
+electric current,have,effects,NOUN_CHUNK,NOUN_CHUNK
+compass,Repeat,experiment,NOUN_CHUNK,NOUN_CHUNK
+electromagnet,weakens,cell,NOUN_CHUNK,NOUN_CHUNK
+coil,loses,coil magnetism,NOUN_CHUNK,NOUN_CHUNK
+end,has,strong electromagnet,NOUN_CHUNK,NOUN_CHUNK
+toys,have,electromagnets,NOUN_CHUNK,NOUN_CHUNK
+coil,kept,hammer,NOUN_CHUNK,NOUN_CHUNK
+hammer,strikes,gong,NOUN_CHUNK,NOUN_CHUNK
+effect,has,applications,NOUN_CHUNK,NOUN_CHUNK
+Longer line,represents,Longer line,NOUN_CHUNK,NOUN_CHUNK
+electromagnet,attract,piece,NOUN_CHUNK,NOUN_CHUNK
+electric bell,has,electromagnet,NOUN_CHUNK,NOUN_CHUNK
+Boojho,Paheli,magic trick,GPE,NOUN_CHUNK
+magician,placed,iron box,NOUN_CHUNK,NOUN_CHUNK
+Boojho,lift,box,ORG,NOUN_CHUNK
+Boojho,move,Boojho,ORG,ORG
+Electricity lectricity,has,important place,NOUN_CHUNK,NOUN_CHUNK
+switch,makes,conducting link,NOUN_CHUNK,NOUN_CHUNK
+chemical action,generates,potential difference,NOUN_CHUNK,NOUN_CHUNK
+insulator,offers,higher resistance,NOUN_CHUNK,NOUN_CHUNK
+RESIST ANCE,DEPENDS,Activity,NOUN_CHUNK,NOUN_CHUNK
+thicker wire,has,larger cross - sectional area,NOUN_CHUNK,NOUN_CHUNK
+Insulators,have,resistivity,NOUN_CHUNK,NOUN_CHUNK
+parallel circuit,divides,current,NOUN_CHUNK,NOUN_CHUNK
+source,supply,energy,NOUN_CHUNK,NOUN_CHUNK
+unavoidable heating,increase,temperature,NOUN_CHUNK,NOUN_CHUNK
+heating effect,has,useful applications,NOUN_CHUNK,NOUN_CHUNK
+research,created,technologies,NOUN_CHUNK,NOUN_CHUNK
+Iron filings,align,Iron filings,NOUN_CHUNK,NOUN_CHUNK
+iron filings,experience,force,NOUN_CHUNK,NOUN_CHUNK
+curve,represents,field line,NOUN_CHUNK,NOUN_CHUNK
+lines,represent,magnetic field,NOUN_CHUNK,NOUN_CHUNK
+Magnetic Effects,Take,long straight copper wire,NOUN_CHUNK,NOUN_CHUNK
+Conductor,determines,pattern,NOUN_CHUNK,NOUN_CHUNK
+Science,Connect,copper wire,NOUN_CHUNK,NOUN_CHUNK
+arrows,show,direction,NOUN_CHUNK,NOUN_CHUNK
+fingers,wrap around,conductor,NOUN_CHUNK,NOUN_CHUNK
+field,exerts,force,NOUN_CHUNK,NOUN_CHUNK
+electric current,produces,magnetic field,NOUN_CHUNK,NOUN_CHUNK
+impulse,produces,temporary magnetic field,NOUN_CHUNK,NOUN_CHUNK
+Magnetism,got,important uses,NOUN_CHUNK,NOUN_CHUNK
+reversal,reverses,direction,NOUN_CHUNK,NOUN_CHUNK
+Faraday,developed,Faraday interest,PERSON,NOUN_CHUNK
+changing magnetic field,called,current,NOUN_CHUNK,NOUN_CHUNK
+sources,produce,alternating current,NOUN_CHUNK,NOUN_CHUNK
+wires,supply,electricity,NOUN_CHUNK,NOUN_CHUNK
+appliance,has,separate switch,NOUN_CHUNK,NOUN_CHUNK
+appliance,connected,equal potential difference,NOUN_CHUNK,NOUN_CHUNK
+fuse,prevents,damage,NOUN_CHUNK,NOUN_CHUNK
+current carrying conductor,experiences,force,NOUN_CHUNK,NOUN_CHUNK
+generator,converts,mechanical energy,NOUN_CHUNK,NOUN_CHUNK
+leakage,used as,severe shock,NOUN_CHUNK,NOUN_CHUNK
+DC generator,generate,higher voltage,NOUN_CHUNK,NOUN_CHUNK
+AC generator,generate,higher voltage,ORG,NOUN_CHUNK
+electric motor,converts,mechanical energy,NOUN_CHUNK,NOUN_CHUNK
+plastic rod,attracts,glass rod,NOUN_CHUNK,NOUN_CHUNK
+glass rod,repels,fur,NOUN_CHUNK,NOUN_CHUNK
+object,said to,electric charge,NOUN_CHUNK,NOUN_CHUNK
+magnetism,", while",interactions,NOUN_CHUNK,NOUN_CHUNK
+Students,make,simple electroscope,NOUN_CHUNK,NOUN_CHUNK
+metal rod,show,sign,NOUN_CHUNK,NOUN_CHUNK
+transfer,take,place,NOUN_CHUNK,NOUN_CHUNK
+Earthing,provides,safety measure,ORG,NOUN_CHUNK
+electric wiring,has,three wires,NOUN_CHUNK,CARDINAL
+similar effect,takes,place,NOUN_CHUNK,NOUN_CHUNK
+rods,induce,opposite charges,NOUN_CHUNK,NOUN_CHUNK
+Charge,has,magnitude,NOUN_CHUNK,NOUN_CHUNK
+quantisation,has,practical consequence,NOUN_CHUNK,NOUN_CHUNK
+choice,determines,size,NOUN_CHUNK,NOUN_CHUNK
+normal,specifies,orientation,NOUN_CHUNK,NOUN_CHUNK
+electric field,takes,simple forms,NOUN_CHUNK,NOUN_CHUNK
+centres,have,permanent electric dipole moment,NOUN_CHUNK,NOUN_CHUNK
+materials,give,rise,NOUN_CHUNK,NOUN_CHUNK
+comb,attracts,pieces,NOUN_CHUNK,NOUN_CHUNK
+continuous charge distribution,Suppose,charge density,NOUN_CHUNK,NOUN_CHUNK
+S,equals,4πr 2,NOUN_CHUNK,MONEY
+term,represents,total charge,NOUN_CHUNK,NOUN_CHUNK
+system,electrostatic field,symmetry,NOUN_CHUNK,NOUN_CHUNK
+violation,indicate,departure,NOUN_CHUNK,NOUN_CHUNK
+long straight uniformly charged wire,Consider,infinitely long thin straight wire,NOUN_CHUNK,NOUN_CHUNK
+situation,has,obvious spherical symmetry,NOUN_CHUNK,NOUN_CHUNK
+electric field,has,magnitude,NOUN_CHUNK,NOUN_CHUNK
+Gaussian surface,encloses,charge,NOUN_CHUNK,NOUN_CHUNK
+experimental verification,confirms,1/r2 dependence,NOUN_CHUNK,NOUN_CHUNK
+Electric magnetic forces,determine,properties,NOUN_CHUNK,NOUN_CHUNK
+Electric charge,has,three basic properties,NOUN_CHUNK,CARDINAL
+Proton,have,charges,NOUN_CHUNK,NOUN_CHUNK
+sum,taking into,proper signs,NOUN_CHUNK,NOUN_CHUNK
+electric field,satisfies,superposition principle,NOUN_CHUNK,NOUN_CHUNK
