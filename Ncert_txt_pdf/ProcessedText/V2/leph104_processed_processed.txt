@@ -1,0 +1,971 @@
+Physics  Chapter Four  MOVING CHARGES AND MAGNETISM  4.
+1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years.
+ However, it was only about 200 years ago, in 1820, that it was realised that they were intimately related*.
+ During a lecture demonstration in the summer of 1820, the Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a noticeable deflection in a nearby magnetic compass needle.
+ He investigated this phenomenon.
+ He found that the alignment of the needle is tangential to an imaginary circle which has the straight wire as its centre and has its plane perpendicular to the wire.
+ This situation is depicted in Fig.
+ It is noticeable when the current is large and the needle sufficiently close to the wire so that the earth’s magnetic field may be ignored.
+ Reversing the direction of the current reverses the orientation of the needle [Fig.
+ The deflection increases on increasing the current or bringing the needle closer to the wire.
+ Iron filings sprinkled around the wire arrange themselves in concentric circles with the wire as the centre [Fig.
+ Oersted concluded that moving charges or currents produced a magnetic field in the surrounding space.
+ Following this there was intense experimentation.
+ In 1864, the laws obeyed by electricity and magnetism were unified and formulated by  132  * See the box in Chapter 1, Page 3.
+  2015-16(20/01/2015)  Moving Charges and Magnetism James Maxwell who then realised that light was electromagnetic waves.
+ Radio waves were discovered by Hertz, and produced by J.
+ Marconi by the end of the 19th century.
+ A remarkable scientific and technological progress has taken place in the 20th century.
+ This is due to our increased understanding of electromagnetism and the invention of devices for production, amplification, transmission and detection of electromagnetic waves.
+1 The magnetic field due to a straight long current-carrying wire.
+ The wire is perpendicular to the plane of the paper.
+ A ring of compass needles surrounds the wire.
+ The orientation of the needles is shown when (a) the current emer ges out of the plane of the paper, (b) the current moves into the plane of the paper.
+ (c) The arrangement of iron filings around the wire.
+ The darkened ends of the needle represent north poles.
+ The effect of the earth’s magnetic field is neglected.
+2 MAGNETIC F ORCE 4.
+1 Sources and fields Before we introduce the concept of a magnetic field B, we shall recapitulate what we have learnt in Chapter 1 about the electric field E.
+ We have seen that the interaction between two charges can be considered in two stages.
+ The charge Q, the source of the field, produces an electric field E, where  Hans Christian Oersted (1777–1851) Danish physicist and chemist, professor at Copenhagen.
+ He observed that a compass needle suffers a deflection when placed near a wire carrying an electric current.
+ This discovery gave the first empirical evidence of a connection between electric and magnetic phenomena.
+  * A dot appears like the tip of an arrow pointed at you, a cross is like the feathered tail of an arrow moving away from you.
+  HANS CHRISTIAN OERSTED (1777–1851)  In this chapter, we will see how magnetic field exerts forces on moving charged particles, like electrons, protons, and current-carrying wires.
+ We shall also learn how currents produce magnetic fields.
+ We shall see how particles can be accelerated to very high energies in a cyclotron.
+ We shall study how currents and voltages are detected by a galvanometer.
+ In this and subsequent Chapter on magnetism, we adopt the following convention: A current or a field (electric or magnetic) emerging out of the plane of the paper is depicted by a dot (¤).
+ A current or a field going into the plane of the paper is depicted by a cross ( ⊗ )*.
+1(b) correspond to these two situations, respectively.
+  133  2015-16(20/01/2015)  Physics E = Q r̂ / (4πε0 )r2  (4.
+1)  where r̂ is unit vector along r, and the field E is a vector field.
+ A charge q interacts with this field and experiences a force F given by  HENDRIK ANTOON LORENTZ (1853 – 1928)  F = q E = q Q r̂ / (4πε0 ) r 2  134  Hendrik Antoon Lorentz (1853 – 1928) Dutch theoretical physicist, professor at Leiden.
+ He investigated the relationship between electricity, magnetism, and mechanics.
+ In order to explain the observed effect of magnetic fields on emitters of light (Zeeman effect), he postulated the existence of electric charges in the atom, for which he was awarded the Nobel Prize in 1902.
+ He derived a set of transformation equations (known after him, as Lorentz transformation equations) by some tangled mathematical arguments, but he was not aware that these equations hinge on a new concept of space and time.
+2)  As pointed out in the Chapter 1, the field E is not just an artefact but has a physical role.
+ It can convey energy and momentum and is not established instantaneously but takes finite time to propagate.
+ The concept of a field was specially stressed by Faraday and was incorporated by Maxwell in his unification of electricity and magnetism.
+ In addition to depending on each point in space, it can also vary with time, i.
+, be a function of time.
+ In our discussions in this chapter, we will assume that the fields do not change with time.
+ The field at a particular point can be due to one or more charges.
+ If there are more charges the fields add vectorially.
+ You have already learnt in Chapter 1 that this is called the principle of superposition.
+ Once the field is known, the force on a test charge is given by Eq.
+ Just as static charges produce an electric field, the currents or moving charges produce (in addition) a magnetic field, denoted by B (r), again a vector field.
+ It has several basic properties identical to the electric field.
+ It is defined at each point in space (and can in addition depend on time).
+ Experimentally, it is found to obey the principle of superposition: the magnetic field of several sources is the vector addition of magnetic field of each individual source.
+2 Magnetic Field, Lorentz Force  Let us suppose that there is a point charge q (moving with a velocity v and, located at r at a given time t ) in presence of both the electric field E (r) and the magnetic field B (r).
+ The force on an electric charge q due to both of them can be written as F = q [ E (r) + v × B (r)] ≡ F electric +Fmagnetic (4.
+3)  This force was given first by H.
+ Lorentz based on the extensive experiments of Ampere and others.
+ It is called the Lorentz force.
+ You have already studied in detail the force due to the electric field.
+ If we look at the interaction with the magnetic field, we find the following features.
+ (i) It depends on q, v and B (charge of the particle, the velocity and the magnetic field).
+ Force on a negative charge is opposite to that on a positive charge.
+ (ii) The magnetic force q [ v × B ] includes a vector product of velocity and magnetic field.
+ The vector product makes the force due to magnetic  2015-16(20/01/2015)  Moving Charges and Magnetism field vanish (become zero) if velocity and magnetic field are parallel or anti-parallel.
+ The force acts in a (sideways) direction perpendicular to both the velocity and the magnetic field.
+ Its direction is given by the screw rule or right hand rule for vector (or cross) product as illustrated in Fig.
+ (iii) The magnetic force is zero if charge is not moving (as then |v|= 0).
+ Only a moving charge feels the magnetic force.
+ The expression for the magnetic force helps us to define the unit of the magnetic field, if one takes q, F and v, all to be unity in the force FIGURE 4.
+2 The direction of the magnetic equation F = q [ v × B] =q v B sin θ n̂ , where θ force acting on a charged particle.
+ (a) The is the angle between v and B [see Fig.
+ force on a positively charged particle with The magnitude of magnetic field B is 1 SI unit, velocity v and making an angle θ with the when the force acting on a unit charge (1 C), magnetic field B is given by the right-hand moving perpendicular to B with a speed 1m/s, rule.
+ (b) A moving charged particle q is is one newton.
+ deflected in an opposite sense to –q in the presence of magnetic field.
+ Dimensionally, we have [B] = [F/qv] and the unit of B are Newton second / (coulomb metre).
+ This unit is called tesla ( T) named after Nikola Tesla (1856 – 1943).
+ Tesla is a rather large unit.
+ A smaller unit (non-SI) called gauss (=10–4 tesla) is also often used.
+ The earth’s magnetic field is about 3.
+1 lists magnetic fields over a wide range in the universe.
+1 ORDER OF  MAGNITUDES OF MAGNETIC FIELDS IN A VARIETY OF PHYSICAL SITUATIONS  Physical situation  Magnitude of B (in tesla)  Surface of a neutron star Typical large field in a laboratory  10 8 1  Near a small bar magnet  10 –2  On the earth’s surface  10 –5  Human nerve fibre  10 –10  Interstellar space  10 –12  4.
+3 Magnetic force on a current-carrying conductor We can extend the analysis for force due to magnetic field on a single moving charge to a straight rod carrying current.
+ Consider a rod of a uniform cross-sectional area A and length l.
+ We shall assume one kind of mobile carriers as in a conductor (here electrons).
+ Let the number density of these mobile charge carriers in it be n.
+ Then the total number of mobile charge carriers in it is nlA.
+ For a steady current I in this conducting rod, we may assume that each mobile carrier has an average  135  2015-16(20/01/2015)  Physics drift velocity v d (see Chapter 3).
+ In the presence of an external magnetic field B, the force on these carriers is: F = (nlA)q vd ×× ×B where q is the value of the charge on a carrier.
+ Now nqvd is the current density j and |(nq vd )|A is the current I (see Chapter 3 for the discussion of current and current density).
+ Thus, F = [(nqvd )l A] × B = [ jAl ] × B (4.
+4) = Il × B where l is a vector of magnitude l, the length of the rod, and with a direction identical to the current I.
+ Note that the current I is not a vector.
+ In the last step leading to Eq.
+4), we have transferred the vector sign from j to I.
+4) holds for a straight rod.
+ In this equation, B is the external magnetic field.
+ It is not the field produced by the current-carrying rod.
+ If the wire has an arbitrary shape we can calculate the Lorentz force on it by considering it as a collection of linear strips dlj and summing F = ∑ Idl j × B j  This summation can be converted to an integral in most cases.
+  O N PERMITTIVITY  AND PERMEABILITY  136  EXAMPLE 4.
+1  In the universal law of gravitation, we say that any two point masses exert a force on each other which is proportional to the product of the masses m1, m2 and inversely proportional to the square of the distance r between them.
+ We write it as F = Gm 1m2 /r 2 where G is the universal constant of gravitation.
+ Similarly in Coulomb’s law of electrostatics we write the force between two point charges q1 , q2, separated by a distance r as F = kq 1q2/r 2 where k is a constant of proportionality.
+ In SI units, k is taken as 1/4πε where ε is the permittivity of the medium.
+ Also in magnetism, we get another constant, which in SI units, is taken as µ/4π where µ is the permeability of the medium.
+ Although G, ε and µ arise as proportionality constants, there is a difference between gravitational force and electromagnetic force.
+ While the gravitational force does not depend on the intervening medium, the electromagnetic force depends on the medium between the two charges or magnets.
+ Hence while G is a universal constant, ε and µ depend on the medium.
+ They have different values for different media.
+ The product εµ turns out to be related to the speed v of electromagnetic radiation in the medium through εµ =1/ v 2.
+ Electric permittivity ε is a physical quantity that describes how an electric field affects and is affected by a medium.
+ It is determined by the ability of a material to polarise in response to an applied field, and thereby to cancel, partially, the field inside the material.
+ Similarly, magnetic permeability µ is the ability of a substance to acquire magnetisation in magnetic fields.
+ It is a measure of the extent to which magnetic field can penetrate matter.
+1 A straight wire of mass 200 g and length 1.
+5 m carries a current of 2 A.
+ It is suspended in mid-air by a uniform horizontal magnetic field B (Fig.
+ What is the magnitude of the magnetic field?
+  2015-16(20/01/2015)  Moving Charges and Magnetism  FIGURE 4.
+3  Solution From Eq.
+4), we find that there is an upward force F, of magnitude IlB,.
+ For mid-air suspension, this must be balanced by the force due to gravity: m g = I lB B=  mg Il  Solution The velocity v of particle is along the x-axis, while B, the magnetic field is along the y-axis, so v × B is along the z-axis (screw rule or right-hand thumb rule).
+ So, (a) for electron it will be along –z axis.
+ (b) for a positive charge (proton) the force is along +z axis.
+3 MOTION  IN A  E XAMPLE 4.
+4  Charged particles moving in a magnetic field.
+ Interactive demonstration:  Example 4.
+2 If the magnetic field is parallel to the positive y-axis and the charged particle is moving along the positive x-axis (Fig.
+4), which way would the Lorentz force be for (a) an electron (negative charge), (b) a proton (positive charge).
+edu/~teb/optics/java/partmagn/index.
+html  E XAMPLE 4.
+5 Note that it would have been sufficient to specify m/l, the mass per unit length of the wire.
+ The earth’s magnetic field is approximately 4 × 10–5 T and we have ignored it.
+ =  MAGNETIC F IELD  We will now consider, in greater detail, the motion of a charge moving in a magnetic field.
+ We have learnt in Mechanics (see Class XI book, Chapter 6) that a force on a particle does work if the force has a component along (or opposed to) the direction of motion of the particle.
+ In the case of motion  137  2015-16(20/01/2015)  Physics  FIGURE 4.
+5 Circular motion  of a charge in a magnetic field, the magnetic force is perpendicular to the velocity of the particle.
+ So no work is done and no change in the magnitude of the velocity is produced (though the direction of momentum may be changed).
+ [Notice that this is unlike the force due to an electric field, q E, which can have a component parallel (or antiparallel) to motion and thus can transfer energy in addition to momentum.
+] We shall consider motion of a charged particle in a uniform magnetic field.
+ First consider the case of v perpendicular to B.
+ The perpendicular force, q v × B, acts as a centripetal force and produces a circular motion perpendicular to the magnetic field.
+ The particle will describe a circle if v and B are perpendicular to each other (Fig.
+ If velocity has a component along B, this component remains unchanged as the motion along the magnetic field will not be affected by the magnetic field.
+ The motion in a plane perpendicular to B is as before a circular one, thereby producing a helical motion (Fig.
+ You have already learnt in earlier classes (See Class XI, Chapter 4) that if r is the radius of the circular path of a particle, then a force of m v2 / r, acts perpendicular to the path towards the centre of the circle, and is called the centripetal force.
+ If the velocity v is perpendicular to the magnetic field B, the magnetic force is perpendicular to both v and B and acts like a centripetal force.
+ It has a magnitude q v B.
+ Equating the two expressions for centripetal force, m v 2/r = q v B, which gives r = m v / qB  (4.
+5)  for the radius of the circle described by the charged particle.
+ The larger the momentum, the larger is the radius and bigger the circle described.
+ If ω is the angular frequency, then v = ω r.
+ So, ω = 2π ν = q B/ m [4.
+6(a)] which is independent of the velocity or energy .
+ Here ν is the frequency of rotation.
+ The independence of ν from energy has important application in the design of a cyclotron (see Section 4.
+ The time taken for one revolution is T= 2π/ω ≡ 1/ν.
+ If there is a component of the velocity parallel to the magnetic field (denoted by v ||), it will make the particle move along the field and the path of the particle would be a helical one (Fig.
+ The distance moved along the magnetic field in one rotation is called pitch p.
+6 (a)], we have p = v ||T = 2πm v || / q B [4.
+6(b)] The radius of the circular component of motion is called the radius of the helix.
+6 Helical motion  138  2015-16(20/01/2015)  Moving Charges and Magnetism Example 4.
+3 What is the radius of the path of an electron (mass 9 × 10-31 kg and charge 1.
+6 × 10–19 C) moving at a speed of 3 ×107 m/s in a magnetic field of 6 × 10 –4 T perpendicular to it?
+ What is its –19 frequency?
+ Calculate its energy in keV.
+  HELICAL  EXAMPLE 4.
+3  Solution Using Eq.
+5) we find r = m v / (qB ) = 9 ×10–31 kg × 3 × 107 m s–1 / ( 1.
+6 × 10–19 C × 6 × 10–4 T ) = 26 × 10–2 m = 26 cm ν = v / (2 πr) = 2×106 s–1 = 2×106 Hz =2 MHz.
+ 2 –31 14 2 2 –17 E = (½ ) mv = (½ ) 9 × 10 kg × 9 × 10 m /s = 40.
+5 ×10 J –16 ≈ 4×10 J = 2.
+  MOTION OF CHARGED PARTICLES AND AURORA BOREALIS  In polar regions like Alaska and Northern Canada, a splendid display of colours is seen in the sky.
+ The appearance of dancing green pink lights is fascinating, and equally puzzling.
+ An explanation of this natural phenomenon is now found in physics, in terms of what we have studied here.
+ Consider a charged particle of mass m and charge q, entering a region of magnetic field B with an initial velocity v.
+ Let this velocity have a component vp parallel to the magnetic field and a component vn normal to it.
+ There is no force on a charged particle in the direction of the field.
+ Hence the particle continues to travel with the velocity vp parallel to the field.
+ The normal component vn of the particle results in a Lorentz force (vn × B) which is perpendicular to both vn and B.
+ As seen in Section 4.
+1 the particle thus has a tendency to perform a circular motion in a plane perpendicular to the magnetic field.
+ When this is coupled with the velocity parallel to the field, the resulting trajectory will be a helix along the magnetic field line, as shown in Figure (a) here.
+ Even if the field line bends, the helically moving particle is trapped and guided to move around the field line.
+ Since the Lorentz force is normal to the velocity of each point, the field does no work on the particle and the magnitude of velocity remains the same.
+  During a solar flare, a large number of electrons and protons are ejected from the sun.
+ Some of them get trapped in the earth’s magnetic field and move in helical paths along the field lines.
+ The field lines come closer to each other near the magnetic poles; see figure (b).
+ Hence the density of charges increases near the poles.
+ These particles collide with atoms and molecules of the atmosphere.
+ Excited oxygen atoms emit green light and excited nitrogen atoms emits pink light.
+ This phenomenon is called Aurora Borealis in physics.
+  139  2015-16(20/01/2015)  Physics 4.
+4 MOTION IN COMBINED ELECTRIC FIELDS  AND  MAGNETIC  4.
+1 Velocity selector You know that a charge q moving with velocity v in presence of both electric and magnetic fields experiences a force given by Eq.
+3), that is, F = q (E + v × B) = FE + FB We shall consider the simple case in which electric and magnetic fields are perpendicular to each other and also perpendicular to the velocity of the particle, as shown in Fig.
+ We have,  (  )  ˆ = –qB ˆj FE = qE = qE ˆj, FB = qv × B , = q v iˆ × Bk  FIGURE 4.
+7  Therefore, F = q ( E – vB ) ˆj .
+ Thus, electric and magnetic forces are in opposite directions as shown in the figure.
+ Suppose, we adjust the value of E and B such that magnitudes of the two forces are equal.
+ Then, total force on the charge is zero and the charge will move in the fields undeflected.
+ This happens when, E (4.
+7) B This condition can be used to select charged particles of a particular velocity out of a beam containing charges moving with different speeds (irrespective of their charge and mass).
+ The crossed E and B fields, therefore, serve as a velocity selector.
+ Only particles with speed E/B pass undeflected through the region of crossed fields.
+ This method was employed by J.
+ Thomson in 1897 to measure the charge to mass ratio (e/m) of an electron.
+ The principle is also employed in Mass Spectrometer – a device that separates charged particles, usually ions, according to their charge to mass ratio.
+  140  http://www.
+tw/ntnujava/index.
+0  Cyclotron Interactive demonstration:  qE = qvB or v =  4.
+2 Cyclotron The cyclotron is a machine to accelerate charged particles or ions to high energies.
+ It was invented by E.
+ Lawrence and M.
+ Livingston in 1934 to investigate nuclear structure.
+ The cyclotron uses both electric and magnetic fields in combination to increase the energy of charged particles.
+ As the fields are perpendicular to each other they are called crossed fields.
+ Cyclotron uses the fact that the frequency of revolution of the charged particle in a magnetic field is independent of its energy.
+ The particles move most of the time inside two semicircular disc-like metal containers, D1 and D2, which are called dees as they look like the letter D.
+8 shows a schematic view of the cyclotron.
+ Inside the metal boxes the particle is shielded and is not acted on by the electric field.
+ The magnetic field, however, acts on the particle and makes it go round in a circular path inside a dee.
+ Every time the particle moves from one dee to another it is acted upon by the electric field.
+ The sign of the electric field is changed alternately in tune with the circular motion of the particle.
+ This ensures that the particle is always accelerated by the electric field.
+ Each time the acceleration increases the energy of the particle.
+ As energy  2015-16(20/01/2015)  Moving Charges and Magnetism increases, the radius of the circular path increases.
+ So the path is a spiral one.
+ The whole assembly is evacuated to minimise collisions between the ions and the air molecules.
+ A high frequency alternating voltage is applied to the dees.
+ In the sketch shown in Fig.
+8, positive ions or positively charged particles (e.
+, protons) are released at the centre P.
+ They move in a semi-circular path in one of the dees and arrive in the gap between the dees in a time interval T/2; where T, the period of revolution, is given by Eq.
+6), T =  1  νc  or ν c =  =  2 πm qB  qB 2πm  (4.
+8)  This frequency is called the cyclotron frequency for obvious reasons and is denoted by νc .
+ The frequency νa of the applied voltage is adjusted so that the polarity of the dees is reversed in the same time that it takes the ions to complete one half of the revolution.
+ The requirement νa = ν c is called the resonance condition.
+ The phase of the supply is adjusted so that when the positive ions arrive at the edge of D1, D2 is at a lower potential and the ions are accelerated across the gap.
+ Inside the dees the particles travel in a region free of the electric field.
+ The increase in their kinetic energy is qV each time they cross from one dee to another (V refers to the voltage across the dees at that time).
+5), it is clear that the radius of their path goes on increasing each time their kinetic energy increases.
+ The ions are repeatedly accelerated across the dees until they have the required energy to have a radius approximately that of the dees.
+ They are then deflected by a magnetic field and leave the system via an exit slit.
+5) we have, qBR (4.
+9) m where R is the radius of the trajectory at exit, and equals the radius of a dee.
+ Hence, the kinetic energy of the ions is, v =  1 q2 B 2 R 2 mv 2 = 2 2m  (4.
+10)  The operation of the cyclotron is based on the fact that the time for one revolution of an ion is independent of its speed or radius of its orbit.
+ The cyclotron is used to bombard nuclei with energetic particles, so accelerated by it, and study  FIGURE 4.
+8 A schematic sketch of the cyclotron.
+ There is a source of charged particles or ions at P which move in a circular fashion in the dees, D1 and D 2, on account of a uniform perpendicular magnetic field B.
+ An alternating voltage source accelerates these ions to high speeds.
+ The ions are eventually ‘extracted’ at the exit port.
+  141  2015-16(20/01/2015)  Physics the resulting nuclear reactions.
+ It is also used to implant ions into solids and modify their properties or even synthesise new materials.
+ It is used in hospitals to produce radioactive substances which can be used in diagnosis and treatment.
+4 A cyclotron’s oscillator frequency is 10 MHz.
+ What should be the operating magnetic field for accelerating protons?
+ If the radius of its ‘dees’ is 60 cm, what is the kinetic energy (in MeV) of the proton beam produced by the accelerator.
+ –19  E XAMPLE 4.
+60 × 10  C, mp = 1.
+67 × 10  –27  kg, 1 MeV = 1.
+6 × 10  –13  J).
+  Solution The oscillator frequency should be same as proton’s cyclotron frequency.
+6(a)] we have B = 2π m ν/q =6.
+67 × 10 –27 × 107 / (1.
+66 T Final velocity of protons is v = r × 2π ν = 0.
+ 2  E = ½ mv = 1.
+67 ×10  –27  × 14.
+3 × 10  ACCELERATORS  IN  14  –13  / (2 × 1.
+6 × 10  ) = 7 MeV.
+  I NDIA  India has been an early entrant in the area of accelerator- based research.
+ The vision of Dr.
+ Meghnath Saha created a 37" Cyclotron in the Saha Institute of Nuclear Physics in Kolkata in 1953.
+ This was soon followed by a series of Cockroft-Walton type of accelerators established in Tata Institute of Fundamental Research (TIFR), Mumbai, Aligarh Muslim University (AMU), Aligarh, Bose Institute, Kolkata and Andhra University, Waltair.
+ The sixties saw the commissioning of a number of Van de Graaff accelerators: a 5.
+5 MV terminal machine in Bhabha Atomic Research Centre (BARC), Mumbai (1963); a 2 MV terminal machine in Indian Institute of Technology (IIT), Kanpur; a 400 kV terminal machine in Banaras Hindu University (BHU), Varanasi; and Punjabi University, Patiala.
+ One 66 cm Cyclotron donated by the Rochester University of USA was commissioned in Panjab University, Chandigarh.
+ A small electron accelerator was also established in University of Pune, Pune.
+ In a major initiative taken in the seventies and eighties, a Variable Energy Cyclotron was built indigenously in Variable Energy Cyclotron Centre (VECC), Kolkata; 2 MV Tandem Van de Graaff accelerator was developed and built in BARC and a 14 MV Tandem Pelletron accelerator was installed in TIFR.
+ This was soon followed by a 15 MV Tandem Pelletron established by University Grants Commission (UGC), as an inter-university facility in Inter-University Accelerator Centre (IUAC), New Delhi; a 3 MV Tandem Pelletron in Institute of Physics, Bhubaneshwar; and two 1.
+7 MV Tandetrons in Atomic Minerals Directorate for Exploration and Research, Hyderabad and Indira Gandhi Centre for Atomic Research, Kalpakkam.
+ Both TIFR and IUAC are augmenting their facilities with the addition of superconducting LINAC modules to accelerate the ions to higher energies.
+ Besides these ion accelerators, the Department of Atomic Energy (DAE) has developed many electron accelerators.
+ A 2 GeV Synchrotron Radiation Source is being built in Raja Ramanna Centre for Advanced Technologies, Indore.
+ The Department of Atomic Energy is considering Accelerator Driven Systems (ADS) for power production and fissile material breeding as future options.
+  142  2015-16(20/01/2015)  Moving Charges and Magnetism  4.
+5 MAGNETIC FIELD DUE B IOT-SAVART LAW  TO A  CURRENT ELEMENT,  All magnetic fields that we know are due to currents (or moving charges) and due to intrinsic magnetic moments of particles.
+ Here, we shall study the relation between current and the magnetic field it produces.
+ It is given by the Biot-Savart’s law.
+9 shows a finite conductor XY carrying current I.
+ Consider an infinitesimal element dl of the conductor.
+ The magnetic field dB due to this element is to be determined at a point P which is at a distance r from it.
+ Let θ be the angle between dl and the displacement vector r.
+ According to Biot-Savart’s law, the magnitude of the magnetic field dB is proportional to the current I, the element length |dl|, and inversely proportional to the square of the distance r.
+ Its direction* is perpendicular to the plane containing dl and r .
+ Thus, in vector notation, dB ∝ =  I dl × r r3  µ0 I d l × r 4π  r3  [4.
+11(a)]  where µ0/4π is a constant of proportionality.
+ The above expression holds when the medium is vacuum.
+ The magnitude of this field is, dB =  µ 0 I dl sin θ  FIGURE 4.
+9 Illustration of the Biot-Savart law.
+ The current element I dl produces a field d B at a distance r.
+ The ⊗ sign indicates that the field is perpendicular to the plane of this page and directed into it.
+11(b)] 4π r2 where we have used the property of cross-product.
+11 (a)] constitutes our basic equation for the magnetic field.
+ The proportionality constant in SI units has the exact value, µ0 = 10 −7 Tm/A [4.
+11(c)] 4π We call µ0 the permeability of free space (or vacuum).
+ The Biot-Savart law for the magnetic field has certain similarities as well as differences with the Coulomb’s law for the electrostatic field.
+ Some of these are: (i) Both are long range, since both depend inversely on the square of distance from the source to the point of interest.
+ The principle of superposition applies to both fields.
+ [In this connection, note that the magnetic field is linear in the source I dl just as the electrostatic field is linear in its source: the electric charge.
+] (ii) The electrostatic field is produced by a scalar source, namely, the electric charge.
+ The magnetic field is produced by a vector source I dl.
+ * The sense of dl × r is also given by the Right Hand Screw rule : Look at the plane containing vectors dl and r.
+ Imagine moving from the first vector towards second vector.
+ If the movement is anticlockwise, the resultant is towards you.
+ If it is clockwise, the resultant is away from you.
+  143  2015-16(20/01/2015)  Physics (iii) The electrostatic field is along the displacement vector joining the source and the field point.
+ The magnetic field is perpendicular to the plane containing the displacement vector r and the current element I dl.
+ (iv) There is an angle dependence in the Biot-Savart law which is not present in the electrostatic case.
+9, the magnetic field at any point in the direction of dl (the dashed line) is zero.
+ Along this line, θ = 0, sin θ = 0 and from Eq.
+11(a)], |dB| = 0.
+ There is an interesting relation between ε 0, the permittivity of free space; µ , the permeability of free space; and c, the speed of light in vacuum: 0  1  1 1  µ0   −7 = =  9  10 8 2 =  4 π  9 × 10  (3 ×10 ) c2  (  ε 0 µ0 = ( 4 πε 0 )   )  We will discuss this connection further in Chapter 8 on the electromagnetic waves.
+ Since the speed of light in vacuum is constant, the product µ0ε 0 is fixed in magnitude.
+ Choosing the value of either ε 0 or µ0, fixes the value of the other.
+ In SI units, µ0 is fixed to be equal to 4π × 10–7 in magnitude.
+5 An element ∆ l = ∆x ˆi is placed at the origin and carries a large current I = 10 A (Fig.
+ What is the magnetic field on the y-axis at a distance of 0.
+10  Solution |dB | =  µ0 I dl sin θ 4π  r2  [using Eq.
+11)]  dl = ∆x = 10 −2 m , I = 10 A, r = 0.
+5 m = y, µ0 / 4π = 10− 7  Tm A  θ = 90° ; sin θ = 1 10−7 × 10 × 10 −2 = 4 × 10–8 T 25 × 10−2 The direction of the field is in the +z-direction.
+ This is so since,  144  EXAMPLE 4.
+5  dB =  (  )  ˆ dl × r = ∆x iˆ × y ˆj = y ∆ x iˆ × ˆj = y ∆x k We r emind you of the following cyclic property of cr oss-products, ˆi × ˆj = k ˆ ; ˆj × k ˆ = ˆi ; k ˆ × ˆi = ˆj  Note that the field is small in magnitude.
+  2015-16(20/01/2015)  Moving Charges and Magnetism In the next section, we shall use the Biot-Savart law to calculate the magnetic field due to a circular loop.
+6 MAGNETIC FIELD CURRENT LOOP  ON THE  AXIS  OF A  CIRCULAR  In this section, we shall evaluate the magnetic field due to a circular coil along its axis.
+ The evaluation entails summing up the effect of infinitesimal current elements (I dl) mentioned in the previous section.
+ We assume that the current I is steady and that the evaluation is carried out in free space (i.
+11 depicts a circular loop carrying a steady current I.
+ The loop is placed in the y-z plane with its centre at the origin O and has a radius R.
+ The x-axis is the axis of the loop.
+ We wish to calculate the magnetic field at the point P on this axis.
+ Let x be the distance of P from the centre O of the loop.
+ Consider a conducting element dl of the loop.
+ This is shown in Fig.
+ The magnitude dB of the magnetic field due to dl is given by the Biot-Savart law [Eq.
+11(a)],  dB =  µ0 I dl × r 4π r3  (4.
+12)  Now r 2 = x 2 + R 2 .
+ Further, any element of the loop will be perpendicular to the displacement vector from the element to the axial point.
+ For example, the element dl in Fig.
+11 is in the y-z plane whereas the displacement vector r from dl to the axial point P is in the x-y plane.
+ Hence |dl × r|=r dl.
+ Thus, dB =  µ0 I dl 4π x 2 + R 2  (  )  FIGURE 4.
+11 Magnetic field on the axis of a current carrying circular loop of radius R.
+ Shown are the magnetic field dB (due to a line element dl ) and its components along and perpendicular to the axis.
+13)  The direction of dB is shown in Fig.
+ It is perpendicular to the plane formed by dl and r.
+ It has an x-component dB x and a component perpendicular to x-axis, dB ⊥.
+ When the components perpendicular to the x-axis are summed over, they cancel out and we obtain a null result.
+ For example, the dB ⊥ component due to dl is cancelled by the contribution due to the diametrically opposite dl element, shown in Fig.
+ Thus, only the x-component survives.
+ The net contribution along x-direction can be obtained by integrating dBx = dB cos θ over the loop.
+11,  cos θ =  R ( x + R 2 )1/ 2  (4.
+14)  2  From Eqs.
+14),  dBx =  µ0 Idl 4π  R  (x  2  + R2  )  3 /2  145  2015-16(20/01/2015)  Physics The summation of elements dl over the loop yields 2πR, the circumference of the loop.
+ Thus, the magnetic field at P due to entire circular loop is B = B x ˆi =  µ0I R 2  ˆ 3 /2 i (4.
+15) 2 x 2 + R2 As a special case of the above result, we may obtain the field at the centre of the loop.
+ Here x = 0, and we obtain, B0 =  (  )  µ0 I ˆ i  (4.
+16) 2R The magnetic field lines due to a circular wire form closed loops and are shown in Fig.
+ The direction of the magnetic field is given by (another) right-hand thumb rule stated below: Curl the palm of your right hand around the circular wire with the fingers pointing in the direction of the current.
+ The right-hand thumb gives the direction of the magnetic field.
+12 The magnetic field lines for a current loop.
+ The direction of the field is given by the right-hand thumb rule described in the text.
+ The upper side of the loop may be thought of as the north pole and the lower side as the south pole of a magnet.
+  146  EXAMPLE 4.
+6 A straight wire carrying a current of 12 A is bent into a semi-circular arc of radius 2.
+0 cm as shown in Fig.
+ Consider the magnetic field B at the centre of the arc.
+ (a) What is the magnetic field due to the straight segments?
+ (b) In what way the contribution to B from the semicircle differs from that of a circular loop and in what way does it resemble?
+ (c) Would your answer be dif ferent if the wire were bent into a semi-circular arc of the same radius but in the opposite way as shown in Fig.
+13  2015-16(20/01/2015)  Moving Charges and Magnetism  EXAMPLE 4.
+6  Solution (a) dl and r for each element of the straight segments are parallel.
+ Therefore, dl × r = 0.
+ Straight segments do not contribute to |B|.
+ (b) For all segments of the semicircular arc, dl × r are all parallel to each other (into the plane of the paper).
+ All such contributions add up in magnitude.
+ Hence direction of B for a semicircular arc is given by the right-hand rule and magnitude is half that of a –4 circular loop.
+9 × 10 T normal to the plane of the paper going into it.
+ (c) Same magnitude of B but opposite in direction to that in (b).
+7 Consider a tightly wound 100 turn coil of radius 10 cm, carrying a current of 1 A.
+ What is the magnitude of the magnetic field at the centre of the coil?
+  B=  µ 0 NI 2R  =  4 π × 10 –7 × 102 × 1 −4 = 2 π × 10 −4 = 6.
+28 × 10 T 2 × 10–1  EXAMPLE 4.
+7  Solution Since the coil is tightly wound, we may take each circular element to have the same radius R = 10 cm = 0.
+ The number of turns N = 100.
+ The magnitude of the magnetic field is,  4.
+7 AMPERE’S C IRCUITAL LAW There is an alternative and appealing way in which the Biot-Savart law may be expressed.
+ Ampere’s circuital law considers an open surface with a boundary (Fig.
+ The surface has current passing through it.
+ We consider the boundary to be made up of a number of small line elements.
+ Consider one such element of length dl.
+ We take the value of the tangential component of the magnetic field, B t, at this element and multiply it by the length of that element dl [Note: Bt dl=B .
+ All such products are added together.
+ We consider the limit as the lengths of elements get smaller and their number gets larger.
+ The sum then tends to an integral.
+ Ampere’s law states that this integral is equal to µ0 times the total current FIGURE 4.
+14 passing through the surface, i.
+,  ∫ Bidl = µ I 0  [4.
+17(a)]  where I is the total current through the surface.
+ The integral is taken over the closed loop coinciding with the boundary C of the surface.
+ The relation above involves a sign-convention, given by the right-hand rule.
+ Let the fingers of the right-hand be curled in the sense the boundary is traversed in the loop integral “B .
+ Then the direction of the thumb gives the sense in which the current I is regarded as positive.
+ For several applications, a much simplified version of Eq.
+17(a)] proves sufficient.
+ We shall assume that, in such cases, it is possible to choose the loop (called an amperian loop) such that at each point of the loop, either  147  2015-16(20/01/2015)  Physics (i)  B is tangential to the loop and is a non-zero constant B, or  (ii) B is normal to the loop, or (iii) B vanishes.
+ Now, let L be the length (part) of the loop for which B is tangential.
+ Let Ie be the current enclosed by the loop.
+17) reduces to,  ANDRE AMPERE (1775 –1836)  BL =µ0I e  148  Andre Ampere (1775 – 1836) Andre Marie Ampere was a French physicist, mathematician and chemist who founded the science of electrodynamics.
+ Ampere was a child prodigy who mastered advanced mathematics by the age of 12.
+ Ampere grasped the significance of Oersted’s discovery.
+ He carried out a large series of experiments to explore the relationship between current electricity and magnetism.
+ These investigations culminated in 1827 with the publication of the ‘Mathematical Theory of Electrodynamic Phenomena Deduced Solely from Experiments’.
+ He hypothesised that all magnetic phenomena are due to circulating electric currents.
+ Ampere was humble and absentminded.
+ He once forgot an invitation to dine with the Emperor Napoleon.
+ He died of pneumonia at the age of 61.
+ His gravestone bears the epitaph: Tandem Felix (Happy at last).
+17(b)]  When there is a system with a symmetry such as for a straight infinite current-carrying wire in Fig.
+15, the Ampere’s law enables an easy evaluation of the magnetic field, much the same way Gauss’ law helps in determination of the electric field.
+ This is exhibited in the Example 4.
+ The boundary of the loop chosen is a circle and magnetic field is tangential to the circumference of the circle.
+ The law gives, for the left hand side of Eq.
+ We find that the magnetic field at a distance r outside the wire is tangential and given by B × 2πr = µ0 I, B = µ0 I/ (2πr)  (4.
+18)  The above result for the infinite wire is interesting from several points of view.
+ (i) It implies that the field at every point on a circle of radius r, (with the wire along the axis), is same in magnitude.
+ In other words, the magnetic field possesses what is called a cylindrical symmetry.
+ The field that normally can depend on three coordinates depends only on one: r.
+ Whenever there is symmetry, the solutions simplify.
+ (ii) The field direction at any point on this circle is tangential to it.
+ Thus, the lines of constant magnitude of magnetic field form concentric circles.
+ Notice now, in Fig.
+1(c), the iron filings form concentric circles.
+ These lines called magnetic field lines form closed loops.
+ This is unlike the electrostatic field lines which originate from positive charges and end at negative charges.
+ The expression for the magnetic field of a straight wire provides a theoretical justification to Oersted’s experiments.
+ (iii) Another interesting point to note is that even though the wire is infinite, the field due to it at a nonzero distance is not infinite.
+ It tends to blow up only when we come very close to the wire.
+ The field is directly proportional to the current and inversely proportional to the distance from the (infinitely long) current source.
+  2015-16(20/01/2015)  Moving Charges and Magnetism (iv) There exists a simple rule to determine the direction of the magnetic field due to a long wire.
+ This rule, called the right-hand rule*, is: Grasp the wire in your right hand with your extended thumb pointing in the direction of the current.
+ Your fingers will curl around in the direction of the magnetic field.
+ Ampere’s circuital law is not new in content from Biot-Savart law.
+ Both relate the magnetic field and the current, and both express the same physical consequences of a steady electrical current.
+ Ampere’s law is to Biot-Savart law, what Gauss’s law is to Coulomb’s law.
+ Both, Ampere’s and Gauss’s law relate a physical quantity on the periphery or boundary (magnetic or electric field) to another physical quantity, namely, the source, in the interior (current or charge).
+ We also note that Ampere’s circuital law holds for steady currents which do not fluctuate with time.
+ The following example will help us understand what is meant by the term enclosed current.
+15 shows a long straight wire of a circular cross-section (radius a) carrying steady current I.
+ The current I is uniformly distributed across this cross-section.
+ Calculate the magnetic field in the region r < a and r > a.
+15  Solution (a) Consider the case r > a .
+ The Amperian loop, labelled 2, is a circle concentric with the cross-section.
+ For this loop, L = 2π r Ie = Current enclosed by the loop = I The result is the familiar expression for a long straight wire B (2π r) = µ 0I B=  µ0 I 2 πr  [4.
+19(a)]  L =2πr  * Note that there are two distinct right-hand rules: One which gives the direction of B on the axis of current-loop and the other which gives direction of B for a straight conducting wire.
+ Fingers and thumb play different roles in the two.
+8  1 (r > a) r (b) Consider the case r < a.
+ The Amperian loop is a circle labelled 1.
+ For this loop, taking the radius of the circle to be r, B∝  149  2015-16(20/01/2015)  Physics Now the current enclosed I e is not I, but is less than this value.
+ Since the current distribution is uniform, the current enclosed is,   πr 2  Ir 2 Ie = I  2  = 2  πa  a Using Ampere’s law, B (2 π r ) = µ 0  I r2 a2   µI  B =  0 2 r  2 πa   B∝r  [4.
+19(b)]  (r < a)  EXAMPLE 4.
+16) shows a plot of the magnitude of B with distance r from the centre of the wire.
+ The direction of the field is tangential to the respective circular loop (1 or 2) and given by the right-hand rule described earlier in this section.
+ This example possesses the required symmetry so that Ampere’s law can be applied readily.
+ It should be noted that while Ampere’s circuital law holds for any loop, it may not always facilitate an evaluation of the magnetic field in every case.
+ For example, for the case of the circular loop discussed in Section 4.
+6, it cannot be applied to extract the simple expression B = µ0I/2R [Eq.
+16)] for the field at the centre of the loop.
+ However, there exists a large number of situations of high symmetry where the law can be conveniently applied.
+ We shall use it in the next section to calculate the magnetic field produced by two commonly used and very useful magnetic systems: the solenoid and the toroid.
+8 THE SOLENOID  150  AND THE  TOROID  The solenoid and the toroid are two pieces of equipment which generate magnetic fields.
+ The television uses the solenoid to generate magnetic fields needed.
+ The synchrotron uses a combination of both to generate the high magnetic fields required.
+ In both, solenoid and toroid, we come across a situation of high symmetry where Ampere’s law can be conveniently applied.
+  2015-16(20/01/2015)  Moving Charges and Magnetism 4.
+1 The solenoid We shall discuss a long solenoid.
+ By long solenoid we mean that the solenoid’s length is large compared to its radius.
+ It consists of a long wire wound in the form of a helix where the neighbouring turns are closely spaced.
+ So each turn can be regarded as a circular loop.
+ The net magnetic field is the vector sum of the fields due to all the turns.
+ Enamelled wires are used for winding so that turns are insulated from each other.
+17 (a) The magnetic field due to a section of the solenoid which has been stretched out for clarity.
+ Only the exterior semi-circular part is shown.
+ Notice how the circular loops between neighbouring turns tend to cancel.
+ (b) The magnetic field of a finite solenoid.
+17 displays the magnetic field lines for a finite solenoid.
+ We show a section of this solenoid in an enlarged manner in Fig.
+17(b) shows the entire finite solenoid with its magnetic field.
+17(a), it is clear from the circular loops that the field between two neighbouring turns vanishes.
+17(b), we see that the field at the interior mid-point P is uniform, strong and along the axis of the solenoid.
+ The field at the exterior mid-point Q is weak and moreover is along the axis of the solenoid with no perpendicular or normal component.
+ As the solenoid is made longer it appears like a long cylindrical metal sheet.
+18 represents this idealised picture.
+ The field outside the solenoid approaches zero.
+ We shall assume that the field outside is zero.
+ The field inside becomes everywhere parallel to the axis.
+18 The magnetic field of a very long solenoid.
+ We consider a rectangular Amperian loop abcd to determine the field.
+  151  2015-16(20/01/2015)  Physics Consider a rectangular Amperian loop abcd.
+ Along cd the field is zero as argued above.
+ Along transverse sections bc and ad, the field component is zero.
+ Thus, these two sections make no contribution.
+ Let the field along ab be B.
+ Thus, the relevant length of the Amperian loop is, L = h.
+ Let n be the number of turns per unit length, then the total number of turns is nh.
+ The enclosed current is, Ie = I (n h), where I is the current in the solenoid.
+ From Ampere’s circuital law [Eq.
+17 (b)] BL = µ0I e,  B h = µ0I (n h)  B = µ0 n I (4.
+20) The direction of the field is given by the right-hand rule.
+ The solenoid is commonly used to obtain a uniform magnetic field.
+ We shall see in the next chapter that a large field is possible by inserting a soft iron core inside the solenoid.
+2 The toroid The toroid is a hollow circular ring on which a large number of turns of a wire are closely wound.
+ It can be viewed as a solenoid which has been bent into a circular shape to close on itself.
+ It is shown in Fig.
+19(a) carrying a current I.
+ We shall see that the magnetic field in the open space inside (point P) and exterior to the toroid (point Q) is zero.
+ The field B inside the toroid is constant in magnitude for the ideal toroid of closely wound turns.
+19(b) shows a sectional view of the toroid.
+ The direction of the magnetic field inside is clockwise as per the right-hand thumb rule for circular loops.
+ Three circular Amperian loops 1, 2 and 3 are shown by dashed lines.
+ By symmetry, the magnetic field should be tangential to each of them and constant in magnitude for a given loop.
+ The circular areas bounded by loops 2 and 3 both cut the toroid: so that each turn of current carrying wire is cut once by the loop 2 and twice by the loop 3.
+ Let the magnetic field along loop 1 be B 1 in magnitude.
+ Then in Ampere’s circuital law [Eq.
+17(a)], L = 2π r1.
+ However, the loop encloses no current, so Ie = 0.
+ Thus, FIGURE 4.
+19 (a) A toroid carrying a current I.
+ (b) A sectional view of the toroid.
+ The magnetic field can be obtained at an arbitrary distance r from the centre O of the toroid by Ampere’s circuital law.
+ The dashed lines labelled 1, 2 and 3 are three circular Amperian loops.
+  152  B 1 (2 π r1) = µ0(0),  B1 = 0  Thus, the magnetic field at any point P in the open space inside the toroid is zero.
+ We shall now show that magnetic field at Q is likewise zero.
+ Let the magnetic field along loop 3 be B 3.
+ Once again from Ampere’s law L = 2 π r3.
+ However, from the sectional cut, we see that the current coming out of the plane of the paper is cancelled exactly by the current going into it.
+ Thus, I e= 0, and B3 = 0.
+ Let the magnetic field inside the solenoid be B.
+ We shall now consider the magnetic field at S.
+ Once again we employ Ampere’s law in the form of Eq.
+ We find, L = 2π r.
+ The current enclosed Ie is (for N turns of toroidal coil) N I.
+ B (2πr) = µ0NI  2015-16(20/01/2015)  Moving Charges and Magnetism B=  µ 0NI  (4.
+21) 2π r We shall now compare the two results: for a toroid and solenoid.
+ We re-express Eq.
+21) to make the comparison easier with the solenoid result given in Eq.
+ Let r be the average radius of the toroid and n be the number of turns per unit length.
+ Then N = 2πr n = (average) perimeter of the toroid × number of turns per unit length and thus, B = µ0 n I, (4.
+, the result for the solenoid! In an ideal toroid the coils are circular.
+ In reality the turns of the toroidal coil form a helix and there is always a small magnetic field external to the toroid.
+  M AGNETIC CONFINEMENT We have seen in Section 4.
+3 (see also the box on helical motion of charged particles earlier in this chapter) that orbits of charged particles are helical.
+ If the magnetic field is non-uniform, but does not change much during one circular orbit, then the radius of the helix will decrease as it enters stronger magnetic field and the radius will increase when it enters weaker magnetic fields.
+ We consider two solenoids at a distance from each other, enclosed in an evacuated container (see figure below where we have not shown the container).
+ Charged particles moving in the region between the two solenoids will start with a small radius.
+ The radius will increase as field decreases and the radius will decrease again as field due to the second solenoid takes over.
+ The solenoids act as a mirror or reflector.
+ [See the direction of F as the particle approaches coil 2 in the figure.
+ It has a horizontal component against the forward motion.
+] This makes the particles turn back when they approach the solenoid.
+ Such an arrangement will act like magnetic bottle or magnetic container.
+ The particles will never touch the sides of the container.
+ Such magnetic bottles are of great use in confining the high energy plasma in fusion experiments.
+ The plasma will destroy any other form of material container because of it’s high temperature.
+ Another useful container is a toroid.
+ Toroids are expected to play a key role in the tokamak, an equipment for plasma confinement in fusion power reactors.
+ There is an international collaboration called the International Thermonuclear Experimental Reactor (ITER), being set up in France, for achieving controlled fusion, of which India is a collaborating nation.
+ For details of ITER collaboration and the project, you may visit http://www.
+  153  2015-16(20/01/2015)  Physics Example 4.
+9 A solenoid of length 0.
+5 m has a radius of 1 cm and is made up of 500 turns.
+ It carries a current of 5 A.
+ What is the magnitude of the magnetic field inside the solenoid?
+ Solution The number of turns per unit length is, 500 = 1000 turns/m 0.
+5 The length l = 0.
+5 m and radius r = 0.
+ Thus, l/a = 50 i.
+ Hence, we can use the long solenoid formula, namely, Eq.
+20) B = µ0n I = 4π × 10–7 × 103 × 5 = 6.
+28 × 10–3 T  EXAMPLE 4.
+9 FORCE BETWEEN TWO PARALLEL CURRENTS , THE AMPERE We have learnt that there exists a magnetic field due to a conductor carrying a current which obeys the Biot-Savart law.
+ Further, we have learnt that an external magnetic field will exert a force on a current-carrying conductor.
+ This follows from the Lorentz force formula.
+ Thus, it is logical to expect that two current-carrying conductors placed near each other will exert (magnetic) forces on each other.
+ In the period 1820-25, Ampere studied the nature of this magnetic force and its dependence on the magnitude of the current, on the shape and size of the conductors as well as the distances between the conductors.
+ In this section, we shall take the simple example of two parallel currentcarrying conductors, which will perhaps help us to appreciate Ampere’s painstaking work.
+20 shows two long parallel conductors a FIGURE 4.
+20 Two long straight and b separated by a distance d and carrying (parallel) parallel conductors carrying steady currents I a and Ib , respectively.
+ The conductor ‘a’ currents Ia and Ib and separated by a distance d.
+ Ba is the magnetic field set produces, the same magnetic field Ba at all points along up by conductor ‘a’ at conductor ‘b’.
+ the conductor ‘b’.
+ The right-hand rule tells us that the direction of this field is downwards (when the conductors are placed horizontally).
+ Its magnitude is given by Eq.
+19(a)] or from Ampere’s circuital law, Ba =  154  µ0I a 2πd  The conductor ‘b’ carrying a current I b will experience a sideways force due to the field B a.
+ The direction of this force is towards the conductor ‘a’ (Verify this).
+ We label this force as Fba, the force on a segment L of ‘b’ due to ‘a’.
+ The magnitude of this force is given by Eq.
+4),  2015-16(20/01/2015)  Moving Charges and Magnetism F ba = Ib L B a =  µ0 I a I b 2π d  L  (4.
+23)  It is of course possible to compute the force on ‘a’ due to ‘b’.
+ From considerations similar to above we can find the force Fab, on a segment of length L of ‘a’ due to the current in ‘b’.
+ It is equal in magnitude to Fba, and directed towards ‘b’.
+ Thus, Fba = –F ab  (4.
+24)  Note that this is consistent with Newton’s third Law.
+ Thus, at least for parallel conductors and steady currents, we have shown that the Biot-Savart law and the Lorentz force yield results in accordance with Newton’s third Law*.
+ We have seen from above that currents flowing in the same direction attract each other.
+ One can show that oppositely directed currents repel each other.
+ Thus, Parallel currents attract, and antiparallel currents repel.
+ This rule is the opposite of what we find in electrostatics.
+ Like (same sign) charges repel each other, but like (parallel) currents attract each other.
+ Let f ba represent the magnitude of the force Fba per unit length.
+23), f ba =  µ0 I a I b 2πd  (4.
+25)  The above expression is used to define the ampere (A), which is one of the seven SI base units.
+ The ampere is the value of that steady current which, when maintained in each of the two very long, straight, parallel conductors of negligible cross-section, and placed one metre apart in vacuum, would produce on each of these conductors a force equal to 2 × 10–7 newtons per metre of length.
+ This definition of the ampere was adopted in 1946.
+ It is a theoretical definition.
+ In practice one must eliminate the effect of the earth’s magnetic field and substitute very long wires by multiturn coils of appropriate geometries.
+ An instrument called the current balance is used to measure this mechanical force.
+ The SI unit of charge, namely, the coulomb, can now be defined in terms of the ampere.
+ When a steady current of 1A is set up in a conductor, the quantity of charge that flows through its cross-section in 1s is one coulomb (1C).
+ * It turns out that when we have time-dependent currents and/or charges in motion, Newton’s third law may not hold for forces between charges and/or conductors.
+ An essential consequence of the Newton’s third law in mechanics is conservation of momentum of an isolated system.
+ This, however, holds even for the case of time-dependent situations with electromagnetic fields, provided the momentum carried by fields is also taken into account.
+  155  2015-16(20/01/2015)  Physics ROGET ’S  SPIRAL FOR ATTRACTION BETWEEN PARALLEL CURRENTS  Magnetic effects are generally smaller than electric effects.
+ As a consequence, the force between currents is rather small, because of the smallness of the factor µ.
+ Hence it is difficult to demonstrate attraction or repulsion between currents.
+ Thus for 5 A current in each wire at a separation of 1cm, the force per metre would be 5 × 10–4 N, which is about 50 mg weight.
+ It would be like pulling a wire by a string going over a pulley to which a 50 mg weight is attached.
+ The displacement of the wire would be quite unnoticeable.
+ With the use of a soft spring, we can increase the effective length of the parallel current and by using mercury, we can make the displacement of even a few mm observable very dramatically.
+ You will also need a constant-current supply giving a constant current of about 5 A.
+ Take a soft spring whose natural period of oscillations is about 0.
+ Hang it vertically and attach a pointed tip to its lower end, as shown in the figure here.
+ Take some mercury in a dish and adjust the spring such that the tip is just above the mercury surface.
+ Take the DC current source, connect one of its terminals to the upper end of the spring, and dip the other terminal in mercury.
+ If the tip of the spring touches mercury, the circuit is completed through mercury.
+ Let the DC source be put off to begin with.
+ Let the tip be adjusted so that it just touches the mercury surface.
+ Switch on the constant current supply, and watch the fascinating outcome.
+ The spring shrinks with a jerk, the tip comes out of mercury (just by a mm or so), the circuit is broken, the current stops, the spring relaxes and tries to come back to its original position, the tip again touches mercury establishing a current in the circuit, and the cycle continues with tick, tick, tick, .
+ In the beginning, you may require some small adjustments to get a good effect.
+ Keep your face away from mercury vapours as they are poisonous.
+ Do not inhale mercury vapours for long.
+  156  EXAMPLE 4.
+10 The horizontal component of the earth’s magnetic field at a certain place is 3.
+0 ×10–5 T and the direction of the field is from the geographic south to the geographic north.
+ A very long straight conductor is carrying a steady current of 1A.
+ What is the force per unit length on it when it is placed on a horizontal table and the direction of the current is (a) east to west; (b) south to north?
+ Solution F = I l × B F = IlB sinθ The force per unit length is f = F/l = I B sinθ (a) When the current is flowing from east to west, θ = 90° Hence, f=IB = 1 × 3 × 10–5 = 3 × 10 –5 N m–1  2015-16(20/01/2015)  Moving Charges and Magnetism  4.
+10 TORQUE  ON  EXAMPLE 4.
+10  This is larger than the value 2×10–7 Nm–1 quoted in the definition of the ampere.
+ Hence it is important to eliminate the effect of the earth’s magnetic field and other stray fields while standardising the ampere.
+ The direction of the force is downwards.
+ This direction may be obtained by the directional property of cross product of vectors.
+ (b) When the current is flowing from south to north, o θ=0 f=0 Hence there is no force on the conductor.
+  CURRENT LOOP, MAGNETIC DIPOLE  4.
+1 Torque on a rectangular current loop in a uniform magnetic field We now show that a rectangular loop carrying a steady current I and placed in a uniform magnetic field experiences a torque.
+ It does not experience a net force.
+ This behaviour is analogous to that of electric dipole in a uniform electric field (Section 1.
+ We first consider the simple case when the rectangular loop is placed such that the uniform magnetic field B is in the plane of the loop.
+ This is illustrated in Fig.
+ The field exerts no force on the two arms AD and BC of the loop.
+ It is perpendicular to the arm AB of the loop and exerts a force F1 on it which is directed into the plane of the loop.
+ Its magnitude is, F1 = I b B Similarly it exerts a force F2 on the arm CD and F 2 is directed out of the plane of the paper.
+ F 2 = I b B = F1 Thus, the net force on the loop is zero.
+ There is a torque on the loop due to the pair of forces F1 and F2.
+21(b) shows a view of the loop from the AD end.
+ It shows that the torque on the loop tends to rotate it anti-clockwise.
+ This torque is (in magnitude),  τ = F1  a a + F2 2 2  a a + IbB = I (ab ) B 2 2 =IAB = IbB  (4.
+26)  where A = ab is the area of the rectangle.
+ We next consider the case when the plane of the loop, is not along the magnetic field, but makes an angle with it.
+ We take the angle between the field and the normal to  FIGURE 4.
+21 (a) A rectangular current-carrying coil in uniform magnetic field.
+ The magnetic moment m points downwards.
+ The torque τ is along the axis and tends to rotate the coil anticlockwise.
+ (b) The couple acting on the coil.
+  157  2015-16(20/01/2015)  Physics the coil to be angle θ (The previous case corresponds to θ = π/2).
+22 illustrates this general case.
+ The forces on the arms BC and DA are equal, opposite, and act along the axis of the coil, which connects the centres of mass of BC and DA.
+ Being collinear along the axis they cancel each other, resulting in no net force or torque.
+ The forces on arms AB and CD are F1 and F2.
+ They too are equal and opposite, with magnitude, F1 = F2 = I b B But they are not collinear! This results in a couple as before.
+ The torque is, however, less than the earlier case when plane of loop was along the magnetic field.
+ This is because the perpendicular distance between the forces of the couple has decreased.
+22(b) is a view of the arrangement from the AD end and it illustrates these two forces constituting a couple.
+ The magnitude of the torque on the loop is,  τ = F1 FIGURE 4.
+22 (a) The area vector of the loop ABCD makes an arbitrary angle θ with the magnetic field.
+ (b) Top view of the loop.
+ The forces F1 and F2 acting on the arms AB and CD are indicated.
+  a a sin θ + F2 sin θ 2 2  = I ab B sin θ = I A B sin θ  (4.
+27)  As θ à 0, the perpendicular distance between the forces of the couple also approaches zero.
+ This makes the forces collinear and the net force and torque zero.
+ The torques in Eqs.
+27) can be expressed as vector product of the magnetic moment of the coil and the magnetic field.
+ We define the magnetic moment of the current loop as, m=IA (4.
+28) where the direction of the area vector A is given by the right-hand thumb rule and is directed into the plane of the paper in Fig.
+ Then as the angle between m and B is θ , Eqs.
+27) can be expressed by one expression τ = m×B  (4.
+29)  This is analogous to the electrostatic case (Electric dipole of dipole moment pe in an electric field E).
+ τ = pe × E  158  As is clear from Eq.
+28), the dimensions of the magnetic moment are [A][L2] and its unit is Am2.
+29), we see that the torque τ vanishes when m is either parallel or antiparallel to the magnetic field B.
+ This indicates a state of equilibrium as there is no torque on the coil (this also applies to any object with a magnetic moment m).
+ When m and B are parallel the  2015-16(20/01/2015)  Moving Charges and Magnetism equilibrium is a stable one.
+ Any small rotation of the coil produces a torque which brings it back to its original position.
+ When they are antiparallel, the equilibrium is unstable as any rotation produces a torque which increases with the amount of rotation.
+ The presence of this torque is also the reason why a small magnet or any magnetic dipole aligns itself with the external magnetic field.
+ If the loop has N closely wound turns, the expression for torque, Eq.
+29), still holds, with m =NIA  (4.
+11 A 100 turn closely wound circular coil of radius 10 cm carries a current of 3.
+ (a) What is the field at the centre of the coil?
+ (b) What is the magnetic moment of this coil?
+ The coil is placed in a vertical plane and is free to rotate about a horizontal axis which coincides with its diameter.
+ A uniform magnetic field of 2T in the horizontal direction exists such that initially the axis of the coil is in the direction of the field.
+ The coil rotates through an angle of 90º under the influence of the magnetic field.
+ (c) What are the magnitudes of the torques on the coil in the initial and final position?
+ (d) What is the angular speed acquired by the coil when it has rotated by 90º?
+ The moment of inertia of the coil is 0.
+ Solution (a) From Eq.
+16)  B=  µ0 NI 2R  Here, N = 100; I = 3.
+ Hence, 4 π × 10−7 × 102 × 3.
+2 4 × 10 −5 × 1 0 = (using π × 3.
+2 = 10) −1 −1 2 ×1 0 2 × 10 –3 = 2 × 10 T The direction is given by the right-hand thumb rule.
+ (b) The magnetic moment is given by Eq.
+30), B=  2  –2  2  m = N I A = N I π r = 100 × 3.
+14 × 10 = 10 A m The direction is once again given by the right hand thumb rule.
+ (c) τ = m × B  [from Eq.
+29)]  = m B sin θ Initially, θ = 0.
+ Thus, initial torque τi = 0.
+ Finally, θ = π/2 (or 90º).
+ Thus, final torque τf = m B = 10 × 2 = 20 N m.
+ (d) From Newton’s second law,  I  Using this, I  E XAMPLE 4.
+11  where I is the moment of inertia of the coil.
+ From chain rule,  159  2015-16(20/01/2015)  Physics  EXAMPLE 4.
+11  Integrating from θ = 0 to θ = π/2,  E XAMPLE 4.
+12 (a) A current-carrying circular loop lies on a smooth horizontal plane.
+ Can a uniform magnetic field be set up in such a manner that the loop turns around itself (i.
+, turns about the vertical axis).
+ (b) A current-carrying circular loop is located in a uniform external magnetic field.
+ If the loop is free to turn, what is its orientation of stable equilibrium?
+ Show that in this orientation, the flux of the total field (external field + field produced by the loop) is maximum.
+ (c) A loop of irregular shape carrying current is located in an external magnetic field.
+ If the wire is flexible, why does it change to a circular shape?
+ Solution (a) No, because that would require τ to be in the vertical direction.
+ But τ = I A × B, and since A of the horizontal loop is in the vertical direction, τ would be in the plane of the loop for any B.
+ (b) Orientation of stable equilibrium is one where the area vector A of the loop is in the direction of external magnetic field.
+ In this orientation, the magnetic field produced by the loop is in the same direction as external field, both normal to the plane of the loop, thus giving rise to maximum flux of the total field.
+ (c) It assumes circular shape with its plane normal to the field to maximize flux, since for a given perimeter, a circle encloses greater area than any other shape.
+2 Circular current loop as a magnetic dipole In this section, we shall consider the elementary magnetic element: the current loop.
+ We shall show that the magnetic field (at large distances) due to current in a circular current loop is very similar in behavior to the electric field of an electric dipole.
+6, we have evaluated the magnetic field on the axis of a circular loop, of a radius R, carrying a steady current I.
+ The magnitude of this field is [(Eq.
+15)], B=  160  µ0 I R 2 3 /2  2 (x 2 + R2 )  and its direction is along the axis and given by the right-hand thumb rule (Fig.
+ Here, x is the distance along the axis from the centre of the loop.
+ For x >> R, we may drop the R 2 term in the denominator.
+ Thus,  2015-16(20/01/2015)  Moving Charges and Magnetism B=  µ 0R 2  B=  µ0IA  2x 3 Note that the area of the loop A = πR 2.
+ Thus, 2 πx 3 As earlier, we define the magnetic moment m to have a magnitude IA, m = I A.
+ Hence, B≃ =  µ0m 2 πx3  µ0 2 m  [4.
+31(a)] 4π x 3 The expression of Eq.
+31(a)] is very similar to an expression obtained earlier for the electric field of a dipole.
+ The similarity may be seen if we substitute,  µ0 → 1/ ε 0 m → pe (electrostatic dipole) B → E (electrostatic field) We then obtain, E=  2 pe 4 π ε0 x 3  which is precisely the field for an electric dipole at a point on its axis.
+ considered in Chapter 1, Section 1.
+ It can be shown that the above analogy can be carried further.
+ We had found in Chapter 1 that the electric field on the perpendicular bisector of the dipole is given by [See Eq.
+21)], E≃  pe 4 πε 0 x 3  where x is the distance from the dipole.
+ If we replace p à m and µ0 → 1/ ε 0 in the above expression, we obtain the result for B for a point in the plane of the loop at a distance x from the centre.
+ For x >>R, µ m B≃ 0 3; x >> R [4.
+31(b)] 4π x The results given by Eqs.
+31(b)] become exact for a point magnetic dipole.
+ The results obtained above can be shown to apply to any planar loop: a planar current loop is equivalent to a magnetic dipole of dipole moment m = I A, which is the analogue of electric dipole moment p.
+ Note, however, a fundamental difference: an electric dipole is built up of two elementary units — the charges (or electric monopoles).
+ In magnetism, a magnetic dipole (or a current loop) is the most elementary element.
+ The equivalent of electric charges, i.
+, magnetic monopoles, are not known to exist.
+ We have shown that a current loop (i) produces a magnetic field (see Fig.
+12) and behaves like a magnetic dipole at large distances, and  161  2015-16(20/01/2015)  Physics (ii) is subject to torque like a magnetic needle.
+ This led Ampere to suggest that all magnetism is due to circulating currents.
+ This seems to be partly true and no magnetic monopoles have been seen so far.
+ However, elementary particles such as an electron or a proton also carry an intrinsic magnetic moment, not accounted by circulating currents.
+3 The magnetic dipole moment of a revolving electron In Chapter 12 we shall read about the Bohr model of the hydrogen atom.
+ You may perhaps have heard of this model which was proposed by the Danish physicist Niels Bohr in 1911 and was a stepping stone to a new kind of mechanics, namely, quantum mechanics.
+ In the Bohr model, the electron (a negatively charged particle) revolves around a positively charged nucleus much as a planet revolves around the sun.
+ The force in the former case is electrostatic (Coulomb force) while it is gravitational for the planet-Sun case.
+ We show this Bohr picture of the electron in Fig.
+ The electron of charge (–e) (e = + 1.
+6 × 10–19 C) performs uniform circular motion around a stationary heavy nucleus of charge +Ze.
+ This constitutes a current I, where, FIGURE 4.
+23 In the Bohr model of hydrogen-like atoms, the negatively charged electron is revolving with uniform speed around a centrally placed positively charged (+Z e) nucleus.
+ The uniform circular motion of the electron constitutes a current.
+ The direction of the magnetic moment is into the plane of the paper and is indicated separately by ⊗.
+32) T and T is the time period of revolution.
+ Let r be the orbital radius of the electron, and v the orbital speed.
+ Then, I =  2π r (4.
+33) v Substituting in Eq.
+32), we have I = ev/2πr.
+ There will be a magnetic moment, usually denoted by µl, associated with this circulating current.
+28) its magnitude is, µl = Iπr2 = evr/2.
+ The direction of this magnetic moment is into the plane of the paper in Fig.
+ [This follows from the right-hand rule discussed earlier and the fact that the negatively charged electron is moving anti-clockwise, leading to a clockwise current.
+] Multiplying and dividing the right-hand side of the above expression by the electron mass me , we have, e µl = (m v r ) 2m e e =  e l 2m e  T =  [4.
+34(a)]  Here, l is the magnitude of the angular momentum of the electron about the central nucleus (“orbital” angular momentum).
+ Vectorially, e l [4.
+34(b)] 2m e The negative sign indicates that the angular momentum of the electron is opposite in direction to the magnetic moment.
+ Instead of electron with  µl = −  162  2015-16(20/01/2015)  Moving Charges and Magnetism charge (– e), if we had taken a particle with charge (+q), the angular momentum and magnetic moment would be in the same direction.
+ The ratio  µl l  =  e 2m e  (4.
+36)  where n is a natural number, n = 1, 2, 3, .
+ and h is a constant named after Max Planck (Planck’s constant) with a value h = 6.
+626 × 10–34 J s.
+ This condition of discreteness is called the Bohr quantisation condition.
+ We shall discuss it in detail in Chapter 12.
+ Our aim here is merely to use it to calculate the elementary dipole moment.
+ Take the value n = 1, we have from Eq.
+34) that, ( µl )min = =  e h 4 πm e 1.
+60 × 10 − 19 × 6.
+63 ×10 −34 4 × 3.
+11 × 10 −31  = 9.
+27 × 10–24 Am 2 (4.
+37) where the subscript ‘min’ stands for minimum.
+ This value is called the Bohr magneton.
+ Any charge in uniform circular motion would have an associated magnetic moment given by an expression similar to Eq.
+ This dipole moment is labelled as the orbital magnetic moment.
+ Hence the subscript ‘l’ in µl.
+ Besides the orbital moment, the electron has an intrinsic magnetic moment, which has the same numerical value as given in Eq.
+ It is called the spin magnetic moment.
+ But we hasten to add that it is not as though the electron is spinning.
+ The electron is an elementary particle and it does not have an axis to spin around like a top or our earth.
+ Nevertheless it does possess this intrinsic magnetic moment.
+ The microscopic roots of magnetism in iron and other materials can be traced back to this intrinsic spin magnetic moment.
+  Conversion of galvanometer into ameter and voltmeter:  l=  www.
+com/galvanometer_XIIa.
+htm  is called the gyromagnetic ratio and is a constant.
+ Its value is 8.
+8 × 1010 C /kg for an electron, which has been verified by experiments.
+ The fact that even at an atomic level there is a magnetic moment, confirms Ampere’s bold hypothesis of atomic magnetic moments.
+ This according to Ampere, would help one to explain the magnetic properties of materials.
+ Can one assign a value to this atomic dipole moment?
+ The answer is Yes.
+ One can do so within the Bohr model.
+ Bohr hypothesised that the angular momentum assumes a discrete set of values, namely,  4.
+11 THE MOVING COIL G ALVANOMETER Currents and voltages in circuits have been discussed extensively in Chapters 3.
+ But how do we measure them?
+ How do we claim that current in a circuit is 1.
+5 A or the voltage drop across a resistor is 1.
+24 exhibits a very useful instrument for this purpose: the moving  163  2015-16(20/01/2015)  Physics coil galvanometer (MCG).
+ It is a device whose principle can be understood on the basis of our discussion in Section 4.
+ The galvanometer consists of a coil, with many turns, free to rotate about a fixed axis (Fig.
+24), in a uniform radial magnetic field.
+ There is a cylindrical soft iron core which not only makes the field radial but also increases the strength of the magnetic field.
+ When a current flows through the coil, a torque acts on it.
+ This torque is given by Eq.
+26) to be τ = NI AB where the symbols have their usual meaning.
+ Since the field is radial by design, we have taken sin θ = 1 in the above expression for the torque.
+ The magnetic torque NIAB tends to rotate the coil.
+ A spring Sp provides a counter torque kφ that balances the magnetic torque NIAB; resulting in a steady angular deflection φ .
+ In equilibrium kφ = NI AB where k is the torsional constant of the spring; i.
+ the restoring torque per unit twist.
+ The deflection φ is indicated on the scale by a pointer attached to the spring.
+ We have  NAB  I  k   φ =  FIGURE 4.
+24 The moving coil galvanometer.
+ Its elements ar e described in the text.
+ Depending on the requirement, this device can be used as a current detector or for measuring the value of the current (ammeter) or voltage (voltmeter).
+38) The quantity in brackets is a constant for a given galvanometer.
+ The galvanometer can be used in a number of ways.
+ It can be used as a detector to check if a current is flowing in the circuit.
+ We have come across this usage in the Wheatstone’s bridge arrangement.
+ In this usage the neutral position of the pointer (when no current is flowing through the galvanometer) is in the middle of the scale and not at the left end as shown in Fig.
+ Depending on the direction of the current, the pointer deflection is either to the right or the left.
+ The galvanometer cannot as such be used as an ammeter to measure the value of the current in a given circuit.
+ This is for two reasons: (i) Galvanometer is a very sensitive device, it gives a full-scale deflection for a current of the order of µA.
+ (ii) For measuring currents, the galvanometer has to be connected in series, and as it has a large resistance, this will change the value of the current in the circuit.
+ To overcome these difficulties, one attaches a small resistance rs , called shunt resistance, in parallel with the galvanometer coil; so that most of the current passes through the shunt.
+ The resistance of this arrangement is, if RG >> rs ≃ rs If rs has small value, in relation to the resistance of the rest of the circuit R c, the effect of introducing the measuring instrument is also small and negligible.
+ This RG rs / (RG + r s )  2015-16(20/01/2015)  Moving Charges and Magnetism arrangement is schematically shown in Fig.
+ The scale of this ammeter is calibrated and then graduated to read off the current value with ease.
+ We define the current sensitivity of the galvanometer as the deflection per unit current.
+38) this current sensitivity is,  φ  NAB (4.
+39) I k A convenient way for the manufacturer to increase the sensitivity is to increase the number of turns N.
+ We choose galvanometers having sensitivities of value, required by our experiment.
+ The galvanometer can also be used as a voltmeter to measure the FIGURE 4.
+25 voltage across a given section of the circuit.
+ For this it must be connected Conversion of a in parallel with that section of the circuit.
+ Further, it must draw a very galvanometer (G) to small current, otherwise the voltage measurement will disturb the original an ammeter by the introduction of a set up by an amount which is very large.
+ Usually we like to keep the disturbance due to the measuring device below one per cent.
+ To ensure shunt resistance rs of this, a large resistance R is connected in series with the galvanometer.
+ very small value in parallel.
+ This arrangement is schematically depicted in Fig.
+ Note that the resistance of the voltmeter is now, RG + R ≃ R : large =  The scale of the voltmeter is calibrated to read off the voltage value with ease.
+ We define the voltage sensitivity as the deflection per unit voltage.
+38),  φ   NAB  I  NAB  1 = =   V  k V  k R  (4.
+40)  An interesting point to note is that increasing the current sensitivity may not necessarily increase the voltage sensitivity.
+ Let us take Eq.
+39) which provides a measure of current sensitivity.
+, we double the number of turns, then  FIGURE 4.
+26 Conversion of a galvanometer (G) to a φ φ →2 voltmeter by the I I introduction of a Thus, the current sensitivity doubles.
+ However, the resistance of the resistance R of large galvanometer is also likely to double, since it is proportional to the length value in series.
+40), N →2N, and R →2R, thus the voltage sensitivity,  φ  φ  → V V remains unchanged.
+ So in general, the modification needed for conversion of a galvanometer to an ammeter will be different from what is needed for converting it into a voltmeter.
+13 In the circuit (Fig.
+27) the current is to be measured.
+ What is the value of the current if the ammeter shown (a) is a galvanometer with a resistance R G = 60.
+00 Ω; (b) is a galvanometer described in (a) but converted to an ammeter by a shunt resistance r s = 0.
+02 Ω; (c) is an ideal ammeter with zero resistance?
+  165  2015-16(20/01/2015)  Physics  FIGURE 4.
+27  Solution (a) Total resistance in the circuit is, RG + 3 = 63 Ω .
+ Hence, I = 3/63 = 0.
+ (b) Resistance of the galvanometer converted to an ammeter is,  EXAMPLE 4.
+13  RG rs 60 Ω × 0.
+02 Ω R G + rs (60 + 0.
+02)Ω  Total resistance in the circuit is, 0.
+ Hence, I = 3/3.
+ (c) For the ideal ammeter with zero resistance, I = 3/3 = 1.
+00 A  SUMMARY 1.
+  The total force on a charge q moving with velocity v in the presence of magnetic and electric fields B and E, respectively is called the Lorentz force.
+ It is given by the expression: F = q (v × B + E) The magnetic force q ( v × B) is normal to v and work done by it is zero.
+ A straight conductor of length l and carrying a steady current I experiences a force F in a uniform external magnetic field B, F=Il×B where|l| = l and the direction of l is given by the direction of the current.
+ In a uniform magnetic field B, a charge q executes a circular orbit in a plane normal to B.
+ Its frequency of uniform circular motion is called the cyclotron frequency and is given by:  νc =  4.
+  166  qB 2 πm  This frequency is independent of the particle’s speed and radius.
+ This fact is exploited in a machine, the cyclotron, which is used to accelerate charged particles.
+ The Biot-Savart law asserts that the magnetic field dB due to an element dl carrying a steady current I at a point P at a distance r from the current element is:  dB =  µ 0 dl × r 4π  I  r3  2015-16(20/01/2015)  Moving Charges and Magnetism  5.
+  To obtain the total field at P, we must integrate this vector expression over the entire length of the conductor.
+ The magnitude of the magnetic field due to a circular coil of radius R carrying a current I at an axial distance x from the centre is  B=  µ 0 IR 2 2  2 3/ 2  2(x + R )  At the center this reduces to  B= 6.
+  µ0I 2R  Ampere’s Circuital Law: Let an open surface S be bounded by a loop C.
+ Then the Ampere’s law states that  ∫ Bidl = µ  0  I where I refers to  C  the current passing through S.
+ The sign of I is determined from the right-hand rule.
+ We have discussed a simplified form of this law.
+ If B is directed along the tangent to every point on the perimeter L of a closed curve and is constant in magnitude along perimeter then,  7.
+  BL = µ0 Ie where Ie is the net current enclosed by the closed circuit.
+ The magnitude of the magnetic field at a distance R from a long, straight wire carrying a current I is given by:  B=  8.
+  µ0I 2πR  The field lines are circles concentric with the wire.
+ The magnitude of the field B inside a long solenoid carrying a current I is B = µ0 nI where n is the number of turns per unit length.
+ For a toroid one obtains,  B=  9.
+  µ 0 NI 2 πr  where N is the total number of turns and r is the average radius.
+ Parallel currents attract and anti-parallel currents repel.
+ A planar loop carrying a current I, having N closely wound turns, and an area A possesses a magnetic moment m where, m=NIA and the direction of m is given by the right-hand thumb rule : curl the palm of your right hand along the loop with the fingers pointing in the direction of the current.
+ The thumb sticking out gives the direction of m (and A) When this loop is placed in a uniform magnetic field B, the force F on it is: F = 0 And the torque on it is, τ=m×B In a moving coil galvanometer, this torque is balanced by a counter torque due to a spring, yielding kφ = NI AB  167  2015-16(20/01/2015)  Physics where φ is the equilibrium deflection and k the torsion constant of the spring.
+ An electron moving around the central nucleus has a magnetic moment µl given by:  µl =  e l 2m  where l is the magnitude of the angular momentum of the circulating electron about the central nucleus.
+ The smallest value of µl is called the Bohr magneton µ B and it is µ B = 9.
+27×10 –24 J/T 12.
+ A moving coil galvanometer can be converted into a ammeter by introducing a shunt resistance r s, of small value in parallel.
+ It can be converted into a voltmeter by introducing a resistance of a large value in series.
+  Physical Quantity  Symbol  Nature  Dimensions  Units  Remarks  Permeability of free space  µ0  Scalar  [MLT –2A–2]  T m A–1  4π × 10–7 T m A–1  Magnetic Field  B  Vector  [M T –2A –1]  T (telsa)  Magnetic Moment  m  Vector  [L2A]  A m2 or J/T  Torsion Constant  k  Scalar  [M L2T –2]  N m rad–1  Appears in MCG  POINTS TO PONDER 1.
+  Electrostatic field lines originate at a positive charge and terminate at a negative charge or fade at infinity.
+ Magnetic field lines always form closed loops.
+ The discussion in this Chapter holds only for steady currents which do not vary with time.
+ When currents vary with time Newton’s third law is valid only if momentum carried by the electromagnetic field is taken into account.
+ Recall the expression for the Lorentz force, F = q (v × B + E)  4.
+  168  This velocity dependent force has occupied the attention of some of the greatest scientific thinkers.
+ If one switches to a frame with instantaneous velocity v, the magnetic part of the force vanishes.
+ The motion of the charged particle is then explained by arguing that there exists an appropriate electric field in the new frame.
+ We shall not discuss the details of this mechanism.
+ However, we str ess that the resolution of this paradox implies that electricity and magnetism are linked phenomena (electromagnetism) and that the Lorentz force expression does not imply a universal preferred frame of reference in nature.
+ Ampere’s Circuital law is not independent of the Biot-Savart law.
+ It can be derived from the Biot-Savart law.
+ Its relationship to the Biot-Savart law is similar to the relationship between Gauss’s law and Coulomb’s law.

@@ -1,0 +1,217 @@
+* NCERT pdf only -> pdf2text -> ElasticSearchRetriever -> TransformerReader(bert_large)
+* params={"Retriever": {"top_k": 5}, "Reader": {"top_k": 5}
+
+
+1.Question: Do liquids obey ohm's law?
+Correct Answer: They obey it partially.
+
+[   {'answer': None, 'context': None, 'score': 0.511010622381466},
+    {   'answer': 'We regard it as a continuous fluid and ignore its discrete '
+                  'molecular constitution',
+        'context': 'the density of a liquid, we are referring to its '
+                   'macroscopic density. We regard it as a continuous fluid '
+                   'and ignore its discrete molecular constitution.\n'
+                   'The field due to a continuous charge distribution can be '
+                   'obtained in',
+        'score': 0.3225628435611725},
+    {   'answer': 'limitations',
+        'context': 'nstants, independent of E. We shall, in the next section,\n'
+                   "discuss the limitations of Ohm's law.\n"
+                   'Example 3.1 (a) Estimate the average drift speed of con',
+        'score': 0.28073352575302124},
+    {   'answer': 'works equally well for both ac and dc voltages',
+        'context': 'espective times.\n'
+                   "Equation (7.3) is just Ohm's law which for resistors works "
+                   'equally well for both ac and dc voltages. The voltage '
+                   'across a pure resistor and the current through it, given',
+        'score': 0.2526624798774719},
+    {   'answer': 'unlike the case of liquid flow',
+        'context': 'wever, note that there is no flow of a physically '
+                   'observable quantity unlike the case of liquid flow.\n'
+                   'In the picture of electric field lines described above, we '
+                   'saw that ',
+        'score': 0.22360120713710785}]
+
+
+2.Question: Define Electricity!
+Correct Answer: Electricity is the flow of electrical power or charge.
+
+[   {'answer': None, 'context': None, 'score': 0.5025151902528386},
+    {   'answer': 'the total\nelectrostatic energy of the charges',
+        'context': 'f the charges, and\n'
+                   'not how they are assembled. By definition, this is the '
+                   'total\n'
+                   'electrostatic energy of the charges.\n'
+                   '(Students may try calculating same work/energy by taking '
+                   'charges\n'
+                   'in ',
+        'score': 0.1765720248222351},
+    {   'answer': 'Electrostatic Potential',
+        'context': ' in a/r ; we obtain,\n'
+                   'Using Eqs. (2.9) and (2.13) and p = 2qa, we get\n'
+                   '\x0c'
+                   'Electrostatic Potential and Capacitance\n'
+                   'where r^ is the unit vector along the position vector',
+        'score': 0.17296625673770905},
+    {   'answer': 'motion of electrons in an electric circuit constitutes an '
+                  'electric current',
+        'context': 'w of electric current while the others resist the flow. We '
+                   'know\n'
+                   '\x0c'
+                   'that motion of electrons in an electric circuit '
+                   'constitutes an electric current. The electrons, however, '
+                   'are not completely free to move within a con',
+        'score': 0.11445188522338867},
+    {   'answer': 'Electrostatic Potential',
+        'context': 'f n capacitors in series.\n'
+                   'We compare Eq. (2.57) with Eq. (2.56), and\n'
+                   '\x0c'
+                   'Electrostatic Potential and Capacitance\n'
+                   'The proof clearly goes through for any number of\n'
+                   'capa',
+        'score': 0.1091156154870987}]
+
+
+
+
+3. Question: What is the conductivity of a super conductor?
+Correct Answer: Infinite
+
+
+[   {'answer': None, 'context': None, 'score': 0.47501740548534455},
+    {   'answer': 'perfect',
+        'context': 'These\n'
+                   'are metals, cooled to very low temperatures which exhibits '
+                   'both perfect\n'
+                   'conductivity and perfect diamagnetism. Here the field '
+                   'lines are compl',
+        'score': 0.1537032574415207},
+    {   'answer': 'perfect',
+        'context': 'tic field is totally expelled. Interestingly, this '
+                   'material is\n'
+                   'also a perfect conductor. However, there exists no '
+                   'classical theory which\n'
+                   'ties these',
+        'score': 0.014585686847567558},
+    {   'answer': 'perfect\nconductivity',
+        'context': 'These\n'
+                   'are metals, cooled to very low temperatures which exhibits '
+                   'both perfect\n'
+                   'conductivity and perfect diamagnetism. Here the field '
+                   'lines are completely expelle',
+        'score': 0.014005246572196484},
+    {   'answer': 'electrical\nresistance',
+        'context': 'used\n'
+                   'to change the resistance in the circuit. We will now study '
+                   'about electrical\n'
+                   'resistance of a conductor with the help of following '
+                   'Activity.\n'
+                   'Take a nichrome w',
+        'score': 0.0006748887244611979}]
+
+
+
+4. Question: What is Kirchoff's current law?
+Answer: The algebraic sum of all currents entering and exiting a node must equal zero.
+
+
+[   {'answer': None, 'context': None, 'score': 0.4974282100824377},
+    {   'answer': 'I',
+        'context': 'istors. Plug the key and note the ammeter reading. Let the '
+                   'current be I. Also take the voltmeter reading. It gives '
+                   'the potential difference V',
+        'score': 0.2262653112411499},
+    {   'answer': 'Let the current be I',
+        'context': ' combination of resistors. Plug the key and note the '
+                   'ammeter reading. Let the current be I. Also take the '
+                   'voltmeter reading. It gives the potential difference V',
+        'score': 0.0736812949180603},
+    {   'answer': 'area vector A of the loop is in the direction of external '
+                  'magnetic field',
+        'context': 'oop for any B. (b) Orientation of stable equilibrium is '
+                   'one where the area vector A of the loop is in the '
+                   'direction of external magnetic field. In this orientation, '
+                   'the magnetic field produced by the loop is in t',
+        'score': 0.07294344902038574},
+    {   'answer': 'the area vector A of the loop is in the direction of '
+                  'external magnetic field',
+        'context': 'he loop for any B. (b) Orientation of stable equilibrium '
+                   'is one where the area vector A of the loop is in the '
+                   'direction of external magnetic field. In this orientation, '
+                   'the magnetic field produced by the loop is in t',
+        'score': 0.0713185966014862}]
+
+
+
+
+
+
+5. Question: What is Kirchoff's voltage law?
+Answer: the sum of the voltage differences around any closed loop in a circuit must be zero.
+
+
+[   {'answer': None, 'context': None, 'score': 0.4835122362009339},
+    {   'answer': '0.314 V',
+        'context': '. Employing Eq. (6.21) 0 = NBA (2  )\n'
+                   '= 0.314 V The maximum voltage is 0.314 V.\n'
+                   'We urge you to explore such alternative possibilities for '
+                   'power gene',
+        'score': 0.19242709875106812},
+    {   'answer': 'maximum voltage is 0.314 V',
+        'context': '1 m2 and B = 0.01 T. Employing Eq. (6.21) 0 = NBA (2  )\n'
+                   '= 0.314 V The maximum voltage is 0.314 V.\n'
+                   'We urge you to explore such alternative possibilities for '
+                   'power gene',
+        'score': 0.07724902778863907},
+    {   'answer': 'The maximum voltage is 0.314 V',
+        'context': '= 0.1 m2 and B = 0.01 T. Employing Eq. (6.21) 0 = NBA (2  '
+                   ')\n'
+                   '= 0.314 V The maximum voltage is 0.314 V.\n'
+                   'We urge you to explore such alternative possibilities for '
+                   'power gene',
+        'score': 0.06641113758087158},
+    {   'answer': 'The current through the heater becomes 8 A',
+        'context': 'A.\n'
+                   'When the potential difference is increased to 120 V the '
+                   'current is\n'
+                   'The current through the heater becomes 8 A.\n'
+                   'Example 12.5 Resistance of a metal wire of length 1 m is '
+                   '26  at 20C.',
+        'score': 0.034990567713975906}]
+
+
+
+
+
+6. Question: What is a 2 port network?
+Answer: A two-port network (a kind of four-terminal network or quadripole) is an electrical network (circuit) or device with two pairs of terminals to connect to external circuits.
+
+
+x = print_answers(prediction, details="medium")
+[   {'answer': None, 'context': None, 'score': 0.4713878996679289},
+    {   'answer': 'LCR',
+        'context': 'nce in a RL or RC circuit.\n'
+                   'The amplitude of the current in the series LCR circuit is '
+                   'given by\n'
+                   'and is maximum when  = 0 = 1/ L C. The maximum va',
+        'score': 0.008308484219014645},
+    {   'answer': 'series LCR',
+        'context': ' resonance in a RL or RC circuit.\n'
+                   'The amplitude of the current in the series LCR circuit is '
+                   'given by\n'
+                   'and is maximum when  = 0 = 1/ L C. The maximum va',
+        'score': 0.004713366739451885},
+    {   'answer': 'Resonant circuits',
+        'context': '.16 Variation of im with  for two cases: (i) R = 100 , '
+                   '(ii) R = 200 ,\n'
+                   'Resonant circuits have a variety of applications, for '
+                   'example, in the tuning mechanism ',
+        'score': 0.003280356526374817},
+    {   'answer': 'battery',
+        'context': 'uctors may be so charged by connecting them to the\n'
+                   'two terminals of a battery. Q is called the charge of the '
+                   'capacitor, though\n'
+                   'this, in fact, is th',
+        'score': 0.0032282150350511074}]
+
+

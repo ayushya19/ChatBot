@@ -1,0 +1,179 @@
+Question,Answer,Context,Score,Rank
+What is electricity ?,current to flow, electric circuit provides a complete path for electricity to pass (current to flow) between the two terminals of the electric cell. The bulb glows on,0.7295122444629669,1
+What is electricity ?,induced emf,"as needed to move the arm PQ is converted into electrical energy (the induced emf) and then to thermal energy.
+There is an interesting relationship be",0.6734116673469543,2
+What is electricity ?,surface charge density,"ion. Consider, for example an infinite uniform sheet of charge (surface charge density ) along the y-z plane. This system is unchanged if (a) translat",0.5982548296451569,3
+What is electricity ?,An electric cell produces electricity from the chemicals stored inside it,"tive terminal and a negative terminal.
+An electric cell produces electricity from the chemicals stored inside it. When the chemicals in the electric c",0.579208642244339,4
+What is electricity ?,magnetism are related,"amental significance of the Faraday's discovery. Electricity and magnetism are related.
+Example 6.6 A metallic rod of 1 m length is rotated with a fre",0.5708792656660079,5
+What are the types of electricity ?,fuses and MCB,"n electric shop. Request a mechanic to show you the various
+types of fuses and MCB and to explain how they work. You can read more on the following we",0.9208151996135712,1
+What are the types of electricity ?,positive and negative," CHARGE
+We have seen that there are two types of charges, namely positive and negative and their effects tend to cancel each other. Here, we shall now",0.8651317656040192,2
+What are the types of electricity ?,electric charges," the electromagnetic wave (Fig. 8.4). If there are, on this plane, electric charges, they will be set and sustained in motion by the electric and magn",0.8017836511135101,3
+What are the types of electricity ?,electromagnets," off, the coil generally loses its magnetism. Such coils are called electromagnets. The electromagnets can be made very strong and can lift very heavy",0.7702555358409882,4
+What are the types of electricity ?,magnetism and light,"etic wave. Maxwell's work thus unified the domain of electricity, magnetism and light. Hertz, in 1885, experimentally demonstrated the existence of el",0.686235249042511,5
+What is static electricity ?,electromagnetic field,"t is precisely here that the notion of electric field (strictly, electromagnetic field) is natural and very useful. The field picture is this: the acc",0.8040214478969574,1
+What is static electricity ?,anything that does not move or change with time," discuss in this and the next chapter. Static means anything that does not move or change with time. Electrostatics deals with the study of forces, fi",0.7949651479721069,2
+What is static electricity ?,electric dipole," not experience a net force. This behaviour is analogous to that of electric dipole in a uniform electric field (Section 1.10).
+We first consider the ",0.6249426305294037,3
+What is static electricity ?,electric field,"est charge is given by Eq. (4.2).
+Just as static charges produce an electric field, the
+currents or moving charges produce (in addition) a
+magnetic fi",0.5933145880699158,4
+What is static electricity ?,a conservative force,"6 or 8 million volts (with respect to
+1. Electrostatic for ce is a conservative force. Work done by an exter nal
+force (equal and opposite to the elec",0.5894168317317963,5
+What are the sources of electricity ?,electric charges," the electromagnetic wave (Fig. 8.4). If there are, on this plane, electric charges, they will be set and sustained in motion by the electric and magn",0.7635990679264069,1
+What are the sources of electricity ?,cell or some other,"irection
+opposite to the arrow. Similarly, for each source (i.e., cell or some other
+source of electrical power) the positive and negative electrodes ",0.7503950297832489,2
+What are the sources of electricity ?,the charge and current densities,"involving electric and magnetic fields, and their sources, the charge and current densities. These equations are known as Maxwell's equations. Togethe",0.7370050847530365,3
+What are the sources of electricity ?,charge and current densities,"volving electric and magnetic fields, and their sources, the charge and current densities. These equations are known as Maxwell's equations. Together ",0.7205136269330978,4
+What are the sources of electricity ?,"electrons, protons, ions","arge electric fields are used to accelerate charged particles (electrons, protons, ions) to high energies needed for experiments to probe the small sc",0.5921487510204315,5
+What are conductors ?,Materials that allow electric current to pass through them,break the electric circuit or to complete it. Materials that allow electric current to pass through them are called conductors. Materials that do not ,0.8631457388401031,1
+What are conductors ?,insulators,"o Table.12.1, and record your observations.
+Table 12.1 Conductors and insulators
+What do you find? The bulb does not glow when the free ends of the wi",0.7577164769172668,2
+What are conductors ?,allow movement of electric charge through them,"rod rubbed with fur is then negative.
+3. Conductors allow movement of electric charge through them, insulators do not. In metals, the mobile charges a",0.7075765430927277,3
+What are conductors ?,mobile charge carriers,", in general, curved.
+As we have seen, conductivity arises from mobile charge carriers. In metals, these mobile charge carriers are electrons; in an i",0.6607122719287872,4
+What are conductors ?,mobile charge carriers,"ulators were described briefly in Chapter 1.
+Conductors contain mobile charge carriers. In metallic conductors, these
+charge carriers are electrons. I",0.6397631168365479,5
+What are insulators ?,semiconductors,"erature causes  to increase as we have observed.
+For insulators and semiconductors, however, n increases with
+temperature. This increase more than com",0.839930921792984,1
+What are insulators ?,dinary rubber," rainy day? (Remember, a paper does not conduct electricity.) (b) Or dinary rubber is an insulator. But special rubber tyr es of aircraft are made sli",0.7961501777172089,2
+What are insulators ?,dielectric,"s we shall see later, it also depends on the nature of the insulator (dielectric) separating the two conductors.] The SI unit of capacitance is 1 fara",0.727238655090332,3
+What are insulators ?,Materials that do not allow electric current to pass through them,"o pass through them are called conductors. Materials that do not allow electric current to pass through them are called insulators.
+Bulb Conductors El",0.7156039178371429,4
+What are insulators ?,rubber and glass,"o 106  m. They are
+good conductors of electricity. Insulators like rubber and glass have resistivity of the order of 1012 to 1017  m. Both the resista",0.6859650313854218,5
+"What is ""Dielectric strength""?","the maximum electric field a
+material can tolerate without breakdown, i.e., without starting to conduct electricity through partial ionisation.)","is the maximum electric field a
+material can tolerate without breakdown, i.e., without starting to conduct electricity through partial ionisation.) Fo",0.5191075503826141,1
+"What is ""Dielectric strength""?","the maximum electric field a
+material can tolerate without breakdown","h about 107 Vm1. (Dielectric strength is the maximum electric field a
+material can tolerate without breakdown, i.e., without starting to conduct elect",0.4318198710680008,2
+"What is ""Dielectric strength""?",The maximum electric field that a dielectric medium can withstand without break-down,"power of the intervening medium.
+The maximum electric field that a dielectric medium can withstand without break-down (of its insulating property) is ",0.4110368490219116,3
+"What is ""Dielectric strength""?",strongest at the two ends (poles) and weakest at the central region,he intensity of the magnetic field is the strongest at the two ends (poles) and weakest at the central region. This fact may be used to determine whet,0.18639110028743744,4
+"What is ""Dielectric strength""?","electrical
+forces are enormously stronger than the gravitational forces",") are Fe ~ 230 N, two forces shows that electrical
+forces are enormously stronger than the gravitational forces.
+(b) The electric force F exerted by a",0.18628446757793427,5
+What is the effect of heat on insulator ?,Energy is lost,", a transient current flows from the first capacitor to the second. Energy is lost during this time
+in the form of heat and electromagnetic radiation.",0.7248847484588623,1
+What is the effect of heat on insulator ?,heat loss is substantially reduced,"epends on the square of the strength
+of electric current, heat loss is substantially reduced.
+FIGURE 6.14 Cutting slots in the copper plate reduces th",0.7176342308521271,2
+What is the effect of heat on insulator ?,disrupt the alignment,"o align the dipoles with the field and thermal energy tending to disrupt the alignment. There may be, in addition, the `induced dipole moment' effect ",0.6681783199310303,3
+What is the effect of heat on insulator ?,dissipate electrical energy,"up current loops in nearby metal
+(any conductor) bodies. They dissipate electrical energy as heat. Such
+currents are eddy currents. 6. Inductance is t",0.657775491476059,4
+What is the effect of heat on insulator ?,"dissipate electrical
+energy","Eddy currents are
+undesirable since they heat up the core and dissipate electrical
+energy in the form of heat. Eddy currents are minimised by using
+la",0.6494732648134232,5
+Where are semiconductors used ?,electronic devices,"ties. This last feature is exploited in use of semiconductors for electronic devices.
+TABLE 3.1 RESISTIVITIES OF SOME MATERIALS
+Temperature coefficien",0.8641277849674225,1
+Where are semiconductors used ?,pure germanium,"field.
+3. Homogeneous conductors like silver or semiconductors like pure germanium or germanium containing impurities obey Ohm's law within some range",0.6816990375518799,2
+Where are semiconductors used ?,wire bound standard resistors, similar properties. These materials are thus widely used in wire bound standard resistors since their resistance values would change very little with,0.5877330601215363,3
+Where are semiconductors used ?,circular loops," electric currents induced in well defined paths
+in conductors like circular loops. Even when bulk pieces of conductors
+are subjected to changing magn",0.4582995027303696,4
+Where are semiconductors used ?,"offer resistance to the
+movement of charges which is intermediate between the conductors and insulators","d semiconductors, which offer resistance to the
+movement of charges which is intermediate between the conductors and insulators.
+electric current from",0.3381132036447525,5
+What is the unit of specific resistance ?,ohm," of a conductor to resist the flow of charges
+through it. Its SI unit is ohm, represented by the Greek letter . According
+If the potential difference",0.8728550374507904,1
+What is the unit of specific resistance ?,ohm," is called the resistance of the conductor. The SI units of resistance is ohm, and is denoted by the symbol . The resistance R not only depends on the",0.8052012920379639,2
+What is the unit of specific resistance ?,0.5  per km,power at 440 V. The resistance of the two wire line carrying power is 0.5  per km. The town gets power from the line through a 4000-220 V step-down tr,0.7920112311840057,3
+What is the unit of specific resistance ?,ohm,r. It controls the magnitude of the current. The SI unit of resistance is ohm (). Ohm's law: The potential difference across the ends of a resistor is,0.7765173017978668,4
+What is the unit of specific resistance ?,m,esistivity of the material of the conductor. The SI unit of resistivity is  m. It is a characteristic property of the material. The metals and alloys ,0.7031508982181549,5
+What are the limitations of Ohm’s law ?,The various regions do not have sharply defined boundaries,"um, with common names for various part of it. The various regions do not have sharply defined boundaries.
+We briefly describe these different types of",0.6262786239385605,1
+What are the limitations of Ohm’s law ?,"it is impractical to work in terms of discrete
+charges and we need to work with continuous charge distributions"," purposes, however, it is impractical to work in terms of discrete
+charges and we need to work with continuous charge distributions. For
+example, on t",0.4997255057096481,2
+What are the limitations of Ohm’s law ?,"lengths of elements get smaller and their
+number gets larger","added together. We
+consider the limit as the lengths of elements get smaller and their
+number gets larger. The sum then tends to an integral. Ampere's",0.4903378486633301,3
+What are the limitations of Ohm’s law ?,"no material medium is involved in the vibrations of
+the electric and magnetic fields"," studied
+so far, in respect that no material medium is involved in the vibrations of
+the electric and magnetic fields. Sound waves in air are longitud",0.4637119174003601,4
+What are the limitations of Ohm’s law ?,there are no induced current as long as the loops are completely inside or outside the region of the magnetic field,"n flux. Note that there are no induced current as long as the loops are completely inside or outside the region of the magnetic field.
+Example 6.5 (a)",0.4555097669363022,5
+What is conductance ?,resonance,"s detector work?
+Solution The metal detector works on the principle of resonance in ac circuits. When you walk through a metal detector, you are, in f",0.7437288165092468,1
+What is conductance ?,0.50 H," how much energy is eventually dissipated as heat?
+A coil of inductance 0.50 H and resistance 100  is connected to a 240 V, 50 Hz ac supply.
+(a) What ",0.6639939248561859,2
+What is conductance ?,iron and mercury,"se the data in Table 12.2 to answer the following 
+(a) Which among iron and mercury is a better conductor?
+(b) Which material is the best conductor?
+1",0.6552055776119232,3
+What is conductance ?,conduction current," conductors due to flow of the circular loop as
+charges is called conduction current. The current, given by Eq. (8.4), is a new term, and is due to ch",0.6384904384613037,4
+What is conductance ?,"moving
+charges or electric currents produce magnetic fields","
+In the previous chapter we have learned that moving
+charges or electric currents produce magnetic fields.
+This discovery, which was made in the early",0.5361747890710831,5
+What is potential gradient ?,constant,"along surface charge density.
+reside only at its surface. Potential is constant within and on the surface
+of a conductor. In a cavity within a conduct",0.6029013693332672,1
+What is potential gradient ?,temperature," 1017  m. Both the resistance and
+resistivity of a material vary with temperature.
+Table 12.2 reveals that the resistivity of an alloy is generally hi",0.3574209362268448,2
+What is potential gradient ?,2 C,"ge Q, that flows between two points at potential difference V (= 12 V) is 2 C. Thus, the amount of work W, done in moving the charge [from Eq. (12.2)]",0.3497251272201538,3
+What is potential gradient ?,Eq. 2.78,"ng up larger and
+larger amount of charge on the latter. The
+potential (Eq. 2.78) at the outer sphere would
+also keep rising, at least until we reach t",0.34723053872585297,4
+What is potential gradient ?,HE = 0.26 G,"gnetic field of the earth at this location?
+Solution It is given that HE = 0.26 G. From Fig. 5.11, we have
+It must not be assumed that there is a gian",0.3091553747653961,5
+What do you mean by active and passive network ?,resonance,"s detector work?
+Solution The metal detector works on the principle of resonance in ac circuits. When you walk through a metal detector, you are, in f",0.5829636305570602,1
+What do you mean by active and passive network ?,311.3 V which is more than the source voltage of 220 V,"algebraic sum of the two voltages, VR and VC is 311.3 V which is more than the source voltage of 220 V. How to resolve this paradox? As you have learn",0.2012310177087784,2
+What do you mean by active and passive network ?,any configuration of charges," fact, very general and
+holds true for electric field due to any configuration of charges.
+Example 2.10 (a) A 900 pF capacitor is charged by 100 V bat",0.13047003746032715,3
+What do you mean by active and passive network ?,a potential difference and not a force,"einffoetreedncbeyis.cTahllueds
+Note that  is, actually, a potential difference and not a force. The
+name emf, however, is used because of historical r",0.12745025008916855,4
+What do you mean by active and passive network ?,a simple series and parallel combination of resistors,"ltage drops VAB, VBC and VCD.
+(a) The network is a simple series and parallel combination of resistors. First the two 4 resistors in parallel are equi",0.12359842658042908,5
+"What do you mean by ""Eddy Current"" ?",the displacement current,"ggested the existence of an additional current, called by him, the displacement current to remove this inconsistency.
+Maxwell formulated a set of equa",0.7169366180896759,1
+"What do you mean by ""Eddy Current"" ?",wattless current,"s flowing in the circuit. This current is sometimes referred to as wattless current.
+Case (iii) LCR series circuit: In an LCR series circuit, power di",0.5962269306182861,2
+"What do you mean by ""Eddy Current"" ?",charges in motion,"uced by time-varying magnetic fields. In Chapter 4, we learnt that charges in motion (current) can exert force/torque on a stationary magnet. Converse",0.5864507555961609,3
+"What do you mean by ""Eddy Current"" ?",the direction of magnetic field produced by the electric current is also reversed,"est [Fig. 13.5 (b)]. It means that the direction of magnetic field produced by the electric current is also reversed.
+Figure 13.5 A simple electric ci",0.5463567972183228,4
+"What do you mean by ""Eddy Current"" ?",very small," experiments
+studied above generate induced current, which is usually very small.
+This principle is also employed to produce large currents for use in",0.5265822112560272,5
+"What do you mean by ""Skin Effect"" ?",tanning,"xposure to UV radiation induces the
+production of more melanin, causing tanning of the skin. UV radiation is
+absorbed by ordinary glass. Hence, one ca",0.6565298140048981,1
+"What do you mean by ""Skin Effect"" ?",negative,"cat's fur is called positive and that on plastic rod or silk is termed negative. If an object possesses an electric charge, it is said to be electrifi",0.5167332589626312,2
+"What do you mean by ""Skin Effect"" ?",resonance in ac circuits,"or work?
+Solution The metal detector works on the principle of resonance in ac circuits. When you walk through a metal detector, you are, in fact, wal",0.47260886430740356,3
+"What do you mean by ""Skin Effect"" ?",induced potential difference,"that motion of a magnet with respect to the coil produces an induced potential difference, which sets up an induced electric current in the circuit.
+M",0.38921861350536346,4
+"What do you mean by ""Skin Effect"" ?",outward normal," element of a closed surface is taken
+to be in the direction of the outward normal. This is the convention used
+in Fig. 1.19. Thus, the area element v",0.3496319651603699,5

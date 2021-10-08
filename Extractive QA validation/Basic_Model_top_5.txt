@@ -1,0 +1,228 @@
+* NCERT pdf only -> pdf2text -> ElasticSearchRetriever -> FARMReader (roberta_base)[no_ans]
+* params={"Retriever": {"top_k": 5}, "Reader": {"top_k": 5}
+
+
+1.Question: Do liquids obey ohm's law?
+Correct Answer: They obey it partially.
+
+[   {   'answer': "do not obey Ohm's law",
+        'context': 'all conducting elements? If not, give examples of elements '
+                   "which do not obey Ohm's law. (c) A low voltage supply from "
+                   'which one needs high currents mu',
+        'score': 0.5153214782476425},
+    {   'answer': 'We regard it as a continuous fluid and ignore its discrete '
+                  'molecular constitution',
+        'context': 'erring to its macroscopic density. We regard it as a '
+                   'continuous fluid and ignore its discrete molecular '
+                   'constitution.\n'
+                   'The field due to a continuous ch',
+        'score': 0.5137242376804352},
+    {   'answer': 'outward normal',
+        'context': ' element of a closed surface is taken\n'
+                   'to be in the direction of the outward normal. This is the '
+                   'convention used\n'
+                   'in Fig. 1.19. Thus, the area element v',
+        'score': 0.49063877761363983},
+    {   'answer': 'resonance',
+        'context': 's detector work?\n'
+                   'Solution The metal detector works on the principle of '
+                   'resonance in ac circuits. When you walk through a metal '
+                   'detector, you are, in f',
+        'score': 0.4871082901954651},
+    {   'answer': 'its\ntemperature remains the same',
+        'context': 'y\n'
+                   'proportional to the current flowing through it, provided '
+                   'its\n'
+                   "temperature remains the same. This is called Ohm's law. "
+                   'In\n'
+                   'In Eq. (12.4), R is a consta',
+        'score': 0.42914052307605743}]
+
+
+
+2.Question: Define Electricity!
+Correct Answer: Electricity is the flow of electrical power or charge.
+
+[   {   'answer': 'outward normal',
+        'context': ' element of a closed surface is taken\n'
+                   'to be in the direction of the outward normal. This is the '
+                   'convention used\n'
+                   'in Fig. 1.19. Thus, the area element v',
+        'score': 0.5889393091201782},
+    {   'answer': 'electric dipole',
+        'context': ' not experience a net force. This behaviour is analogous '
+                   'to that of electric dipole in a uniform electric field '
+                   '(Section 1.10).\n'
+                   'We first consider the ',
+        'score': 0.503152385354042},
+    {   'answer': "Gauss's Law",
+        'context': 'omagnetic waves, which we discuss qualitatively in the '
+                   'next section.\n'
+                   "(Gauss's Law for electricity) (Gauss's Law for magnetism) "
+                   "(Faraday's Law) (Ampere",
+        'score': 0.46790429949760437},
+    {   'answer': 'mercury',
+        'context': 'he data in Table 12.2 to answer the following \n'
+                   '(a) Which among iron and mercury is a better conductor?\n'
+                   '(b) Which material is the best conductor?\n'
+                   '12.6 ',
+        'score': 0.38906875252723694},
+    {   'answer': 'pith balls',
+        'context': 'erred from the rods to the pith\n'
+                   'balls on contact. It is said that the pith balls are '
+                   'electrified or are charged\n'
+                   'by contact. The property which differe',
+        'score': 0.36543118953704834}]
+
+
+
+
+3. Question: What is the conductivity of a super conductor?
+Correct Answer: Infinite
+
+
+[   {   'answer': 'perfect\nconductivity',
+        'context': '\n'
+                   'are metals, cooled to very low temperatures which exhibits '
+                   'both perfect\n'
+                   'conductivity and perfect diamagnetism. Here the field '
+                   'lines are completely ex',
+        'score': 0.6902350783348083},
+    {   'answer': '4 \nresistance',
+        'context': 'e 12.7 An electric lamp, whose resistance is 20 , and a '
+                   'conductor of 4 \n'
+                   'resistance are connected to a 6 V battery (Fig. 12.9). '
+                   'Calculate (a) the total',
+        'score': 0.3958878070116043},
+    {   'answer': 'V2 = 4   0.25 A',
+        'context': 'ctric lamp, V1 = 20   0.25 A\n'
+                   '= 5 V; and, that across the conductor, V2 = 4   0.25 A\n'
+                   'Suppose that we like to replace the series combination of '
+                   'electric',
+        'score': 0.2035369575023651},
+    {   'answer': 'induced potential difference',
+        'context': 'that motion of a magnet with respect to the coil produces '
+                   'an induced potential difference, which sets up an induced '
+                   'electric current in the circuit.\n'
+                   'M',
+        'score': 0.1955169104039669},
+    {   'answer': 'external magnetic field is totally expelled',
+        'context': 'erfect diamagnet, namely, a superconductor. This is a\n'
+                   'external magnetic field is totally expelled. '
+                   'Interestingly, this material is\n'
+                   'also a perfect cond',
+        'score': 0.18364038318395615}]
+
+
+
+4. Question: What is Kirchoff's current law?
+Answer: The algebraic sum of all currents entering and exiting a node must equal zero.
+
+
+[   {   'answer': 'I',
+        'context': 'f resistors. Plug the key and note the ammeter reading. '
+                   'Let the current be I. Also take the voltmeter reading. It '
+                   'gives the potential difference V, ac',
+        'score': 0.12121514976024628},
+    {   'answer': '2 C',
+        'context': 'ge Q, that flows between two points at potential '
+                   'difference V (= 12 V) is 2 C. Thus, the amount of work W, '
+                   'done in moving the charge [from Eq. (12.2)]',
+        'score': 0.11712099611759186},
+    {   'answer': 'junction rule',
+        'context': "splacement current across the plates. (c) Is Kirchhoff's "
+                   'first rule (junction rule) valid at each plate of the\n'
+                   'FIGURE 8.6 8.2 A parallel plate capacit',
+        'score': 0.08728376403450966},
+    {   'answer': 'B  I',
+        'context': ' cases, the flux through a coil is proportional to the '
+                   'current. That is, B  I.\n'
+                   'Further, if the geometry of the coil does not vary with '
+                   'time then,\n'
+                   'For ',
+        'score': 0.08435947075486183},
+    {   'answer': '5.0 A',
+        'context': 'of 0.10 T normal to the plane of the coil. If the current\n'
+                   'in the coil is 5.0 A, what is the\n'
+                   '(a) total torque on the coil, (b) total force on the coil,',
+        'score': 0.08120310679078102}]
+
+
+
+
+
+
+5. Question: What is Kirchoff's current law?
+Answer: the sum of the voltage differences around any closed loop in a circuit must be zero.
+
+
+[   {   'answer': '220 V',
+        'context': 'aximum rate and 360 W when the heating is at the minimum. '
+                   'The voltage is 220 V. What are the current and the '
+                   'resistance in each case?\n'
+                   'Solution From Eq',
+        'score': 0.7336869537830353},
+    {   'answer': 'resonance',
+        'context': 's detector work?\n'
+                   'Solution The metal detector works on the principle of '
+                   'resonance in ac circuits. When you walk through a metal '
+                   'detector, you are, in f',
+        'score': 0.607824444770813},
+    {   'answer': 'loop rule',
+        'context': 'at any time t. The instantaneous voltage v across\n'
+                   "From the Kirchhoff's loop rule, the voltage across the "
+                   'source and the\n'
+                   'To find the current, we use th',
+        'score': 0.4328242763876915},
+    {   'answer': 'equal to zero',
+        'context': 'work. For example, the total voltage\n'
+                   'drop over the closed loop BADEB\n'
+                   "equal to zero, as required by Kirchhoff's second rule.\n"
+                   'As an application of Kirch',
+        'score': 0.3236010819673538},
+    {   'answer': '2 C',
+        'context': 'ge Q, that flows between two points at potential '
+                   'difference V (= 12 V) is 2 C. Thus, the amount of work W, '
+                   'done in moving the charge [from Eq. (12.2)]',
+        'score': 0.21192394942045212}]
+
+
+
+
+
+6. Question: What is a 2 port network?
+Answer: A two-port network (a kind of four-terminal network or quadripole) is an electrical network (circuit) or device with two pairs of terminals to connect to external circuits.
+
+
+x = print_answers(prediction, details="medium")
+[   {   'answer': 'resonance',
+        'context': 's detector work?\n'
+                   'Solution The metal detector works on the principle of '
+                   'resonance in ac circuits. When you walk through a metal '
+                   'detector, you are, in f',
+        'score': 0.500951886177063},
+    {   'answer': '311.3 V which is more than the source voltage of 220 V',
+        'context': 'algebraic sum of the two voltages, VR and VC is 311.3 V '
+                   'which is more than the source voltage of 220 V. How to '
+                   'resolve this paradox? As you have learn',
+        'score': 0.19552259147167206},
+    {   'answer': 'outward normal',
+        'context': ' element of a closed surface is taken\n'
+                   'to be in the direction of the outward normal. This is the '
+                   'convention used\n'
+                   'in Fig. 1.19. Thus, the area element v',
+        'score': 0.09900010004639626},
+    {   'answer': 'resonant frequency',
+        'context': 'pedance is minimum Z = R2 + 02 = R . This\n'
+                   'frequency is called the resonant frequency:\n'
+                   'At resonant frequency, the current amplitude is maximum; '
+                   'im = vm',
+        'score': 0.07865651324391365},
+    {   'answer': 'pith balls',
+        'context': 'erred from the rods to the pith\n'
+                   'balls on contact. It is said that the pith balls are '
+                   'electrified or are charged\n'
+                   'by contact. The property which differe',
+        'score': 0.06507449224591255}]
+
+

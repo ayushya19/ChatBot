@@ -1,4 +1,5 @@
 import re
+import os
 
 
 def readFile(path):
@@ -54,6 +55,18 @@ def formSentences(text):
 
 
 if __name__ == '__main__':
+    os.makedirs('ProcessedText', exist_ok=True)
+    files = os.listdir('./ProcessedText')
+    for file in files:
+        file_path = './ProcessedText/' + file
+        text = readFile(file_path)
+        # processedText = removeExercise(text)
+        processedText = formSentences(text)
+        new_file = open('./ProcessedText/'+file.split('.')[0] + '_processed.txt',
+                        'w', encoding='utf-8')
+        new_file.writelines(processedText)
+        new_file.close()
+
     # text = readFile('./Dataset/MergedText_v1.txt')
     # processedText = removeExercise(text)
 
@@ -61,9 +74,9 @@ if __name__ == '__main__':
     # text_file.write(processedText)
     # text_file.close()
 
-    text = readFile('./Dataset/Merged_Text_NoExample_v3.txt')
-    processedText = formSentences(text)
-    text_file = open("./Dataset/Merged_with_sentences_v4.txt",
-                     "w", encoding='utf-8')
-    text_file.write(processedText)
-    text_file.close()
+    # text = readFile('./Dataset/Merged_Text_NoExample_v3.txt')
+    # processedText = formSentences(text)
+    # text_file = open("./Dataset/Merged_with_sentences_v4.txt",
+    #                  "w", encoding='utf-8')
+    # text_file.write(processedText)
+    # text_file.close()

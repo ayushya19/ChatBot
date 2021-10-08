@@ -1,0 +1,66 @@
+[
+    {
+        "Question":"What is electricity ?",
+        "ExpectedAnswer":"Electricity is a general term used for all phenomena caused by electric charge whether static or in motion."
+    },
+    {
+        "Question":"What are the types of electricity ?",
+        "ExpectedAnswer":"There are two types,static Electricity and Current Electricity."
+    },
+    {
+        "Question":"What is static electricity ?",
+        "ExpectedAnswer":"Static electricity means electricity at rest in contradistinction to dynamic or current electricity the effects of which are purely due to the electrostatic field produced by the charge."
+    },
+    {
+        "Question":"What are the sources of electricity ?",
+        "ExpectedAnswer":"Battery, Generator and Thermocouple."
+    },
+    {
+        "Question":"What are conductors ?",
+        "ExpectedAnswer":"Conductors are those metallic substances which have a large number of free electrons and offer a little resistance to the flow of electricity through them."
+    },
+    {
+        "Question":"What are insulators ?",
+        "ExpectedAnswer":"Insulators are those nonmetallic substances which have comparatively very few free electrons and offer enormous resistance that they do not practically allow electricity to flow through them."
+    },
+    {
+        "Question":"What is Dielectric strength?",
+        "ExpectedAnswer":"Dielectric strength is the maximum kilovolts per millimeter which an insulating medium can withstand without breakdown."
+    },
+    {
+        "Question":"What is the effect of heat on insulator ?",
+        "ExpectedAnswer":"Insulator resistance of most solid dielectric with the possible exception of mica and asbestos is decreased with the rise in temperature and increased when cooled."
+    },
+    {
+        "Question":"Where are semiconductors used ?",
+        "ExpectedAnswer":"Semiconductors are generally used in electronic devices."
+    },
+    {
+        "Question":"What is the unit of specific resistance ?",
+        "ExpectedAnswer":"Ohm-meter."
+    },
+    {
+        "Question":"What are the limitations of Ohm's law ?",
+        "ExpectedAnswer":"Ohm's law is not applicable to non ohmic conductors like vacuum tubes, discharge tubes and semiconductors."
+    },
+    {
+        "Question":"What is conductance ?",
+        "ExpectedAnswer":"It is the property of a material for easy conducting the current."
+    },
+    {
+        "Question":"What is potential gradient ?",
+        "ExpectedAnswer":"The potential gradient is the space rate of change of potential with respect to distance."
+    },
+    {
+        "Question":"What do you mean by active and passive network ?",
+        "ExpectedAnswer":"Active network means the electric network which contains one or more sources of e.m.f in if passive network means the electric network in which there is no source of e.m.fs."
+    },
+    {
+        "Question":"What do you mean by Eddy Current ?",
+        "ExpectedAnswer":"Eddy current means the current induced in the interior of conducting masses by variation of the magnetic flux."
+    },
+    {
+        "Question":"What do you mean by Skin Effect ?",
+        "ExpectedAnswer":"Skin effect means the action of alternating current that causes more of a current to flow near the outside surface that in the centre of a conductor."
+    }
+]
