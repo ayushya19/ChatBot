@@ -1,11 +1,12 @@
 import re
 import os
 
-txtFiles = os.listdir('./txtFiles/')
-finalFile = open('MergedText.txt', 'w', encoding='utf-8')
+txtFiles = os.listdir('../ReferenceBooks/txtFiles')
 
 for Text in txtFiles:
-    with open('./txtFiles/' + Text, encoding="utf8") as f:
+    finalFile = open('../ReferenceBooks/txtFiles/v2/'+Text.split('.')
+                     [0].replace(' ', '_') + '_v2.txt', 'w', encoding='utf-8')
+    with open('../ReferenceBooks/txtFiles/' + Text, encoding="utf8") as f:
         lines = [line.rstrip() for line in f.readlines()]
 
         regex = re.compile('^Fig|^[0-9]|^[\(]|^|^n|^SCIENCE')
@@ -21,4 +22,4 @@ for Text in txtFiles:
         else:
             finalFile.write(line + "\n")
 
-finalFile.close()
+    finalFile.close()
