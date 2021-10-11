@@ -1,0 +1,8478 @@
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 1
+
+genius
+
+PHYSICS
+
+Notes by Pradeep Kshetrapal
+
+vd
+
+Electric current and Resistance
+
+E
++
+
+V
+
+–
+
++
+
+A
+
+–
+
+Cell, Kirchoff's law and Measuring instruments
+
++ –
+–
++
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+R
+
+R R
+
+Determination of resistance
+
+R
+
+O
+
+Heating effect of current
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+2 Current Electricity
+Not for circulation. Only for the students of genius PHYSICS
+at Rao classes,Jamanipali, genius Physics Ghantaghar Korba, and Gupta classes Kusmunda
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 3
+
+Formulas in current electricity (Direct Current)
+1
+
+Electric Current
+
+2
+3
+
+Drift velocity Vd with Electric
+field
+Current I with Drift velocity Vd
+
+4
+
+Mobility of charge “μ”
+
+5
+
+Mobility and drift velocity
+
+6
+
+Current and Mobility
+
+7
+
+Resistance, P.D., and Current
+
+8
+
+Resistance R with specific Res.
+
+9
+
+Specific Resistance, ρ
+
+ρ=R
+
+10
+
+Resistivity with electrons
+
+ρ=
+
+11
+
+Current density J
+
+12
+
+Current density magnitude
+
+13
+
+Conductance G
+
+14
+
+Conductivity
+
+15
+
+Microscopic form of Ohms
+Law
+Temperature coefficient of
+Resistance
+Resistances in series
+
+16
+17
+
+Resistances in parallel
+18
+19
+
+In a cell, emf and internal
+resistance
+In a circuit with a cell
+
+20
+
+n Cells of emf E in series
+
+21
+
+Resistance of n cells in series
+
+22
+23
+
+Current in circuit with n cells
+in series
+n cells in parallel, then emf
+
+24
+
+n cells in parallel, resistance
+
+25
+26
+
+Cells in mixed group,
+condition for maximum
+current
+Internal resistance of a cell
+
+27
+
+Power of a circuit
+
+i=q/t
+Vd =
+I = n e A Vd
+
+"q" is charge passing in normal direction
+through a cross section of conductor in time "t"
+e is charge and m is mass on electron, E is
+electric field, τ is relaxation time.
+n is number density with of free electrons, A is
+area of cross section.
+
+μ = Vd / E =
+Vd = μeE
+I= Ane x μeE
+R=V/I
+R=
+
+=I/
+J A cosθ = I
+
+V Potential Difference, I Current .
+l is length of conductor and A is area of cross
+section
+
+I is current, J current density, A is area of cross
+section
+
+θ is angle between and
+
+G = 1/R
+is specific resistance
+J= E
+α=
+R = R1+R2+R3
+1/Re = 1/R1 +1/R2
++1/R3
+I=
+V = E - Ir
+
+E is electric field
+Ro is resistance at 0o C. Rt is resistance at to and
+“t” is temperature difference.
+Same current through all resistances (circuit
+Current
+Same P.D. across each resistance (V of cell)
+I is current, E is emf, R is external resistance, r
+is internal resistance.
+V is terminal potential difference
+
+Emf = nE
+nr + R
+I=
+
+r is internal resistance of one cell, R external
+Resistance
+r is internal resistance of one cell, R external
+Resistance
+
+emf = E
+R + r/n
+R=
+r=(
+P = I.V = I2R =
+V2/R
+
+R external resistance, r internal resistance
+n is number of cells in one row, m is number of
+rows. r is internal resistance, R external resis.
+E is emf, V is terminal Potential difference, R is
+external resistance.
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+4 Current Electricity
+28
+
+Energy consumed
+
+E = I.V.∆T
+
+∆T is time duration
+
+29
+
+Kirchoff Law (junction rule)
+
+Sum of currents at junction is zero.
+
+30
+
+Kirchoff Law (Loop rule)
+
+In a loop sum of all p.d.s is Zero
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 5
+
+V
+
+A
+
+Electric Current.
+(1) Definition : The time rate of flow of charge through any cross-section is called current. So if
+Q
+through a cross-section, Q charge passes in time t then iav 
+and instantaneous current
+t
+ΔQ dQ
+Q
+. If flow is uniform then i  . Current is a scalar quantity. It's S.I. unit is ampere (A) and
+i  Lim
+
+Δt 0 Δt
+t
+dt
+C.G.S. unit is emu and is called biot (Bi), or ab ampere. 1A = (1/10) Bi (ab amp.)
+(2) The direction of current : The conventional direction of current is taken to be the direction of
+flow of positive charge, i.e. field and is opposite to the direction of flow of negative charge as shown below.
+i
+
+i
+
+
+E
+
+
+E
+
+Though conventionally a direction is associated with current (Opposite to the motion of electron), it is
+not a vector. It is because the current can be added algebraically. Only scalar quantities can be added
+algebraically not the vector quantities.
+(3) Charge on a current carrying conductor : In conductor the current is caused by electron
+(free electron). The no. of electron (negative charge) and proton (positive charge) in a conductor is same.
+Hence the net charge in a current carrying conductor is zero.
+(4) Current through a conductor of non-uniform cross-section : For a given conductor
+current does not change with change in cross-sectional area. In the following figure i1 = i2 = i3
+i2
+
+i1
+
+i3
+
+(5) Types of current : Electric current is of two type :
+Alternating current (ac)
+(i)
+i
+
+Direct current (dc)
+(i) (Pulsating dc)
+(Constant dc)
+
+Magnitude and direction both
+varies with time
+
+i
+
+i
+
++
+
+–
+
+(ii)
+
+t
+
+t
+
+ac  Rectifier  dc
+Shows heating effect only
+
+(iii) It’s symbol is
+
+~
+
+t
+
+dc  Inverter  ac
+(ii) Shows heating effect, chemical effect and magnetic
+effect of current
+(iii) It’s symbol is
+
++
+
+–
+
+Note : In our houses ac is supplied at 220V, 50Hz.
+(6) Current in difference situation :
+(i) Due to translatory motion of charge
+
++
+
++
++
+
++
++
+
++
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+6 Current Electricity
+In n particle each having a charge q, pass through a given area in time t then i 
+
+nq
+t
+
+If n particles each having a charge q pass per second per unit area, the current associated with crosssectional area A is i  nqA
+If there are n particle per unit volume each having a charge q and moving with velocity v, the current
+thorough, cross section A is i  nqvA , for electrons i= neavd
+(ii) Due to rotatory motion of charge
+If a point charge q is moving in a circle of radius r with speed v (frequency , angular speed  and time
+period T) then corresponding currents i  q  
+
+q
+qv
+q
+
+
+T 2πr 2π
+
+q
+
+r
+
+(iii) When a voltage V applied across a resistance R : Current flows through the conductor i 
+also by definition of power i 
+
+R
+
+P
+V
+
+V
+R
+
+i
+
+(7) Current carriers : The charged particles whose flow in a definite direction constitutes the
+electric current are called current carriers. In different situation current carriers are different.
+(i) Solids : In solid conductors like metals current carriers are free electrons.
+(ii) Liquids : In liquids current carriers are positive and negative ions.
+(iii) Gases : In gases current carriers are positive ions and free electrons.
+(iv) Semi conductor : In semi conductors current carriers are holes and free electrons.
+
+Current density (J).
+In case of flow of charge through a cross-section, current density is defined as a vector having
+magnitude equal to current per unit area surrounding that point. Remember area is normal to the direction
+di
+of charge flow (or current passes) through that point. Current density at point P is given by J 
+n
+dA
+ˆ
+dA
+
+dA
+i
+
+P
+
+
+
+
+
+i
+
+J
+
+J
+
+n
+
+dA cos
+
+If the cross-sectional area is not normal to the current, the cross-sectional area normal to current in
+accordance with following figure will be dA cos and so in this situation:
+
+di
+i.e. di  JdA cos or di  J .dA  i  J  dA
+dA cos
+i.e., in terms of current density, current is the flux of current density.
+
+
+
+J
+
+Note : 
+
+
+
+
+If current density J is uniform for a normal cross-section A then : i  J  ds  J  ds [as
+
+
+
+
+J = constant]
+
+or i  J  A  JA cos 0  JA  J 
+
+i
+A
+
+[as
+
+ dA  A and  = 0 ]
+o
+
+
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 7
+
+(1) Unit and dimension : Current density J
+dimension.[L–2A]
+
+is a vector quantity having S.I. unit Amp/m2 and
+
+(2) Current density in terms of velocity of charge : In case of uniform flow of charge through a
+i
+J  nq v  v ( )
+cross-section normal to it as i  nqvA
+so,
+or
+[With
+J  n  (nqv) n
+A
+charge
+
+ nq ]
+volume
+i.e., current density at a point is equal to the product of volume charge density with velocity of charge
+distribution at that point.
+(3) Current density in terms of electric field : Current density relates with electric field as
+
+J  E 
+
+E
+
+
+
+; where  = conductivity and  = resistivity or specific resistance of substance.
+
+(i) Direction of current density J is same as that of electric field E .
+(ii) If electric field is uniform (i.e. E  constant ) current density will be constant [as  = constant]
+(iii) If electric field is zero (as in electrostatics inside a conductor), current density and hence current will
+be zero.
+
+Conduction of Current in Metals.
+According to modern views, a metal consists of a ‘lattice’ of fixed positively charged ions in which
+billions and billions of free electrons are moving randomly at speed which at room temperature (i.e. 300 K)
+in accordance with kinetic theory of gases is given by v rms 
+
+3 kT
+
+m
+
+3  (1 . 38  10 23 )  300 ~
+– 10 5 m / s
+ 31
+9 . 1  10
+
+The randomly moving free electrons inside the metal collide with the lattice and follow a zig-zag path as
+shown in figure (A).
+–
+
+(A)
+
++
+
+(B)
+
+However, in absence of any electric field due to this random motion, the number of electrons crossing
+from left to right is equal to the number of electrons crossing from right to left (otherwise metal will not
+remain equipotential) so the net current through a cross-section is zero.
+A motion of charge is possible by motion of electron or a current carrier.
+Velocities of charged particle (electron) in a conductor
+thermal velocity : All electrons in the atom are not capable of motion. Only a few which have little higher level of
+energy leave their orbit and are capable of moving around. These electrons are called “free electrons”. These free
+electrons are in very large quantity 1029 m-3 in free metals. Due to temperature and thermal energy They have a
+thermal velocity 105 ms-1 . This velocity is in all directions and of magnitudes varying from zero to maximum. Due to
+large number of electrons we can assume that vector sum of thermal velocities at any instant is zero.
+i.e.
++ + +.. . . . . +un = 0
+Mean Free path : The fast moving electrons keep striking other atoms/ions in the conductor. They are reflected and
+move in other direction. They keep moving till they strike another ion/atom.
+The path between two consecutive collisions is called free path. The average length of these free paths is called “Mean
+Free Path”.
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+8 Current Electricity
+Relaxation Time :The time to travel mean free path is called Relaxation Period or Relaxation Time, denoted by Greek
+letter Tau “τ”. If t1, t2, …tn are the time periods for n collisions then Relaxation Time τ =
+
+(t1+t2+ . . .tn)
+
+Drift Velocity :When Electric Field is applied across a conductor, the free electrons experience a force in the
+direction opposite to field. Dur to this force they start drifting in the direction of force. The Velocity of this drift is
+called drift velocity “Vd”. During the drift they maintain their thermal velocity.
+The drift velocity can be calculated as averaged velocity of all the electrons drifting.
+Relation between drift-velocity (Vd) and electric field applied.
+When electric field is applied across a conductor each electron experience a Force
+acquires an acceleration α =
+
+= q in the direction of . It
+
+where e is charge on electron and m is its mass.
+
+i
+
+i
+
+
+E
+
+
+E
+
+If n electrons are having initial speeds u 1, u2,…un and their time to travel free path is t1, t2, …tn then final velocities are
+v1 =u1+ αt1,
+V2 = u2+ αt2 ,
+Vn = un+ αtn and so on.
+Drift velocity is average of these velocities of charged particles. Therefore
+Vd
+
+= (v1+ V2+…….. Vn)
+= (u1+ αt1+ u2+ αt2+ . . . . . . un+ αtn )
+= (u1+ u2+. . . un + αt1+αt2+ . . . αtn )
+= (u1+ u2+. . . un ) +
+=0+α
+
+(αt1+αt2+ . . . αtn )
+
+(t1+t2+ . . .tn)
+
+= ατ
+or
+
+Vd =
+
+(α =
+
+)
+
+Vd
+-------------------------------------------------------------------
+
+=
+
+Relation of Current and Drift velocity : When an electric field is applied, inside the conductor
+due to electric force the path of electron in general becomes curved (parabolic) instead of straight lines and
+electrons drift opposite to the field figure (B). Due to this drift the random motion of electrons get modified
+and there is a net transfer of electrons across a cross-section resulting in current.
+Drift velocity is the average uniform velocity acquired by free electrons inside a metal by the
+application of an electric field which is responsible for current through it. Drift velocity is very small it is of
+the order of 10–4 m/s as compared to thermal speed (~– 10 5 m / s) of electrons at room temperature.
+If suppose for a conductor
+
+l
+
+n = Number of electron per unit volume of the conductor
+
+A
+
+vd
+
+A = Area of cross-section
+
+E
+
+V = potential difference across the conductor
+
++
+
+E = electric field inside the conductor
+
+V
+
+–
+
+
+1
+i = current, J = current density,  = specific resistance,  = conductivity     then current relates
+
+
+
+with drift velocity as i  neAv
+
+d
+
+we can also write v d 
+
+i
+J
+E
+E
+V
+
+
+
+
+.
+neA
+ne
+ne
+ne  l n e
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 9
+
+Note : The direction of drift velocity for electron in a metal is opposite to that of applied electric
+
+field (i.e. current density J ).
+
+ v d  E i.e., greater the electric field, larger will be the drift velocity.
+ When a steady current flows through a conductor of non-uniform cross-section drift
+1
+
+velocity varies inversely with area of cross-section  v d  
+A
+
+ If diameter of a conductor is doubled, then drift velocity of electrons inside it will not
+change.
+(2) Relaxation time () : The time interval between two successive collisions of electrons with the
+mean free path
+
+positive ions in the metallic lattice is defined as relaxation time  
+with
+
+r.m.s. velocity of electrons
+v rms
+rise in temperature vrms increases consequently  decreases.
+v
+(3) Mobility : Drift velocity per unit electric field is called mobility of electron i.e.   d . It’s unit is
+E
+2
+m
+.
+volt  sec
+Concepts
+
+
+
+Human body, though has a large resistance of the order of k (say 10 k), is very sensitive to minute currents even as low as
+a few mA. Electrocution, excites and disorders the nervous system of the body and hence one fails to control the activity of the
+body.
+
+
+
+
+1 ampere of current means the flow of 6.25  1018 electrons per second through any cross-section of the conductors.
+
+
+
+It is worth noting that electric field inside a charged conductor is zero, but it is non zero inside a current carrying
+
+dc flows uniformly throughout the cross-section of conductor while ac mainly flows through the outer surface area of the
+conductor. This is known as skin effect.
+
+conductor and is given by E 
+
+V
+
+where V = potential difference across the conductor and l = length of the conductor.
+l
+Electric field out side the current carrying is zero.
+
+
+
++
+
++
+
++
+
++
+
++
+
+l
+
++
+
++
+
+Ein = 0
++
+
+
+
++
+
++
+
++
+
++
+
+Ein = V/l
+
+–
+
++
+
+For a given conductor JA = i = constant so that J 
+
+1
+i.e., J1 A1 = J2 A2 ; this is called equation of continuity
+A
+J1
+
+i
+
+J2
+
+i
+A1
+
+A2
+
+
+
+If cross-section is constant, I  J i.e. for a given cross-sectional area, greater the current density, larger will be current.
+
+
+
+The drift velocity of electrons is small because of the frequent collisions suffered by electrons.
+
+
+
+The small value of drift velocity produces a large amount of electric current, due to the presence of extremely large
+number of free electrons in a conductor. The propagation of current is almost at the speed of light and involves
+electromagnetic process. It is due to this reason that the electric bulb glows immediately when switch is on.
+
+
+
+In the absence of electric field, the paths of electrons between successive collisions are straight line while in presence of
+electric field the paths are generally curved.
+
+
+
+Free electron density in a metal is given by n 
+
+NAx d
+where NA = Avogrado number, x = number of free electrons per
+A
+atom, d = density of metal and A = Atomic weight of metal.
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+10 Current Electricity
+
+Example
+s
+Example: 1
+
+The potential difference applied to an X-ray tube is 5 KV and the current through it is 3.2 mA. Then
+the number of electrons striking the target per second is
+(a) 2  1016
+
+(b) 5  106
+
+q ne
+
+t
+t
+
+(c) 1  1017
+
+(d) 4  1015
+
+it 3 .2  10 3  1
+
+ 2  10 16
+e
+1 .6  10 19
+
+Solution : (a)
+
+i
+
+Example: 2
+
+A beam of electrons moving at a speed of 10 6 m/s along a line produces a current of 1.6  10–6 A. The
+number of electrons in the 1 metre of the beam is
+[CPMT 2000]
+
+n
+
+(a) 106
+
+(b) 107
+
+(c) 1013
+
+(d) 1019
+
+ix
+1 .6  10 6  1
+q
+q
+qv nev
+ n
+
+ 10 7
+
+
+
+t ( x / v)
+x
+x
+ev 1 .6  10 19  10 6
+
+Solution : (b)
+
+i
+
+Example: 3
+
+In the Bohr’s model of hydrogen atom, the electrons moves around the nucleus in a circular orbit of
+a radius 5  10–11 metre. It’s time period is 1.5  10–16 sec. The current associated is
+(b) 1.6  10–19 A
+
+(a) Zero
+
+(d) 1.07  10–3 A
+
+(c) 0.17 A
+
+q 1 .6  10 19
+
+ 1 .07  10  3 A
+T 1 .5  10 16
+
+Solution : (d)
+
+i
+
+Example: 4
+
+An electron is moving in a circular path of radius 5.1  10–11 m at a frequency of 6.8  1015
+revolution/sec. The equivalent current is approximately
+(a) 5.1  10–3 A
+
+(b) 6.8  10–3 A
+
+Solution : (c)
+
+  6.8  10 15  T 
+
+1
+
+Example: 5
+
+A copper wire of length 1m and radius 1mm is joined in series with an iron wire of length 2m and
+radius 3mm and a current is passed through the wire. The ratio of current densities in the copper and
+iron wire is
+
+6.8  10
+
+15
+
+sec
+
+ i
+
+(c) 1.1  10–3 A
+
+(d) 2.2  10–3 A
+
+Q
+ 1 . 6  10 19  6 . 8  10 15 = 1.1  10–3 A
+T
+
+[MP PMT 1994]
+
+(a) 18 : 1
+
+(b) 9 : 1
+i
+A
+
+(c) 6 : 1
+1
+A
+
+(d) 2 : 3
+2
+
+r 
+Jc
+A
+9
+3
+ i   i     
+Ji
+A c  rc 
+1
+1
+ 
+2
+
+Solution : (b)
+
+We know J 
+
+Example: 6
+
+A conducting wire of cross-sectional area 1 cm2 has 3  1023 m–3 charge carriers. If wire carries a
+current of 24 mA, the drift speed of the carrier is
+[UPSEAT 2001]
+(a) 5  10–6 m/s
+
+when i = constant J 
+
+(b) 5  10–3 m/s
+
+
+
+(c) 0.5 m/s
+
+(d) 5  10–2 m/s
+
+i
+24  10 3
+
+ 5  10 3 m / s
+neA 3  10 23  1 .6  10 19  10  4
+
+Solution : (b)
+
+vd 
+
+Example: 7
+
+A wire has a non-uniform cross-sectional area as shown in figure. A steady current i flows through it.
+Which one of the following statement is correct
+A
+
+(a) The drift speed of electron is constant
+A to B
+
+B
+
+(b) The drift speed increases on moving from
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 11
+
+(c) The drift speed decreases on moving from A to B
+
+(d) The drift speed varies randomly
+
+1
+Area of cross - section
+
+Solution : (c)
+
+For a conductor of non-uniform cross-section v d 
+
+Example: 8
+
+In a wire of circular cross-section with radius r, free electrons travel with a drift velocity v, when a
+current i flows through the wire. What is the current in another wire of half the radius and of the some
+material when the drift velocity is 2v
+(a) 2i
+
+(b) i
+
+(c) i/2
+
+(d) i/4
+
+2
+
+Solution : (c)
+Example: 9
+
+ne r 2 v
+i
+r
+
+i  neAv d = ner2v and i'  ne    .2v 
+2
+2
+2
+
+A potential difference of V is applied at the ends of a copper wire of length l and diameter d. On
+doubling only d, drift velocity
+(a) Becomes two times
+
+(b) Becomes half
+
+(c) Does not change
+
+(d) Becomes one fourth
+
+Solution : (c)
+
+Drift velocity doesn’t depends upon diameter.
+
+Example: 10
+
+A current flows in a wire of circular cross-section with the free electrons travelling with a mean drift
+velocity v. If an equal current flows in a wire of twice the radius new mean drift velocity is
+(a) v
+
+(b)
+
+v
+2
+
+(c)
+
+v
+4
+
+(d) None of these
+
+i
+1
+v
+ vd 
+ v' 
+neA
+A
+4
+
+Solution : (c)
+
+By using v d 
+
+Example: 11
+
+Two wires A and B of the same material, having radii in the ratio 1 : 2 and carry currents in the ratio 4
+: 1. The ratio of drift speeds of electrons in A and B is
+(a) 16 : 1
+
+Solution : (a)
+
+(b) 1 : 16
+
+As i  neA v d 
+
+(c) 1 : 4
+
+(d) 4 : 1
+
+vd
+vd
+i1
+A
+r 2 vd
+16
+ 1  1  12 . 1  1 
+i2
+A 2 v d2
+v d2
+1
+r2 v d 2
+
+Tricky example: 1
+In a neon discharge tube 2.9  1018 Ne+ ions move to the right each second while 1.2  1018
+electrons move to the left per second. Electron charge is 1.6  10–19 C. The current in the discharge
+tube
+[MP PET 1999]
+(a) 1 A towards right
+Solution: (b)
+
+(b) 0.66 A towards right (c) 0.66 A towards left (d) Zero
+
+Use following trick to solve such type of problem.
+Trick : In a discharge tube positive ions carry q units of charge in t seconds from anode to cathode
+and negative carriers (electrons) carry the same amount of charge from cathode to anode in t
+q q'
+second. The current in the tube is i   .
+t
+t'
+Hence in this question current i 
+
+2.9  10 18  e 1.2  10 18  e
+
+ 0.66 A towards right.
+1
+1
+
+Tricky example: 2
+If the current flowing through copper wire of 1 mm diameter is 1.1 amp. The drift velocity of
+electron is (Given density of Cu is 9 gm/cm3, atomic weight of Cu is 63 grams and one free
+electron is contributed by each atom)
+(a) 0.1 mm/sec
+Solution: (a)
+
+6.023 
+
+1023
+
+(b) 0.2 mm/sec
+atoms has mass = 63 
+
+10–3
+
+(c) 0.3 mm/sec
+kg
+
+(d) 0.5 mm/sec
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+12 Current Electricity
+So no. of atoms per m3 = n 
+
+vd 
+
+6 .023  10 23
+63  10 3
+
+ 9  10 3  8 .5  10 28
+
+i
+1.1
+
+ 0.1  10 3 m / sec  0.1 mm / sec
+neA 8.5  10 28  1.6  10 19    (0.5  10 3 ) 2
+
+Ohm’s Law.
+If the physical circumstances of the conductor (length, temperature, mechanical strain etc.) remains
+constant, then the current flowing through the conductor is directly proportional to the potential difference
+across it’s two ends i.e. i  V
+
+V
+ R ; where R is a proportionality constant, known as electric resistance.
+i
+(1) Ohm’s law is not a universal law, the substance which obeys ohm’s law are known as ohmic
+substance for such ohmic substances graph between V and i is a straight line as shown. At different
+temperatures V-i curves are different.
+ V  iR or
+
+V
+
+V
+
+T1
+1
+T2
+
+2
+
+1 2
+
+
+
+i
+
+i
+Slope of the line = tan  
+
+V
+
+Here tan1 > tan2
+So R1 > R2 i.e. T1 > T2
+
+ R
+
+i
+
+(2) The device or substances which doesn’t obey ohm’s law e.g. gases, crystal rectifiers, thermoionic
+valve, transistors etc. are known as non-ohmic or non-linear conductors. For these V-i curve is not linear. In
+these situation the ratio between voltage and current at a particular voltage is known as static resistance.
+While the rate of change of voltage to change in current is known as dynamic resistance.
+
+while Rdyn 
+
+Crystal
+rectifier
+
+i
+
+V
+1
+Rst  
+i
+tan 
+V
+1
+
+I tan 
+
+
+
+
+
+A
+
+V
+V
+
+(3) Some other non-ohmic graphs are as follows :
+Tetrod
+e valve
+
+i
+
+i
+
+i
+
+i
+
+Semi
+conductor
+
+Torch
+bulb
+
+Diode
+
+B
+C
+A
+
+V
+
+V
+(A)
+
+(B)
+
+V
+
+V
+(C)
+
+(D)
+
+Resistance.
+(1) Definition : The property of substance by virtue of which it opposes the flow of current through it,
+is known as the resistance.
+(2) Cause of resistance of a conductor : It is due to the collisions of free electrons with the ions or
+atoms of the conductor while drifting towards the positive end of the conductor.
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 13
+
+(3) Formula of resistance : For a conductor if l = length of a conductor A = Area of crosssection of conductor, n = No. of free electrons per unit volume in conductor,  = relaxation time then
+resistance of conductor R  
+
+l
+m
+l
+
+. ; where  = resistivity of the material of conductor
+2
+A ne  A
+
+(4) Unit and dimension : It’s S.I. unit is Volt/Amp. or Ohm (). Also 1 ohm
+10 8 emu of potenti al
+1volt
+
+
+= 109 emu of resistance. It’s dimension is [ML 2 T 3 A 2 ] .
+1 Amp
+10 1 emu of current
+(5) Conductance (C) : Reciprocal of resistance is known as conductance. C 
+or “Siemen”.
+
+i
+Slope = tan  
+
+
+
+i
+V
+
+
+
+1
+R
+
+1
+1
+It’s unit is
+or –1
+R
+
+
+C
+
+V
+
+(6) Dependence of resistance : Resistance of a conductor depends on the following factors.
+(i) Length of the conductor : Resistance of a conductor is directly proportional to it’s length i.e. R  l
+R
+e.g. a conducting wire having resistance R is cut in n equal parts. So resistance of each part will be
+.
+n
+(ii) Area of cross-section of the conductor : Resistance of a conductor is inversely proportional to it’s
+1
+area of cross-section i.e. R 
+A
+l
+
+Less : Area of crosssection
+More : Resistance
+
+l
+
+More : Area of cross-section
+Less : Resistance
+
+(iii) Material of the conductor : Resistance of conductor also depends upon the nature of material i.e.
+1
+R  , for different conductors n is different. Hence R is also different.
+n
+
+m
+l
+l
+when a metallic conductor is heated, the
+.
+R 
+2
+
+ne  A
+atom in the metal vibrate with greater amplitude and frequency about their mean positions. Consequently
+the number of collisions between free electrons and atoms increases. This
+Rt
+reduces the relaxation time  and increases the value of resistance R i.e. for a
+conductor Resistance  temperatur e .
+(iv) Temperature : We know that R 
+
+If
+
+R0
+
+R0 = resistance of conductor at 0oC
+Rt = resistance of conductor at toC
+
+O
+
+and ,  = temperature co-efficient of resistance (unit  peroC)
+then R t  R 0 (1  t  t 2 ) for t > 300oC and Rt  R0 (1  αt ) for t  300oC or  
+
+Note : 
+
+If R1 and R2 are the resistances at t1oC and t2oC respectively then
+
+R t  R0
+R0  t
+
+R1 1   t1
+
+.
+R2 1   t2
+
+toC
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+14 Current Electricity
+ The value of  is different at different temperature. Temperature coefficient of resistance
+R  R1
+averaged over the temperature range t1oC to t2oC is given by   2
+which gives R2 = R1
+R1 (t2  t1 )
+[1 +  (t2 – t1)]. This formula gives an approximate value.
+(v) Resistance according to potential difference : Resistance of a conducting body is not unique
+but depends on it’s length and area of cross-section i.e. how the potential difference is applied. See the
+following figures
+
+
+
+b
+
+c
+
+
+c
+
+b
+
+a
+
+b
+
+a
+
+c
+a
+
+Length = b
+
+Length = a
+
+Length = c
+
+Area of cross-section = a  c
+
+Area of cross-section = b  c
+
+Area of cross-section = a  b
+
+ b 
+
+ac
+
+Resistance R   
+
+ a 
+
+bc
+
+Resistance R   
+
+ c 
+
+ab
+
+Resistance R   
+
+(7) Variation of resistance of some electrical material with temperature :
+(i) Metals : For metals their temperature coefficient of resistance  > 0. So resistance increases with
+temperature.
+Physical explanation : Collision frequency of free electrons with the immobile positive ions increases
+(ii) Solid non-metals : For these  = 0. So resistance is independence of temperature.
+Physical explanation : Complete absence of free electron.
+(iii) Semi-conductors : For semi-conductor  < 0 i.e. resistance decreases with temperature rise.
+Physical explanation : Covalent bonds breaks, liberating more free electron and conduction increases.
+(iv) Electrolyte : For electrolyte  < 0 i.e. resistance decreases with temperature rise.
+Physical explanation : The degree of ionisation increases and solution becomes less viscous.
+(v) Ionised gases : For ionised gases  < 0 i.e. resistance decreases with temperature rise.
+Physical explanation : Degree of ionisation increases.
+(vi) Alloys : For alloys  has a small positive values. So with rise in temperature resistance of alloys is
+almost constant. Further alloy resistances are slightly higher than the pure metals resistance.
+Alloys are used to made standard resistances, wires of resistance box, potentiometer wire, meter bridge
+wire etc.
+Commonly used alloys are : Constantan, mangnin, Nichrome etc.
+(vii) Super conductors : At low temperature, the resistance of certain substances becomes exactly zero.
+(e.g. Hg below 4.2 K or Pb below 7.2 K).
+These substances are called super conductors and phenomenon super conductivity. The temperature
+at which resistance becomes zero is called critical temperature and depends upon the nature of substance.
+
+Resistivity or Specific Resistance ().
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 15
+
+l
+; If l = 1m, A = 1 m2 then R  ρ i.e. resistivity is numerically equal to
+A
+the resistance of a substance having unit area of cross-section and unit length.
+(2) Unit and dimension : It’s S.I. unit is ohm  m and dimension is [ML3 T 3 A 2 ]
+(1) Definition : From R  
+
+(3) It’s formula :  
+
+m
+
+ne 2
+(4) It’s dependence : Resistivity is the intrinsic property of the substance. It is independent of shape
+and size of the body (i.e. l and A). It depends on the followings :
+(i) Nature of the body : For different substances their resistivity also different e.g. silver =
+minimum = 1.6  10–8 -m and fused quartz = maximum  1016 -m
+(ii) Temperature : Resistivity depends on the temperature. For metals t = 0 (1 + t) i.e. resitivity
+increases with temperature.
+Semiconductor
+
+Metal
+
+Superconductor
+
+
+
+
+
+
+TC
+T
+
+T
+
+T
+
+ increases with temperature
+
+ decreases with temperature
+
+ decreases with temperature and
+becomes zero at a certain temperature
+
+(iii) Impurity and mechanical stress : Resistivity increases with impurity and mechanical stress.
+(iv) Effect of magnetic field : Magnetic field increases the resistivity of all metals except iron, cobalt
+and nickel.
+(v) Effect of light : Resistivity of certain substances like selenium, cadmium, sulphides is inversely
+proportional to intensity of light falling upon them.
+(5) Resistivity of some electrical material :
+
+ρinsulator > ρalloy > ρsemi-conductor >ρconductor
+
+Reciprocal of resistivity is called conductivity () i.e.  
+
+1
+
+
+
+with unit mho/m and dimensions
+
+[M 1 L3 T 3 A 2 ] .
+
+Stretching of Wire. If a conducting wire stretches, it’s length increases, area of cross-section decreases
+so resistance increases but volume remain constant.
+Suppose for a conducting wire before stretching it’s length = l1, area of cross-section = A1, radius = r1,
+l
+diameter = d1, and resistance R1   1
+A1
+Before stretching
+
+l1
+
+l2
+
+
+
+
+
+After stretching
+
+Volume remains constant i.e. A1l1 = A2l2
+
+After stretching length = l2, area of cross-section = A2, radius = r2, diameter = d2 and resistance  R 2  
+
+2
+
+Ratio of resistances
+
+2
+
+4
+
+A 
+r 
+d 
+R1 l1 A2  l1 
+ 
+     2    2    2 
+R2 l 2 A1  l 2 
+ A1 
+ r1 
+ d1 
+
+l 
+R
+(1) If length is given then R  l  1   1 
+R2  l2 
+2
+
+2
+
+4
+
+l2
+A2
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+16 Current Electricity
+r 
+1
+R
+(2) If radius is given then R  4  1   2 
+R2  r1 
+r
+
+Note : 
+
+4
+
+After stretching if length increases by n times then resistance will increase by n2 times
+
+i.e. R2  n 2 R1 . Similarly if radius be reduced to
+
+1
+n
+
+2
+
+1
+times then area of cross-section decreases
+n
+
+times so the resistance becomes n4 times i.e. R 2  n 4 R1 .
+
+ After stretching if length of a conductor increases by x% then resistance will increases by 2x %
+(valid only if x < 10%)
+
+Various Electrical Conducting Material For Specific Use.
+(1) Filament of electric bulb : Is made up of tungsten which has high resistivity, high melting
+point.
+(2) Element of heating devices (such as heater, geyser or press) : Is made up of nichrome
+which has high resistivity and high melting point.
+(3) Resistances of resistance boxes (standard resistances) : Are made up of manganin, or
+constantan as these materials have moderate resistivity which is practically independent of temperature so
+that the specified value of resistance does not alter with minor changes in temperature.
+(4) Fuse-wire : Is made up of tin-lead alloy (63% tin + 37% lead). It should have low melting point
+and high resistivity. It is used in series as a safety device in an electric circuit and is designed so as to melt
+and thereby open the circuit if the current exceeds a predetermined value due to some fault. The function of
+a fuse is independent of its length.
+Safe current of fuse wire relates with it’s radius as i  r 3/2 .
+(5) Thermistors : A thermistor is a heat sensitive resistor usually prepared from oxides of various
+metals such as nickel, copper, cobalt, iron etc. These compounds are also semi-conductor. For thermistors
+ is very high which may be positive or negative. The resistance of thermistors changes very rapidly with
+change of temperature.
+i
+
+V
+
+Thermistors are used to detect small temperature change and to measure very low temperature.
+Concepts
+
+
+
+In the absence of radiation loss, the time in which a fuse will melt does not depends on it’s length but varies with radius as t  r 4 .
+
+
+
+If length (l) and mass (m) of a conducting wire is given then R 
+
+
+
+Macroscopic form of Ohm’s law is R 
+
+Example
+s
+
+l2
+.
+m
+
+V
+, while it’s microscopic form is J =  E.
+i
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 17
+
+Example: 12
+
+Two wires of resistance R1 and R2 have temperature co-efficient of resistance 1 and 2 respectively.
+These are joined in series. The effective temperature co-efficient of resistance is
+(a)
+
+Solution : (c)
+
+1   2
+
+(b)
+
+2
+
+ 1 2
+
+(c)
+
+ 1 R1   2 R 2
+
+R 1 R 2  1 2
+
+(d)
+
+R1  R 2
+
+R 12  R 22
+
+Suppose at toC resistances of the two wires becomes R1t and R 2 t respectively and equivalent
+resistance becomes Rt. In series grouping Rt = R1t + R2t, also R1t = R1(1 + 1t) and R2t = R2(1 + 2t)
+
+R   R 2 2
+Rt = R1(1 + 1t) + R2(1 + 2t) = (R1 + R2) + (R11 + R22)t = (R 1  R 2 )1  1 1
+R1  R 2
+
+
+Hence effective temperature co-efficient is
+Example: 13
+
+
+t .
+
+
+R1 1  R 2 2
+.
+R1  R 2
+
+From the graph between current i & voltage V shown, identity the portion corresponding to negative
+resistance
+[CBSE PMT 1997]
+
+i
+
+(a) DE
+
+C
+
+(b) CD
+
+E
+
+B
+
+D
+
+(c) BC
+A
+
+(d) AB
+
+V
+
+V
+, in the graph CD has only negative slope. So in this portion R is negative.
+I
+
+Solution : (b)
+
+R
+
+Example: 14
+
+A wire of length L and resistance R is streched to get the radius of cross-section halfed. What is new
+resistance
+[NCERT 1974; CPMT 1994; AIIMS 1997; KCET 1999; Haryana PMT 2000; UPSEAT 2001]
+
+(a) 5 R
+
+(b) 8 R
+R 1  r2 
+ 
+R 2  r1 
+
+4
+
+
+
+R r/2
+
+
+R'  r 
+
+(c) 4 R
+
+(d) 16 R
+
+4
+
+ R'  16 R
+
+Solution : (d)
+
+By using
+
+Example: 15
+
+The V-i graph for a conductor at temperature T1 and T2 are as shown in the figure. (T2 – T1) is
+proportional to
+(a) cos 2
+
+T2
+
+V
+
+T1
+
+(b) sin
+
+
+(c) cot 2
+
+
+i
+
+(d) tan
+Solution : (c)
+
+As we know, for conductors resistance  Temperature.
+From figure R1  T1  tan  T1  tan = kT1
+
+……. (i)
+
+and R2  T2  tan (90o – )  T2  cot = kT2
+
+……..(ii)
+
+(k = constant)
+
+From equation (i) and (ii) k(T2  T1 )  (cot   tan  )
+2
+2
+cos 2
+ cos  sin   (cos   sin  )
+(T2  T1 )  
+
+
+ 2 cot 2  (T2 – T1)  cot 2
+
+sin  cos 
+sin  cos 
+ sin  cos  
+
+Example: 16
+
+The resistance of a wire at 20oC is 20  and at 500oC is 60. At which temperature resistance will be
+25
+[UPSEAT 1999]
+
+(a)
+
+50oC
+
+(b)
+
+60oC
+
+(c)
+
+70oC
+
+(d)
+
+80oC
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+18 Current Electricity
+Solution : (d)
+
+By using
+
+R1
+(1   t1 )
+20
+1  20
+1
+
+
+
+ 
+R 2 (1   t 2 )
+60 1  500
+220
+
+1
+
+
+ 20 
+1 
+220
+20 
+  t = 80oC
+Again by using the same formula for 20 and 25 
+
+25
+1
+
+
+ t
+1 
+220
+
+
+Example: 17
+
+The specific resistance of manganin is 50  10–8 m. The resistance of a manganin cube having length
+50 cm is
+(a) 10–6 
+
+(b) 2.5  10–5 
+
+(c) 10–8 
+
+(d) 5  10–4 
+
+l
+50  10 8  50  10 2
+
+ 10 6 
+A
+(50  10  2 ) 2
+
+Solution : (a)
+
+R
+
+Example: 18
+
+A rod of certain metal is 1 m long and 0.6 cm in diameter. It’s resistance is 3  10–3. A disc of the
+same metal is 1 mm thick and 2 cm in diameter, what is the resistance between it’s circular faces.
+(a) 1.35  10–6
+
+(b) 2.7  10–7 
+
+(c) 4.05  10–6
+
+(d) 8.1  10–6 
+
+R disc
+l
+A
+10 3  (0 .3  10 2 ) 2
+l R disc
+
+
+ Rdisc = 2.7  10–7.
+;
+ disc  rod 
+1
+A R rod
+l rod A disc
+3  10  3
+ (10  2 ) 2
+
+Solution : (b)
+
+By using R  .
+
+Example: 19
+
+An aluminium rod of length 3.14 m is of square cross-section 3.14  3.14 mm2. What should be the
+radius of 1 m long another rod of same material to have equal resistance
+(a) 2 mm
+
+(b) 4 mm
+
+(c) 1 mm
+
+(d) 6 mm
+
+l
+3 .14 3 .14  3 .14  10 6
+lA
+ r = 10–3 m = 1 mm
+
+A
+1
+  r2
+
+Solution : (c)
+
+By using R   .
+
+Example: 20
+
+Length of a hollow tube is 5m, it’s outer diameter is 10 cm and thickness of it’s wall is 5 mm. If
+resistivity of the material of the tube is 1.7  10–8 m then resistance of tube will be
+(a) 5.6  10–5 
+
+Solution : (a)
+
+By using R   .
+
+(b) 2  10–5 
+
+(c) 4  10–5 
+
+l
+; here A   (r22  r12 )
+A
+r2
+
+Outer radius r2 = 5cm
+
+So R  1 .7  10 8 
+
+5
+
+ {(5  10
+
+5 mm
+r1
+
+10 cm
+
+Inner radius r1 = 5 – 0.5 = 4.5 cm
+
+Example: 21
+
+(d) None of these
+
+2 2
+
+)  (4 .5  10
+
+2 2
+
+ 5.6  10 5 
+
+) }
+
+If a copper wire is stretched to make it 0.1% longer, the percentage increase in resistance will be
+[MP PMT 1996, 2000; UPSEAT 1998; MNR 1990]
+
+(a) 0.2
+
+(b) 2
+
+(c) 1
+
+(d) 0.1
+
+R
+l
+2
+ 2  0 .1  0 .2
+R
+l
+
+Solution : (a)
+
+In case of streching R  l2
+
+Example: 22
+
+The temperature co-efficient of resistance of a wire is 0.00125/oC. At 300 K. It’s resistance is 1. The
+resistance of the wire will be 2 at
+[MP PMT 2001; IIT 1980]
+(a) 1154 K
+
+Solution: (b)
+
+So
+
+(b) 1127 K
+
+By using Rt = Ro (1 + t) 
+
+(c) 600 K
+
+(d) 1400 K
+
+R1
+1   t1
+1 1  (300  273)
+
+So
+ t2 = 854oC = 1127 K
+
+2
+1   t2
+R2 1   t2
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 19
+
+Example: 23
+
+Equal potentials are applied on an iron and copper wire of same length. In order to have same current
+ r
+flow in the wire, the ratio  iron
+ rcopper
+
+
+
+ of their radii must be [Given that specific resistance of iron = 1.0 
+
+
+
+10–7 m and that of copper = 1.7  10–8 m]
+(a) About 1.2
+Solution: (b)
+
+
+Example: 24
+
+(b) About 2.4
+
+V = constant., i = constant.
+
+
+Pi li
+ l
+ Cu Cu
+Ai
+A Cu
+ri
+
+rCu
+
+
+
+ i li
+ri2
+
+(d) About 4.8
+
+So R = constant
+
+
+
+ Cu lCu
+2
+rCu
+
+Masses of three wires are in the ratio 1 : 3 : 5 and their lengths are in the ratio 5 : 3 : 1. The ratio of
+their electrical resistance is
+
+R
+
+(b) 5 : 3 : 1
+
+(c) 1 : 15 : 125
+
+(d) 125 : 15 : 1
+
+m
+
+  
+V
+
+
+l
+l2
+l2
+
+ 
+A
+V
+m
+
+R1 : R 2 : R 3 
+Example: 25
+
+(c) About 3.6
+
+i
+1 . 0  10 7
+100
+
+
+ 2 .4
+8
+ Cu
+17
+1 . 7  10
+
+(a) 1 : 3 : 5
+Solution: (d)
+
+[MP PMT 2000]
+
+l12
+l2
+l2
+9 1
+: 2 : 3  25 : :  125 : 15 : 1
+3 5
+m1 m 2 m 3
+
+Following figure shows cross-sections through three long conductors of the same length and material,
+with square cross-section of edge lengths as shown. Conductor B will fit snugly within conductor A,
+and conductor C will fit snugly within conductor B. Relationship between their end to end resistance is
+3a
+
+2a
+
+(a) RA = RB = RC
+
+a
+
+(b) RA > RB > RC
+
+A
+
+B
+
+C
+
+(c) RA < RB < R
+(d) Information is not sufficient
+Solution : (a)
+
+
+
+
+
+All the conductors have equal lengths. Area of cross-section of A is ( 3 a) 2  ( 2 a) 2  a 2
+Similarly area of cross-section of B = Area of cross-section of C = a2
+Hence according to formula R  
+
+Dimensions of a block are 1 cm  1 cm  100 cm. If specific resistance of its material is 3  10–7 ohm-m,
+then the resistance between it’s opposite rectangular faces is
+(a) 3  10–9 ohm
+
+Solution: (b)
+
+(b) 3  10–7 ohm
+
+(c) 3  10–5 ohm
+
+(d) 3  10–3 ohm
+
+Length l = 1 cm  10 2 m
+Area of cross-section A = 1 cm  100 cm
+= 100 cm2 = 10–2 m2
+Resistance R = 3  10–7 
+
+10 2
+10  2
+
+= 3  10–7 
+
+1 cm
+
+Example: 26
+
+l
+; resistances of all the conductors are equal i.e. RA = RB = RC
+A
+
+100
+cm
+1 cm
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+20 Current Electricity
+
+Note : In the above question for calculating equivalent resistance between two opposite square
+faces.
+l = 100 cm = 1 m, A = 1 cm2 = 10–4 m2, so resistance R = 3  10–7 
+
+1
+10 4
+
+= 3  10–3 
+
+3. Two rods A and B of same material and length have their electric resistances are in ratio 1 : 2. When both the rods
+are dipped in water, the correct statement will be
+[RPMT 1997]
+(a) A has more loss of weight
+
+(b) B has more loss of weight
+
+(c) Both have same loss of weight
+
+(d) Loss of weight will be in the ratio 1 : 2
+
+R
+
+Solution: (a)
+
+R
+A
+A
+R
+L
+ 1  2 (, L constant)  1  2  2
+A
+R2
+A1
+A2
+R1
+
+Now when a body dipped in water, loss of weight = VLg = ALLg
+So
+
+(Loss of weight) 1
+A
+ 1  2 ; So A has more loss of weight
+(Loss of weight) 2
+A2
+
+The V-i graph for a conductor makes an angle  with V-axis. Here V denotes the voltage and i denotes
+current. The resistance of conductor is given by
+(a) sin
+cot
+Solution: (d)
+
+cos
+
+(b)
+
+(c) tan
+
+(d)
+
+At an instant approach the student will choose tan  will be the right answer. But it is to be seen
+here the curve makes the angle  with the V-axis. So it makes an angle (90 – ) with the i-axis. So
+resistance = slope = tan (90 – ) = cot.
+V
+
+
+i
+
+Colour Coding of Resistance.
+The resistance, having high values are used in different electrical and electronic circuits. They are
+generally made up of carbon, like 1 k, 2 k, 5 k etc. To know the value of resistance colour code is used.
+These code are printed in form of set of rings or strips. By reading the values of colour bands, we can
+estimate the value of resistance.
+The carbon resistance has normally four coloured rings or strips say A, B, C and D as shown in
+following figure.
+A B
+
+C
+
+D
+
+Colour band A and B indicate the first two significant figures of resistance in ohm, while the C band
+gives the decimal multiplier i.e. the number of zeros that follows the two significant figures A and B.
+Last band (D band) indicates the tolerance in percent about the indicated value or in other ward it
+represents the percentage accuracy of the indicated value.
+The tolerance in the case of gold is  5% and in silver is  10%. If only three bands are marked on
+carbon resistance, then it indicate a tolerance of 20%.
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 21
+
+The following table gives the colour code for carbon resistance.
+Letters as an aid to
+memory
+
+Colour
+
+Figure
+
+Multiplier
+
+(A, B)
+
+(C)
+
+Colour
+
+Tolerance
+(D)
+
+B
+
+Black
+
+0
+
+10o
+
+Gold
+
+5%
+
+B
+
+Brown
+
+1
+
+101
+
+Silver
+
+10%
+
+R
+
+Red
+
+2
+
+102
+
+No-colour
+
+20%
+
+O
+
+Orange
+
+3
+
+103
+
+Y
+
+Yellow
+
+4
+
+104
+
+G
+
+Green
+
+5
+
+105
+
+B
+
+Blue
+
+6
+
+106
+
+V
+
+Violet
+
+7
+
+107
+
+G
+
+Grey
+
+8
+
+108
+
+W
+
+White
+
+9
+
+109
+
+Note : 
+
+To remember the sequence of colour code following sentence should kept in memory.
+
+B B R O Y Great Britain Very Good Wife.
+
+Grouping of Resistance.
+Series
+(1)
+
+Parallel
+
+R1
+
+R2
+
+R3
+
+V1
+
+V2
+
+V3
+
+(1)
+
+i1
+i2
+i3
+
+i
+
+i
++
+
+–
+V
+
+(2) Same current flows through each resistance but
+potential difference distributes in the ratio of
+resistance i.e. V  R
+Power consumed are in the ratio of their resistance
+i.e. P  R  P1 : P2 : P3  R1 : R 2 : R 3
+
+(3) R eq  R1  R 2  R 3 equivalent resistance is greater
+than the maximum value of resistance in the
+combination.
+
+R2
+R3
+V
+
+(2) Same potential difference appeared across each
+resistance but current distributes in the reverse ratio
+1
+of their resistance i.e. i 
+R
+Power consumed are in the reverse ratio of
+1
+1
+1
+1
+resistance i.e. P 
+ P1 : P2 : P3 
+:
+:
+R
+R1 R 2 R 3
+(3)
+
+1
+1
+1
+1
+or R eq  (R 11  R 21  R 31 ) 1
+
+
+
+R eq
+R1 R 2 R 3
+
+R1 R 2 R 3
+equivalent
+R1 R 2  R 2 R 3  R 2 R1
+resistance is smaller than the minimum value of
+resistance in the combination.
+or
+
+(4) For two resistance in series Req = R1 + R2
+
+R1
+
+R eq 
+
+(4) For two resistance in parallel
+R1 R 2
+Multiplication
+R eq 
+
+R1  R 2
+Addition
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+22 Current Electricity
+ R'
+(5) Potential difference across any resistance V '  
+ R eq
+
+
+(5) Current through any resistance
+
+
+V
+
+
+
+ Resistance of opposite branch 
+i'  i  
+
+Total resistance
+
+
+
+Where R = Resistance across which potential
+difference is to be calculated, Req = equivalent
+resistance of that line in which R is connected, V =
+p.d. across that line in which R is connected
+e.g.
+
+R1
+
+R2
+
+V1
+
+V2
+
+Where i = required current (branch current)
+i = main current
+R1
+
+i1
+i
+
+R2
+
+i2
++ –
+V
+
+ R1
+V1  
+ R1  R 2
+
+
+ R2
+  V and V2  
+ R1  R 2
+
+
+ R2
+i1  i 
+ R1  R 2
+
+
+  V
+
+
+(6) If n identical resistance are connected in series
+R eq  nR and p.d. across each resistance V ' 
+
+
+ R1
+ and i2  i 
+
+ R1  R 2
+
+
+
+
+
+(6) In n identical resistance are connected in parallel
+V
+n
+
+R eq 
+
+R
+i
+and current through each resistance i' 
+n
+n
+
+Note :  In case of resistances in series, if one resistance gets open, the current in the whole circuit
+become zero and the circuit stops working. Which don’t happen in case of parallel gouging.
+ Decoration of lightning in festivals is an example of series grouping whereas all household
+appliances connected in parallel grouping.
+ Using n conductors of equal resistance, the number of possible combinations is 2n – 1.
+ If the resistance of n conductors are totally different, then the number of possible combinations will be 2n.
+
+Methods of Determining Equivalent Resistance For Some Difficult Networks.
+(1) Method of successive reduction : It is the most common technique to determine the
+equivalent resistance. So far, we have been using this method to find out the equivalent resistances.
+This method is applicable only when we are able to identify resistances in series or in parallel. The
+method is based on the simplification of the circuit by successive reduction of the series and parallel
+combinations. For example to calculate the equivalent resistance between the point A and B, the
+network shown below successively reduced.
+R
+
+R
+
+R
+
+R
+
+R
+2R
+
+
+
+2R
+
+R
+R
+
+B
+
+
+
+2R
+
+R
+
+2R
+A
+
+R
+
+R
+
+B
+
+
+
+R
+
+R
+
+2R
+A
+
+R
+
+RA
+
+2R
+A
+
+R
+
+R
+
+R
+R
+
+B
+
+
+
+3R/2
+A
+
+B
+
+B
+
+(2) Method of equipotential points : This method is based on identifying the points of same
+potential and joining them. The basic rule to identify the points of same potential is the symmetry of the
+network.
+(i) In a given network there may be two axes of symmetry.
+(a) Parallel axis of symmetry, that is, along the direction of current flow.
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 23
+
+(b) Perpendicular axis of symmetry, that is perpendicular to the direction of flow of current.
+For example in the network shown below the axis AA is the parallel axis of symmetry, and the axis BB
+is the perpendicular axis of symmetry.
+6
+
+R
+
+A
+
+1
+
+R
+
+B2
+R
+
+R
+
+R
+
+5
+
+R
+
+R
+R
+
+7
+
+O R
+
+B4
+
+R
+
+8
+
+R
+R
+
+3
+
+A
+
+(ii) Points lying on the perpendicular axis of symmetry may have same potential. In the given network,
+point 2, 0 and 4 are at the same potential.
+(iii) Points lying on the parallel axis of symmetry can never have same potential.
+(iv) The network can be folded about the parallel axis of symmetry, and the overlapping nodes have
+same potential. Thus as shown in figure, the following points have same potential
+(a) 5 and 6
+
+(b) 2, 0 and 4
+2,
+4
+
+R
+5,
+6
+
+R
+
+R R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R/2
+
+R/2
+7,
+8
+
+R
+
+R
+
+
+
+R
+
+R/2
+
+R/2
+
+R/2
+
+ 1
+R/2
+
+1
+
+3R/
+2
+
+3
+
+3
+
+3
+
+O
+
+1
+
+(c) 7 and 8
+
+Note :  Above network may be split up into two equal parts about the parallel axis of symmetry as
+shown in figure each part has a resistance R, then the equivalent resistance of the network will be R 
+2
+R
+
+R
+
+R
+R
+
+1
+
+
+
+R
+R
+
+3
+A
+
+A
+
+R'
+.
+2
+
+R  = 3R
+1
+
+3
+
+Some Standard Results for Equivalent Resistance.
+(1) Equivalent resistance between points A and B in an unbalanced Wheatstone’s bridge as shown in the
+diagram.
+(i)
+
+G
+
+A
+R
+
+R AB 
+
+(ii)
+
+Q
+
+P
+
+Q
+
+P
+
+G
+
+A
+
+B
+S
+
+B
+
+Q
+
+PQ(R  S )  (P  Q)RS  G(P  Q)(R  S )
+G(P  Q  R  S )  (P  R)(Q  S )
+
+R AB 
+
+P
+
+2 PQ  G(P  Q)
+2G  P  Q
+
+(2) A cube each side have resistance R then equivalent resistance in different situations
+(i) Between E and C i.e. across the diagonal of the cube R EC 
+(ii) Between A and B i.e. across one side of the cube R AB
+
+5
+R
+6
+
+7
+
+R
+12
+
+H
+E
+
+G
+F
+
+D
+A
+
+C
+B
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+24 Current Electricity
+(iii) Between A and C i.e. across the diagonal of one face of the cube R AC 
+
+3
+R
+4
+
+(3) The equivalent resistance of infinite network of resistances
+(i)
+
+R1
+
+A
+
+R1
+
+(ii)
+
+R1
+
+R1
+
+A
+R3
+
+R3
+B
+
+R AB 
+
+R1
+
+R2
+
+R2
+
+R3
+
+R2
+
+R3
+
+
+
+R1
+
+R1
+
+R2
+
+R2
+
+R2
+
+R2
+
+
+
+B
+
+R2
+
+
+
+R1
+
+
+
+1
+1
+(R 1  R 2 )  (R 1  R 2 ) 2  4 R 3 (R 1  R 2 )
+2
+2
+
+1/2
+
+R AB 
+
+
+R
+1
+R1 1  1  4  2
+2
+
+ R1
+
+
+
+ 
+ 
+
+Concepts
+
+
+
+If n identical resistances are first connected in series and then in parallel, the ratio of the equivalent resistance is given by
+
+Rp
+Rs
+
+
+
+
+
+n2
+.
+1
+
+If equivalent resistance of R1 and R2 in series and parallel be Rs and Rp respectively then R1 
+and R 2 
+
+
+
+1
+2
+
+
+2
+ R s  R s  4 R s R p
+
+1
+2
+
+
+
+2
+ R s  R s  4 R s R p 
+
+
+ .
+
+If a wire of resistance R, cut in n equal parts and then these parts are collected to form a bundle then equivalent resistance
+R
+of combination will be 2 .
+n
+
+Example
+s
+Example: 27
+
+Solution : (d)
+Example: 28
+
+In the figure a carbon resistor has band of different colours on its body. The resistance of the following
+body is
+Red
+Silver
+(a) 2.2 k
+(b) 3.3 k
+(c) 5.6 k
+Brow
+White
+(d) 9.1 kl
+n
+,
+R = 91  102  10%  9.1 k
+What is the resistance of a carbon resistance which has bands of colours brown, black and brown [DCE 1999]
+(a) 100 
+
+(b) 1000 
+
+Solution : (a)
+
+R = 10  101  20%  100 
+
+Example: 29
+
+In the following circuit reading of voltmeter V is
+
+(c) 10 
+
+[MP PET 2003]
+
+(a) 12 V
+
+4
+
+(b) 8 V
+(c) 20 V
+
+16 
+
+V
+2A
+
+(d) 16 V
+Solution : (a)
+
+(d) 1 
+
+P.d. between X and Y is VXY = VX – VY = 1  4 = 4 V
+
+16 
+
+4
+4
+
+…. (i)
+
+and p.d. between X and Z is VXZ = VX – VZ = 1  16 = 16 V
+
+…. (ii)
+
+Y
+
+16 
+
+1A
+2A
+X
+
+V
+1A
+16 
+
+Z
+
+4
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 25
+
+On solving equations (i) and (ii) we get potential difference between Y and Z i.e., reading of voltmeter
+is VY  VZ  12 V
+Example: 30
+
+An electric cable contains a single copper wire of radius 9 mm. It’s resistance is 5 . This cable is
+replaced by six insulated copper wires, each of radius 3 mm. The resultant resistance of cable will be [CPMT 198
+(a) 7.5 
+
+Solution : (a)
+
+(b) 45 
+
+(c) 90 
+
+(d) 270 
+
+Initially : Resistance of given cable
+
+R
+
+l
+
+l
+
+….. (i)
+
+  (9  10 3 ) 2
+
+
+
+Finally : Resistance of each insulated copper wire is
+
+R' 
+
+9 mm
+
+l
+
+l
+
+  (3  10 3 ) 2
+
+
+
+Hence equivalent resistance of cable
+R eq 
+
+R' 1 
+l
+   
+6
+6    (3  10  3 ) 2
+
+
+ ….. (ii)
+
+
+
+On solving equation (i) and (ii) we get Req = 7.5 
+Example: 31
+
+Two resistance R1 and R2 provides series to parallel equivalents as
+R
+(a)  1
+ R2
+
+2
+
+R
+(c)  1
+ R2
+Solution : (d)
+
+2
+
+
+R 
+   2   n 2
+
+ R1 
+
+  R2
+  
+  R1
+
+
+  n
+
+
+R1  R 2
+
+ n
+
+
+
+R1 R 2
+Example: 32
+
+R 12
+
+R 22
+
+
+
+R1 R 2
+
+
+
+
+
+3/2
+
+R
+(d)  1
+ R2
+
+
+
+
+
+1/2
+
+ n 
+
+R1 R 2
+
+(b) 22 
+(c) 20 
+
+
+
+
+
+R
+  2
+ R1
+
+
+
+
+
+3/2
+
+ n3/2
+
+1/2
+
+ n1 / 2
+
+R
+(R  R 2 ) 2
+R1 R 2
+n
+ S  1
+RP
+R1 R 2
+R1  R 2
+
+R1
+
+R2
+
+R2
+ n
+R1
+
+10 
+X
+
+10 
+
+20
+
+
+(d) 50 
+The equivalent circuit of above can be drawn as
+Which is a balanced wheatstone bridge.
+
+10 
+
+Y
+
+10 
+A
+10 
+
+So current through AB is zero.
+So
+Example: 33
+
+R
+  2
+ R1
+
+Five resistances are combined according to the figure. The equivalent resistance between the point X
+and Y will
+be
+(a) 10 
+
+Solution : (a)
+
+R
+(b)  1
+ R2
+
+Series resistance R S  R1  R 2 and parallel resistance R P 
+
+
+
+n
+then the correct relationship is
+1
+
+X
+
+1
+1
+1
+1
+
+
+
+ R = 10 
+R 20 20 10
+
+Y
+10 
+
+20 
+
+10 
+
+10 
+
+B
+
+What will be the equivalent resistance of circuit shown in figure between points A and D [CBSE PMT 1996]
+(a) 10 
+(b) 20 
+
+A
+
+C
+
+10 
+
+10 
+
+10 
+
+10 
+
+10 
+
+10 
+
+10 
+
+10 
+
+B
+
+D
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+26 Current Electricity
+(c) 30 
+Solution : (c)
+
+(d) 40 
+The equivalent circuit of above fig between A and D can be drawn as
+A
+
+10
+
+Balanced wheatstone
+bridge
+
+10
+
+10
+
+Series
+
+
+
+10
+
+10
+
+10
+
+A
+
+10
+
+D
+
+10
+
+D
+
+10
+
+So R eq  10  10  10  30 
+Example: 34
+
+In the network shown in the figure each of resistance is equal to 2. The resistance between A and B is
+C
+
+(a)
+(b)
+(c)
+(d)
+Solution : (b)
+
+1
+2
+3
+4
+
+[CBSE PMT 1995]
+
+O
+
+A
+
+B
+
+E
+
+D
+
+Taking the portion COD is figure to outside the triangle (left), the above circuit will be now as
+resistance of each is 2  the circuit will behaves as a balanced wheatstone bridge and no current flows
+through CD. Hence RAB = 2
+A
+
+C
+
+O
+
+D
+
+Example: 35
+
+E
+
+B
+
+Seven resistances are connected as shown in figure. The equivalent resistance between A and B is [MP PET 2000]
+(a) 3 
+
+10 
+
+(b) 4 
+
+A
+
+(c) 4.5 
+
+10 
+
+3
+
+B
+
+5 8
+
+6
+
+6
+
+(d) 5 
+Solution : (b)
+
+10 
+
+Parallel (10||10) = 5
+
+10 
+
+A
+
+5
+
+8
+
+3
+
+6
+
+B
+
+6
+
+5
+
+A
+5
+
+
+
+3
+8
+
+B
+
+ P  R
+
+3
+
+Q
+
+S
+
+Parallel (6||6) = 3
+
+So the circuit is a balanced wheatstone bridge.
+So current through 8 is zero R eq  (5  3) | | (5  3)  8| | 8  4 
+Example: 36
+
+The equivalent resistance between points A and B of an infinite network of resistance, each of 1 ,
+connected as shown is
+[CEE Haryana 1996]
+(a) Infinite
+(b) 2 
+
+A
+
+1
+1
+
+B
+
+1
+1
+
+1
+1
+
+
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 27
+
+(c)
+
+1 5
+
+2
+
+(d) Zero
+Solution : (c)
+
+Suppose the effective resistance between A and B is Req. Since the network consists of infinite cell. If
+we exclude one cell from the chain, remaining network have infinite cells i.e. effective resistance
+R
+R
+between C and D will also Req
+A
+
+So now R eq  R o  (R| | R eq )  R 
+Example: 37
+
+R R eq
+R  R eq
+
+ R eq
+
+C
+
+1
+ [1  5 ]
+2
+
+Req
+
+R
+
+D
+
+B
+
+Four resistances 10 , 5 , 7  and 3  are connected so that they form the sides of a rectangle AB,
+BC, CD and DA respectively. Another resistance of 10  is connected across the diagonal AC. The
+equivalent resistance between A & B is
+(a) 2 
+
+(b) 5 
+
+(c) 7 
+
+(d) 10 
+
+Solution : (b)
+7
+
+D
+
+Series
+(7 S 3) = 10
+C
+
+10
+
+3
+
+5
+
+10
+
+A
+
+Parallel
+(10 ||10) = 5
+10
+10
+
+
+
+C
+5
+
+C
+5
+
+10
+
+10
+
+B
+
+
+
+Series
+(5 S 5) = 10
+5
+
+A
+
+A
+
+B
+
+B
+
+
+10
+
+R eq 
+
+So
+Example: 38
+
+10
+A
+
+B
+r
+
+The equivalent resistance between A and B in the circuit will be
+(a)
+
+Solution : (d)
+
+
+
+10  10
+ 5
+10  10
+
+5
+r
+4
+
+(b)
+
+6
+r
+5
+
+7
+r
+6
+
+(c)
+
+(d)
+
+8
+r
+7
+
+r
+
+r
+
+B
+A
+r
+C
+r
+In the circuit, by means of symmetry the point C is at zero potential. So
+the equivalent
+circuit
+can be
+drawn as
+Series
+(r S r) =
+2r
+
+r
+
+r
+
+r
+
+A
+
+r
+
+r
+
+
+
+r
+
+Paralle
+l
+
+2r
+
+A
+
+B
+
+r
+
+r
+
+r
+
+r
+
+r
+
+B
+Series
+
+r
+
+
+
+Series
+
+2
+
+8
+rr r  r
+3
+3
+
+R eq
+
+ 8r
+ 8
+  | | 2r   r
+ 3
+ 7
+
+2
+
+
+
+
+A
+
+Example: 39
+
+r
+
+r
+
+2r
+
+B
+
+r
+
+r
+
+r
+
+3
+
+A
+
+B
+
+2r
+
+In the given figure, equivalent resistance between A and B will be
+(a)
+(c)
+
+14
+
+3
+
+(b)
+
+9
+
+14
+
+(d)
+
+3
+
+14
+14
+
+9
+
+[CBSE PMT 2000]
+4
+
+3
+A
+
+B
+
+7
+6
+
+8
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+28 Current Electricity
+Solution : (a)
+
+Given Wheatstone bridge is balanced because
+Series
+
+4
+
+3
+A
+
+P R
+ . Hence the circuit can be redrawn as follows
+Q S
+14
+
+Parallel R eq 
+3+4=7
+7
+3
+
+B
+
+
+
+A
+
+B
+
+Series 6 + 8 = 14 
+6
+
+Example: 40
+
+8
+
+14
+
+In the combination of resistances shown in the figure the potential difference between B and D is zero,
+when unknown resistance (x) is
+B
+(a) 4 
+
+4
+12 
+
+(b) 2 
+
+A
+1
+3
+
+(c) 3 
+(d) The emf of the cell is required
+Solution : (b)
+
+C
+
+1
+1
+
+D
+
+The potential difference across B, D will be zero, when the circuit will act as a balanced wheatstone
+bridge and
+
+Example: 41
+
+x
+
+P R 12  4 1  3
+ x = 2
+ 
+
+Q S
+x
+1/2
+
+A current of 2 A flows in a system of conductors as shown. The potential difference (VA – VB) will be
+[CPMT 1975, 76]
+
+A
+
+(a) + 2V
+
+3
+
+(b) + 1V
+
+2
+2A
+D
+
+(c) – 1 V
+
+3
+
+2
+
+(d) – 2 V
+Solution : (b)
+
+Example: 42
+
+C
+B
+
+In the given circuit 2A current divides equally at junction D along the paths DAC and DBC (each path carry 1A
+current).
+Potential difference between D and A,
+VD – VA = 1  2 = 2 volt
+…. (i)
+Potential difference between D and B,
+VD – VB = 1  3 = 3 volt
+….. (ii)
+On solving (i) and (ii) VA – VB = + 1 volt
+Three resistances each of 4  are connected in the form of an equilateral triangle. The effective
+resistance between two corners is
+3
+8
+
+
+(a) 8 
+(b) 12 
+(c)
+(d)
+8
+3
+
+Solution : (d)
+
+Series 4 + 4 = 8
+4
+
+4
+
+
+
+On Solving further we get equivalent resistance is
+
+8
+
+3
+
+4
+
+Example: 43
+
+If each resistance in the figure is of 9  then reading of ammeter is
+(a) 5 A
+
+(b) 8 A
+
+(c) 2 A
+
+(d) 9 A
+
+[RPMT 2000]
+
++
+9V
+–
+A
+
+9
+ 9 A . Current through each resistance will be 1A and only 5
+1
+resistances on the right side of ammeter contributes for passing current through the ammeter. So
+reading of ammeter will be 5A.
+
+Solution : (a)
+
+Main current through the battery i 
+
+Example: 44
+
+A wire has resistance 12 . It is bent in the form of a circle. The effective resistance between the two
+points on any diameter is equal to
+(a) 12 
+
+Solution : (c)
+
+(b) 6 
+
+Equivalent resistance of the following circuit will be
+
+(c) 3 
+
+(d) 24 
+6
+
+6
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 29
+
+R eq 
+
+Example: 45
+
+6
+ 3
+2
+
+A wire of resistance 0.5 m–1 is bent into a circle of radius 1 m. The same wire is connected across a
+diameter AB as shown in fig. The equivalent resistance is
+(a)  ohm
+A
+
+(b)  ( + 2) ohm
+(c)  / ( + 4) ohm
+
+B
+
+i
+
+i
+
+(d) ( + 1) ohm
+Solution : (c)
+
+Resistance of upper semicircle = Resistance of lower semicircle
+
+0.5 
+
+= 0.5  (R) = 0.5 
+Resistance of wire AB
+
+= 0.5  2 = 1 
+
+1
+1
+1
+1
+
+ R AB 
+
+ 
+
+R AB
+0 .5 1 0 .5
+(  4 )
+Example: 46
+
+R
+4
+
+2
+
+(2   )
+
+i
+
+i
+0.5 
+
+Here R XWY 
+
+R eq
+
+(b)
+
+X
+
+R
+(2   )
+2
+
+W
+
+4
+(d)
+(2   )
+R
+
+(c) R (2 – )
+
+Example: 47
+
+B
+
+A wire of resistor R is bent into a circular ring of radius r. Equivalent resistance between two points X
+and Y on its circumference, when angle XOY is , can be given by
+(a)
+
+Solution : (a)
+
+1
+
+A
+
+Hence equivalent resistance between A and B
+
+R
+R
+ (r ) 
+2r
+2
+
+
+
+O
+
+Z
+
+Y
+
+l
+R
+R
+
+ r(2   ) 
+(2   )
+   and R XZY 
+r
+2r
+2
+
+
+
+R
+R
+
+(2   )
+R XWY R XZY
+R
+
+ 2 2
+
+(2   )
+R
+
+R
+(
+2
+
+
+
+)
+R XWY  R XZY
+4 2
+
+2
+2
+
+If in the given figure i = 0.25 amp, then the value R will be
+
+[RPET 2000]
+
+(a) 48 
+
+i
+
+R
+
+60
+20
+
+(b) 12 
+12 V
+
+(c) 120 
+
+10
+
+(d) 42 
+Solution : (d)
+
+i = 0.25 amp V = 12 V
+
+R eq 
+
+V
+12
+
+ 48 
+i
+0 . 25
+
+i
+
+60
+
+Parallel
+
+20
+
+Now from the circuit R eq  R  (60 | | 20 | | 10)
+=R+6
+
+R
+
+12 V
+
+10
+
+ R = Req – 6 = 48 – 6 = 42 
+Example: 48
+
+Two uniform wires A and B are of the same metal and have equal masses. The radius of wire A is twice
+that of wire B. The total resistance of A and B when connected in parallel is
+[MNR 1994]
+(a) 4  when the resistance of wire A is 4.25 
+
+Solution : (a)
+
+(b) 5  when the resistance of wire A is 4 
+
+(c) 4  when the resistance of wire B is 4.25 
+(d) 5  when the resistance of wire B is 4 
+Density and masses of wire are same so their volumes are same i.e. A1l1 = A2l2
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+30 Current Electricity
+A
+R
+l
+A
+Ratio of resistances of wires A and B A  1  2   2
+RB
+l 2 A1  A1
+
+Since r1 = 2r2 so
+
+2
+
+
+r
+   2
+
+ r1
+
+
+
+
+
+4
+
+RA
+1
+ RB = 16 RA
+
+RB
+16
+
+R A RB
+16 R A
+, By
+
+R A  RB
+17
+checking correctness of equivalent resistance from options, only option (a) is correct.
+Resistance RA and RB are connected in parallel so equivalent resistance R 
+
+Tricky Example: 5
+The effective resistance between point P and Q of the electrical circuit shown in the figure is
+2R
+
+[IIT-JEE 1991]
+
+2R
+2R r
+
+r
+P
+
+Q
+
+2R
+2R
+
+2 Rr
+Rr
+
+(a)
+Solution : (a)
+
+(b)
+
+2R
+
+8 R ( R  r)
+3R  r
+
+(c) 2r + 4R
+
+(d)
+
+5R
+ 2r
+2
+
+The points A, O, B are at same potential. So the figure can be redrawn as follows
+A
+
+P
+
+
+
+Q
+
+O
+
+P
+
+B
+
+2 Rr
+Rr
+
+2R
+
+r
+
+r
+
+2R
+
+2R
+(II)
+
+(I)
+
+R eq 
+
+2R
+
+4R
+
+Series
+Series
+Q
+Series
+
+
+
+2r
+
+
+
+4 R | | 2r | | 4 R
+
+
+
+P
+
+Q
+4R
+
+Tricky Example: 6
+In the following circuit if key K is pressed then the galvanometer reading becomes half. The
++ –
+resistance of galvanometer is
+R
+
+G
+K
+
+(a) 20 
+Solution : (c)
+
+S = 40 
+
+(b) 30 
+
+(c) 40 
+
+(d) 50 
+
+Galvanometer reading becomes half means current distributes equally between galvanometer and
+resistance of 40 . Hence galvanometer resistance must be 40 .
+
+Cell.
+The device which converts chemical energy into electrical energy is known as electric cell.
+
+Anode Cathod
+e
+–
+
++
+–
++
+
+Electrolyte
+
+A
+
++
+–
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 31
+
+(1) A cell neither creates nor destroys charge but maintains the flow of charge present at various parts
+of the circuit by supplying energy needed for their organised motion.
+(2) Cell is a source of constant emf but not constant current.
+(3) Mainly cells are of two types :
+(i) Primary cell : Cannot be recharged
+(ii) Secondary cell : Can be recharged
+(4) The direction of flow of current inside the cell is from negative to positive electrode while outside
+the cell is form positive to negative electrode.
+(5) A cell is said to be ideal, if it has zero internal resistance.
+(6) Emf of cell (E) : The energy given by the cell in the flow of unit charge in the whole circuit
+(including the cell) is called it’s electromotive force (emf) i.e. emf of cell E 
+
+W
+, It’s unit is volt
+q
+
+or
+
+The potential difference across the terminals of a cell when it is not given any current is called it’s emf.
+(7) Potential difference (V) : The energy given by the cell in the flow of
+unit charge in a specific part of electrical circuit (external part) is called potential
+difference. It’s unit is also volt or
+
+R
+i
+
+The voltage across the terminals of a cell when it is supplying current to
+B
+external resistance is called potential difference or terminal voltage. Potential
+difference is equal to the product of current and resistance of that given part i.e. V = iR.
+
+E
+
+r
+
+A
+
+(8) Internal resistance (r) : In case of a cell the opposition of electrolyte to the flow of current
+through it is called internal resistance of the cell. The internal resistance of a cell depends on the distance
+between electrodes (r  d), area of electrodes [r  (1/A)] and nature, concentration (r  C) and temperature
+of electrolyte [r  (1/temp.)]. Internal resistance is different for different types of cells and even for a given
+type of cell it varies from to cell.
+
+Cell in Various Position.
+(1) Closed circuit (when the cell is discharging)
+E
+(i) Current given by the cell i 
+Rr
+(ii) Potential difference across the resistance V  iR
+(iii) Potential drop inside the cell = ir
+(iv) Equation of cell E  V  ir (E > V)
+
+R
+
+E, r
+
+E
+
+(v) Internal resistance of the cell r    1   R
+V
+
+
+(vi) Power dissipated in external resistance (load) P  Vi  i 2 R 
+
+V = iR
+
+i
+
+Pmax =
+E2/4r
+P
+2
+
+V
+ E 
+
+ .R
+R
+R r
+2
+
+E2
+Power delivered will be maximum when R  r so Pmax 
+.
+4r
+This statement in generalised from is called “maximum power transfer theorem”.
+
+R=r
+R
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+32 Current Electricity
+(vii) Short trick to calculate E and r : In the closed circuit of a cell having emf E and internal
+resistance r. If external resistance changes from R1 to R2 then current changes from i1 to i2 and potential
+difference changes from V1 to V2. By using following relations we can find the value of E and r.
+E
+
+ i R  i1 R1
+i1 i 2
+( R 1  R 2 ) r   2 2
+i 2  i1
+ i1  i 2
+
+Note : 
+
+ V2  V1
+ 
+i1  i 2
+
+
+When the cell is charging i.e. current+isVgiven to the cell then E = V – ir and E < V.
+–
+
+i
+
+E, r
+
+(2) Open circuit and short circuit
+Open circuit
+
+Short circuit
+
+R
+C
+
+D
+
+A
+
+B
+
+R=0
+
+E, r
+
+E, r
+
+(i) Maximum current (called short circuit current)
+
+(i) Current through the circuit i = 0
+
+flows momentarily isc 
+(ii) Potential difference between A and B, VAB = E
+
+E
+r
+
+(ii) Potential difference V = 0
+
+(iii) Potential difference between C and D, VCD = 0
+
+Note : 
+
+Above information’s can be summarized by the following graph
+V
+Vmax =E; i = 0
+
+imax =E/r ; V = 0
+
+i
+
+Concepts
+
+
+
+It is a common misconception that “current in the circuit will be maximum when power consumed by the load is
+maximum.”
+Actually current i  E /(R  r) is maximum (= E/r) when R = min = 0 with PL  (E / r)2  0  0 min . while power
+consumed by the load E2R/(R + r)2 is maximum (= E2/4r) when R = r and i  (E / 2r)  max(  E / r).
+
+
+
+Emf is independent of the resistance of the circuit and depends upon the nature of electrolyte of the cell while
+potential difference depends upon the resistance between the two points of the circuit and current flowing
+through the circuit.
+
+
+
+Emf is a cause and potential difference is an effect.
+
+
+
+Whenever a cell or battery is present in a branch there must be some resistance (internal or external or both)
+present in that branch. In practical situation it always happen because we can never have an ideal cell or battery
+with zero resistance.
+
+Example
+s
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 33
+
+Example: 49
+
+A new flashlight cell of emf 1.5 volts gives a current of 15 amps, when connected directly to an
+ammeter of resistance 0.04 . The internal resistance of cell is
+(a) 0.04 
+
+(b) 0.06 
+
+Solution : (b)
+
+By using i 
+
+E
+1 .5
+ 15 
+ r = 0.06 
+Rr
+0 . 04  r
+
+Example: 50
+
+For a cell, the terminal potential difference is 2.2 V when the circuit is open and reduces to 1.8 V,
+when the cell is connected across a resistance, R = 5. The internal resistance of the cell is
+(a)
+
+Solution : (a)
+
+10
+
+9
+
+(b)
+
+(c) 0.10 
+
+9
+
+10
+
+Example: 52
+
+(d)
+
+5
+
+9
+
+In open circuit, E = V = 2.2 V, In close circuit, V = 1.8 V, R = 5
+ r
+
+10
+
+9
+
+The internal resistance of a cell of emf 2V is 0.1 . It’s connected to a resistance of 3.9 . The voltage
+across the cell will be
+[CBSE PMT 1999; AFMC 1999; MP PET 1993; CPMT 1990]
+(a) 0.5 volt
+
+Solution : (c)
+
+11
+
+9
+
+(c)
+
+E
+
+ 2.2
+
+So internal resistance, r    1  R  
+ 1  5
+V
+
+ 1.8
+
+Example: 51
+
+(d) 10 
+
+(b) 1.9 volt
+
+(c) 1.95 volt
+
+(d) 2 volt
+
+E
+
+2
+
+By using r    1  R  0 .1    1   3 .9  V  1.95 volt
+V
+
+V
+
+When the resistance of 2  is connected across the terminal of the cell, the current is 0.5 amp. When
+the resistance is increased to 5 , the current is 0.25 amp. The emf of the cell is
+(a) 1.0 volt
+
+(b) 1.5 volt
+
+(c) 2.0 volt
+
+(d) 2.5 volt
+
+i1 i2
+0.5  0.25
+(R1  R 2 ) 
+(2  5)  1.5 volt
+(i2  i1 )
+(0.25  0.5)
+
+Solution : (b)
+
+By using E 
+
+Example: 53
+
+A primary cell has an emf of 1.5 volts, when short-circuited it gives a current of 3 amperes. The
+internal resistance of the cell is
+(a) 4.5 ohm
+
+(b) 2 ohm
+
+(c) 0.5 ohm
+
+(d) 1/4.5 ohm
+
+E
+1 .5
+ 3
+ r = 0.5 
+r
+r
+
+Solution : (c)
+
+isc 
+
+Example: 54
+
+A battery of internal resistance 4  is connected to the network of resistances as shown. In order to
+give the maximum power to the network, the value of R (in ) should be
+[IIT-JEE 1995]
+(a) 4/9
+
+R
+
+(b) 8/9
+
+6R
+
+R
+
+E
+
+R
+R
+
+R
+
+(c) 2
+
+4R
+
+(d) 18
+Solution : (c)
+
+The equivalent circuit becomes a balanced wheatstone bridge
+R
+R
+2R
+
+2R
+6R
+
+4R
+
+
+
+2R
+6R
+
+2R
+
+4R
+
+3R
+6R
+
+
+4R
+
+4R
+
+4
+
+For maximum power transfer, external resistance should be equal to internal resistance of source
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+34 Current Electricity
+
+
+3R  6R
+(R  2 R)(2 R  4 R)
+ 4 or R = 2
+ 4 i.e.
+3R  6R
+(R  2 R)  (2 R  4 R)
+
+Example: 55 A torch bulb rated as 4.5 W, 1.5 V is connected as shown in the figure. The emf of the cell needed to
+make the bulb glow at full intensity is
+4.5 W, 1.5
+V
+
+(a) 4.5 V
+1
+
+(b) 1.5 V
+(c) 2.67 V
+
+E (r =
+2.67)
+
+(d) 13.5 V
+Solution : (d)
+
+When bulb glows with full intensity, potential difference across it is 1.5 V. So current through the bulb
+and resistance of 1 are 3 A and 1.5 A respectively. So main current from the cell i = 3 + 1.5 = 4.5 A. By
+using E  V  iR  E = 1.5 + 4.5  2.67 = 13.5 V.
+
+Tricky Example: 7
+Potential difference across the terminals of the battery shown in figure is (r = internal resistance of
+battery)
+(a) 8 V
+
+(b) 10 V
+
+(c) 6 V
+
+(d) Zero
+
+Solution : (d)
+
+r =1
+
+10 V
+
+4
+
+Battery is short circuited so potential difference is zero.
+
+Grouping of cell.
+Group of cell is called a battery.
+(1) Series grouping : In series grouping anode of one cell is connected to cathode of other cell and so
+on.
+(i) n identical cells are connected in series
+(a) Equivalent emf of the combination E eq  nE
+(b) Equivalent internal resistance req  nr
+
+E1, r1
+
+E2, r2
+
+E3, r3
+
+E n , rn
+
+nE
+(c) Main current = Current from each cell  i 
+R  nr
+i
+
+(d) Potential difference across external resistance V  iR
+(e) Potential difference across each cell V ' 
+
+V
+n
+
+R
+
+2
+
+ nE 
+(f) Power dissipated in the circuit P  
+ .R
+ R  nr 
+
+ E2 
+
+(g) Condition for maximum power R  nr and Pmax  n 
+
+4
+r
+
+
+(h) This type of combination is used when nr << R.
+(ii) If non-identical cell are connected in series
+Cells are connected in right order
+
+Cells are wrongly connected
+
+E2, r2
+
+E1, r1
+
+E2, r2
+
+E1, r1
+1
+
+i
+
+R
+
+i
+
+2
+R
+
+(E1 > E2)
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 35
+
+(a) Equivalent emf E eq  E1  E 2
+(b) Current i 
+
+(a) Equivalent emf Eeq = E1 – E2
+(b) Current i 
+
+E eq
+R  req
+
+(c) Potential difference across each cell V1  E1  ir1
+and V2  E 2  ir2
+
+E1  E 2
+R  req
+
+(c) in the above circuit cell 1 is discharging so it’s
+equation is E1  V1  ir1  V1  E1  ir1 and cell
+2 is charging so it’s equation
+
+E 2  V2  ir2  V2  E2  ir 2
+
+(2) Parallel grouping : In parallel grouping all anodes are connected at one point and all cathode
+are connected together at other point.
+E, r
+(i) If n identical cells are connected in parallel
+
+E, r
+
+(a) Equivalent emf Eeq = E
+
+E, r
+
+(b) Equivalent internal resistance R eq  r / n
+
+i
+R
+
+E
+(c) Main current i 
+R r/n
+(d) P.d. across external resistance = p.d. across each cell = V = iR
+2
+E
+i
+
+
+(e) Current from each cell i' 
+(f) Power dissipated in the circuit P  
+ .R
+n
+ R  r/n
+ E2 
+ (h) This type of combination is used when nr
+(g) Condition for max power R  r / n and Pmax  n 
+
+ 4r 
+>> R
+(ii) If non-identical cells are connected in parallel : If cells are connected with right polarity as shown
+below then
+(a) Equivalent emf E eq 
+(b) Main current i 
+
+E1 r2  E 2 r1
+r1  r2
+
+i1
+
+E1, r1
+
+E eq
+r  R eq
+
+i2
+
+i
+
+E2, r2
+
+E  iR
+E  iR
+(c) Current from each cell i1  1
+and i2  2
+r1
+r2
+
+Note : 
+
+R
+
+In this combination if cell’s are connected with reversed polarity as shown in figure
+i1
+
+E1,r1
+
+i2
+
+E2, r2
+
+then :
+
+Equivalent emf E eq
+
+E r  E 2 r1
+ 1 2
+r1  r2
+
+i
+
+R
+
+(3) Mixed Grouping : If n identical cell’s are connected in a row and such m row’s are connected in
+parallel as shown.
+(i) Equivalent emf of the combination E eq  nE
+(ii) Equivalent internal resistance of the combination req
+
+nr
+
+m
+
+1
+2
+
+i
+m
+
+1
+
+E,
+r
+
+E,
+r
+
+2
+
+n
+
+E,
+r
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+36 Current Electricity
+(iii) Main current flowing through the load i 
+(iv) Potential difference across load V  iR
+(v) Potential difference across each cell V ' 
+(vi) Current from each cell i ' 
+
+nE
+mnE
+
+nr mR  nr
+R
+m
+
+V
+n
+
+i
+n
+
+(vii) Condition for maximum power R 
+(viii) Total number of cell = mn
+
+nr
+E2
+and Pmax  (mn )
+4r
+m
+Concepts
+
+
+
+In series grouping of cell’s their emf’s are additive or subtractive while their internal resistances are always additive. If
+dissimilar plates of cells are connected together their emf’s are added to each other while if their similar plates are
+connected together their emf’s are subtractive.
+E1
+
+E1
+
+E2
+
+Eeq  E1  E2 & req  r1  r2
+
+E2
+
+Eeq  E1  E 2 (E1  E 2 ) & req  r1  r2
+
+
+
+In series grouping of identical cells. If one cell is wrongly connected then it will cancel out the effect of two cells e.g. If in
+the combination of n identical cells (each having emf E and internal resistance r) if x cell are wrongly connected then
+equivalent emf Eeq  (n  2 x ) E and equivalent internal resistance req  nr .
+
+
+
+In parallel grouping of two identical Rcell having no internal resistance
+E
+
+R
+E
+
+E eq  E
+
+E eq  0
+
+E
+
+
+
+E
+
+When two cell’s of different emf and no internal resistance are connected in parallel then equivalent emf is
+indeterminate, note that connecting a wire with a cell but with no resistance is equivalent to short circuiting. Therefore
+R
+the total current that will be flowing will be infinity.
+E1
+E2
+
+Example
+s
+Example: 56
+
+A group of N cells whose emf varies directly with the internal resistance as per the equation EN = 1.5 rN
+are connected as shown in the following figure. The current i in the circuit is
+[KCET 2003]
+(a) 0.51 amp
+(b) 5.1 amp
+
+2
+1
+r1
+
+(c) 0.15 amp
+(d) 1.5 amp
+Solution : (d)
+
+i
+
+E eq
+req
+
+1 .5 r1  1 .5 r2  1 .5 r3  .......
+
+= 1.5 amp
+r1  r2  r3  ......
+
+r2
+
+rN
+N
+
+3
+
+r3
+r4
+4
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 37
+
+Example: 57
+
+Two batteries A and B each of emf 2 volt are connected in series to external resistance R = 1 .
+Internal resistance of A is 1.9  and that of B is 0.9 , what is the potential difference between the
+terminals of battery A
+[MP PET 2001]
+B
+A
+(a) 2 V
+(b) 3.8 V
+(c) 0
+R
+
+(d) None of these
+
+E1  E 2
+4
+22
+4
+1 .9  0
+. Hence V A  E A  irA  2 
+
+
+3 .8
+R  r1  r2 1  1.9  0.9 3.8
+
+Solution : (c)
+
+i
+
+Example: 58
+
+In a mixed grouping of identical cells 5 rows are connected in parallel by each row contains 10 cell.
+This combination send a current i through an external resistance of 20 . If the emf and internal
+resistance of each cell is 1.5 volt and 1  respectively then the value of i is
+(a) 0.14
+
+No. of cells in a row n = 10;
+
+Solution : (d)
+
+i
+
+Example: 59
+
+(b) 0.25
+
+(d) 0.68
+
+No. of such rows m = 5
+
+nE
+10  1 .5
+15
+= 0.68 amp
+
+
+nr  
+10  1  22
+
+ R    20 
+
+m 
+5 
+
+
+To get maximum current in a resistance of 3  one can use n rows of m cells connected in parallel. If
+the total no. of cells is 24 and the internal resistance of a cell is 0.5 then
+(a) m = 12, n = 2
+
+Solution : (a)
+
+(c) 0.75
+
+(b) m = 8, n = 4
+
+In this question R = 3, mn = 24, r = 0.5 and R 
+
+(c) m = 2, n = 12
+
+(d) m = 6, n = 4
+
+mr
+. On putting the values we get n = 2 and m =
+n
+
+12.
+Example: 60
+
+100 cells each of emf 5V and internal resistance 1  are to be arranged so as to produce maximum
+current in a 25  resistance. Each row contains equal number of cells. The number of rows should be [MP PMT 1
+(a) 2
+
+Solution : (a)
+
+(b) 4
+
+(c) 5
+
+(d) 100
+
+Total no. of cells, = mn = 100
+Current will be maximum when R 
+
+…….. (i)
+nr
+n 1
+; 25 
+ n = 25 m
+m
+m
+
+…….. (ii)
+
+From equation (i) and (ii) n = 50 and m = 2
+
+Example: 61
+
+Solution : (b)
+
+In the adjoining circuit, the battery E1 has as emf of 12 volt and zero internal resistance, while the
+battery E has an emf of 2 volt. If the galvanometer reads zero, then the value of resistance X ohm is [NCERT 199
+(a) 10
+
+(b) 100
+
+A
+
+(c) 500
+
+(d) 200
+
+E1
+
+500 O
+
+
+G
+
+E
+
+X
+
+For zero deflection in galvanometer the potential different across XDshould be E
+P = 2V
+In this condition
+
+B
+
+C
+
+12 X
+2
+500  X
+
+ X = 100 
+Example: 62
+
+In the circuit shown here E1 = E2 = E3 = 2V and R1 = R2 = 4 . The current flowing between point A
+and B through battery E2 is
+R1
+E1
+
+(a) Zero
+(b) 2 A from A to B
+
+A
+
+E2
+
+B
+
+E3
+R2
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+38 Current Electricity
+(c) 2 A from B to A
+(d) None of these
+Solution : (b)
+
+The equivalent circuit can be drawn as since E1 & E3 are parallely connected
+2V
+
+22
+ 2 Amp from A to B.
+So current i 
+2
+
+2V
+
+A
+
+Example: 63
+
+7
+A from a to b through e
+3
+(c) 1.0 A from b to a through e
+
+Example: 64
+
+Solution : (a)
+
+B
+
+The magnitude and direction of the current in the circuit shown will be
+(a)
+
+Solution : (d)
+
+R = (R1 ||R2) = 2
+
+7
+A from b and a through e
+3
+(d) 1.0 A from a to b through e
+
+(b)
+
+[CPMT 1986, 88]
+a
+
+1
+
+e
+10 V
+
+2
+
+b
+
+4V
+
+10  4
+d
+c
+ 1 A from a to b via e
+3
+3  2 1
+Figure represents a part of the closed circuit. The potential difference between points A and B (VA –
+VB) is
+
+Current i 
+
+(a) + 9 V
+
+(b) – 9 V
+
+(c) + 3 V
+
+(d) + 6 V
+
+2A
+A
+
+1
+
+2
+3V
+
+B
+
+The given part of a closed circuit can be redrawn as follows. It should be remember that product of
+current and resistance can be treated as an imaginary cell having emf = iR.
+4V
+A
+
+Example: 65
+
+3V
+
+2V
+B
+
+
+
+9V
+
++
+A
+
+B
+
+ 7 Hence VA – VB = +9 V
+
+In the circuit shown below the cells E1 and E2 have emf’s 4 V and 8 V and internal resistance 0.5 ohm
+and 1 ohm respectively. Then the potential difference across cell E1 and E2 will be
+(a) 3.75 V, 7.5 V
+(b) 4.25 V, 7.5 V
+
+E1
+4.5
+
+(c) 3.75 V, 3.5 V
+(d) 4.25 V, 4.25 V
+Solution : (b)
+
+–
+
+In the given circuit diagram external resistance R 
+the circuit i 
+
+E2
+3
+6
+
+36
+ 4 . 5  6 . 5  . Hence main current through
+36
+
+E 2  E1
+84
+1
+
+ amp.
+R  req
+6 .5  0 .5  0 .5 2
+
+1
+ 0 . 5  V1 = 4.25 volt
+2
+1
+Cell 2 is discharging so from it’s emf equation E2 = V2 + ir2  8  V2   1  V2 = 7.5 volt
+2
+A wire of length L and 3 identical cells of negligible internal resistances are connected in series. Due to
+this current, the temperature of the wire is raised by T in time t. A number N of similar cells is now
+connected in series with a wire of the same material and cross-section but of length 2L. The
+temperature of wire is raised by same amount T in the same time t. The value of N is
+(a) 4
+(b) 6
+(c) 8
+(d) 9
+
+Cell 1 is charging so from it’s emf equation E1 = V1 – ir1  4  V1 
+
+Example: 66
+
+Solution : (b)
+
+Heat = mST = i2Rt
+Case I : Length (L)  Resistance = R and mass = m
+Case II : Length (2L)  Resistance = 2R and mass = 2m
+m 1 S 1 T1
+i2 R t
+i 2 Rt
+mS T
+(3 E) 2 (NE ) 2
+ 12 1 1
+ 21
+So
+
+ i1  i2 
+N=6
+
+m 2 S 2 T2
+2mS T i2 2 Rt
+12
+2R
+i2 r2 t 2
+
+Tricky Example: 8
+n identical cells, each of emf E and internal resistance r, are joined in series to form a closed
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 39
+
+circuit. The potential difference across any one cell is
+(a) Zero
+
+(b) E
+
+n 1
+(d) 
+E
+ n 
+
+E
+n
+
+(c)
+
+nE
+E
+
+nr
+r
+The equivalent circuit of one cell is shown in the figure. Potential difference across the cell
+E
+ V A  V B   E  ir   E  .r  0
+r
+
+Current in the circuit i 
+
+Solution: (a)
+
+Kirchoff’s Laws.
+(1) Kirchoff’s first law : This law is also known as junction rule or current law (KCL). According to it
+the algebraic sum of currents meeting at a junction is zero i.e. i = 0.
+In a circuit, at any junction the sum of the currents entering the junction
+i1
+must equal the sum of the currents leaving the junction. i1  i3  i2  i4
+i4
+
+Here it is worthy to note that :
+i3
+i2
+(i) If a current comes out to be negative, actual direction of current at the
+junction is opposite to that assumed, i  i1  i2  0 can be satisfied only if at least
+one current is negative, i.e. leaving the junction.
+(ii) This law is simply a statement of “conservation of charge” as if current reaching a junction is not
+equal to the current leaving the junction, charge will not be conserved.
+
+Note : 
+
+This law is also applicable to a capacitor through the concept of displacement current
+
+treating the resistance of capacitor to be zero during charging or discharging and infinite in steady
+state as shown in figure.
+Charging
+i
+
+–
++C
+
+i1
+
+Discharging
+i
+
+R
+i = i1 + i2
+
+–
++C
+
+Steady state
+
+i1
+
+i
+
+R
+i2
+
+(A)
+
+i1 = i + i2
+
+–
++C
+
+i1 = 0
+
+R
+i2
+
+i2
+
+i = i2
+
+(B)
+
+(C)
+
+(2) Kirchoff’s second law : This law is also known as loop rule or voltage law (KVL) and according
+to it “the algebraic sum of the changes in potential in complete traversal of a mesh (closed loop) is zero”, i.e.
+V = 0
+e.g. In the following closed loop.
+
+R1
+
+B
+
+R2
+
+i1
+
+i2
+
+A
+i4
+
+– i1R1 + i2R2 – E1 – i3R3 + E2 + E3 – i4R4 = 0
+
+R4
+
+C
++ E1
+–
+D
+i3
+R3
+
+E3
+
+–
++ E2
+
+Here it is worthy to note that :
+(i) This law represents “conservation of energy” as if the sum of potential changes around a closed
+loop is not zero, unlimited energy could be gained by repeatedly carrying a charge around a loop.
+(ii) If there are n meshes in a circuit, the number of independent equations in accordance with loop rule will
+be (n – 1).
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+40 Current Electricity
+(3) Sign convention for the application of Kirchoff’s law : For the application of Kirchoff’s
+laws following sign convention are to be considered
+(i) The change in potential in traversing a resistance in the direction of current is – iR while in the
+opposite direction +iR
+A
+
+R
+
+i
+
+B
+
+A
+
+R
+
+i
+
+– iR
+
+B
+
++ iR
+
+(ii) The change in potential in traversing an emf source from negative to positive terminal is +E while
+in the opposite direction – E irrespective of the direction of current in the circuit.
+A
+
+E
+
+i
+
+A
+
+B
+
+E
+
+i
+
+B
+
++E
+
+–E
+
+(iii) The change in potential in traversing a capacitor from the negative terminal to the positive
+q
+q
+terminal is 
+while in opposite direction  .
+C
+C
+A
+
+–
+
+C
+
+A
+
+B
+
++
+q
+
+
+q
+
+–
+
+
+C
+
+q
+
+C
+
+B
+
++
+q
+
+C
+
+(iv) The change in voltage in traversing an inductor in the direction of current is  L
+opposite direction it is  L
+
+di
+.
+dt
+
+A
+
+i
+
+L
+
+B
+L
+
+di
+dt
+
+A
+
+i
+L
+
+L
+
+di
+while in
+dt
+
+B
+
+di
+dt
+
+(4) Guidelines to apply Kirchoff’s law
+(i) Starting from the positive terminal of the battery having highest emf, distribute current at various
+junctions in the circuit in accordance with ‘junction rule’. It is not always easy to correctly guess the
+direction of current, no problem if one assumes the wrong direction.
+(ii) After assuming current in each branch, we pick a point and begin to walk (mentally) around a
+closed loop. As we traverse each resistor, capacitor, inductor or battery we must write down, the voltage
+change for that element according to the above sign convention.
+(iii) By applying KVL we get one equation but in order to solve the circuit we require as many equations
+as there are unknowns. So we select the required number of loops and apply Kirchhoff’s voltage law across
+each such loop.
+(iv) After solving the set of simultaneous equations, we obtain the numerical values of the assumed
+currents. If any of these values come out to be negative, it indicates that particular current is in the opposite
+direction from the assumed one.
+
+Note : 
+
+The number of loops must be selected so that every element of the circuit must be included
+in at least one of the loops.
+ While traversing through a capacitor or battery we do not consider the direction of current.
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 41
+
+ While considering the voltage drop or gain across as inductor we always assume current to be in
+increasing function.
+(5) Determination of equivalent resistance by Kirchoff’s method : This method is useful
+when we are not able to identify any two resistances in series or in parallel. It is based on the two
+Kirchhoff’s laws. The method may be described in the following guideline.
+(i) Assume an imaginary battery of emf E connected between the two terminals across which we have
+to calculate the equivalent resistance.
+(ii) Assume some value of current, say i, coming out of the battery and distribute it among each branch
+by applying Kirchhoff’s current law.
+(iii) Apply Kirchhoff’s voltage law to formulate as many equations as there are unknowns. It should be
+noted that at least one of the equations must include the assumed battery.
+E
+(iv) Solve the equations to determine
+ratio which is the equivalent resistance of the network.
+i
+e.g. Suppose in the following network of 12 identical resistances, equivalent resistance between point A
+and C is to be calculated.
+B
+
+R
+
+R
+R
+
+E
+
+F
+
+R
+
+R
+
+R
+
+A
+
+C
+
+R
+R
+
+R
+
+H
+
+G
+
+R
+D
+
+R
+
+R
+
+According to the above guidelines we can solve this problem as follows
+Step (1)
+
+Step (2)
+B
+R
+
+E
+
+H
+R
+E
+
+F
+
+G
+D
+
+R
+C
+
+R
+
+R
+
+B
+R
+R
+i
+F
+Ei
+R
+R
+R
+i
+i
+2i
+2i
+R
+A 2i
+C
+i R
+i
+2i
+R
+R
+R
+Hi
+G
+i
+R
+R
+4i
+4i
+D
+E
+
+R
+
+R
+
+R
+
+A
+R
+
+R
+
+R
+
+R
+
+An imaginary battery of emf E is assumed
+across the terminals A and C
+
+The current in each branch is distributed by
+assuming 4i current coming out of the
+battery.
+
+Step (3) Applying KVL along the loop including the nodes A, B, C and the battery E. Voltage equation
+is  2iR  iR  iR  2iR  E  0
+Step (4) After solving the above equation, we get 6iR = E  equivalent resistance between A and C is
+E 6iR 3
+R
+
+ R
+4i
+4i
+2
+Concepts
+
+
+
+Using Kirchoff’s law while dividing the current having a junction through different arms of a network, it will be same
+through different arms of same resistance if the end points of these arms are equilocated w.r.t. exit point for current in
+network and will be different through different arms if the end point of these arms are not equilocated w.r.t. exit point
+for current of the network.
+e.g. In the following figure the current going in arms AB, AD and AL will be same because the location of end points B, D
+2i
+
+6i
+A
+
+i
+
+B
+
+C
+
+i
+i
+
+i
+D
+i
+
+i
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+42 Current Electricity
+and L of these arms are symmetrically located w.r.t. exit point N of the network.
+
+Example
+s
+Example: 67
+
+In the following circuit E1 = 4V, R1 = 2
+
+[MP PET 2003]
+R1
+
+E1
+
+E2 = 6V, R2 = 2 and R3 = 4. The current i1 is
+i1
+
+(a) 1.6 A
+
+R2
+
+(b) 1.8 A
+i2
+
+(c) 2.25 A
+
+E2
+
+(d) 1 A
+Solution : (b)
+
+R3
+
+For loop (1) 2i1  2(i1  i2 )  4  0  2i1  i2  2
+
+…… (i)
+
+For loop (2) 4 i2  2(i1  i2 )  6  0  3i2  i1  3
+
+…… (ii)
+
+2
+
+4V
+i1
+
+1
+
+After solving equation (i) and (ii) we get i1  1 .8 A and i2  1.6 A i2
+
+2
+
+i2
+
+6V
+
+4
+
+Example: 68 Determine the current in the following circuit
+10 V
+
+(a) 1 A
+
+i1
+
+2 (i1 – i2)
+
+2
+
+(b) 2.5 A
+(c) 0.4 A
+(d) 3 A
+Solution : (a)
+
+Example: 69
+
+Solution : (a)
+
+Example: 70
+
+5V
+
+3
+
+Applying KVL in the given circuit we get 2i  10  5  3i  0  i  1 A
+Second method : Similar plates of the two batteries are connected together, so the net emf = 10 – 5
+= 5V
+Total resistance in the circuit = 2 + 3 = 5
+V
+5
+  1A
+ i
+R 5
+3
+6
+B
+A
+C
+In the circuit shown in figure, find the current through the branch BD
+(a) 5 A
+
+(b) 0 A
+
+(c) 3 A
+
+(d) 4 A
+
+15 V
+
+3
+
+30 V
+
+D
+
+6 i1 B 3 i1 – i2
+The current in the circuit are assumed as shown in the fig.
+C
+A
+Applying KVL along the loop ABDA, we get
+– 6i1 – 3 i2 + 15 = 0 or 2i1 + i2 = 5
+…… (i)
+30 V
+15 V
+3
+Applying KVL along the loop BCDB, we get
+i2
+– 3(i1 – i2) – 30 + 3i2 = 0 or – i1 + 2i2 = 10 …… (ii)
+i1
+D
+Solving equation (i) and (ii) for i2, we get i2 = 5 A
+The figure shows a network of currents. The magnitude of current is shown here. The current i will be [MP
+PMT 1995]
+
+(a) 3 A
+
+15 A
+
+3A
+
+(b) 13 A
+(c) 23 A
+(d) – 3 A
+
+5A
+
+i
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 43
+
+Solution : (c)
+Example: 71
+
+i  15  3  5  23 A
+Consider the circuit shown in the figure. The current i3 is equal to
+
+[AMU 1995]
+54
+
+28
+
+(a) 5 amp
+
+6V
+
+(b) 3 amp
+
+i3
+
+(c) – 3 amp
+8V
+
+(d) – 5/6 amp
+Solution : (d)
+
+Suppose current through different paths of the circuit is as follows.
+After applying KVL for loop (1) and loop (2)
+We get 28 i1  6  8
+and
+
+28
+
+1
+A
+2
+
+ i1  
+
+54 i2  6  12  i2  
+
+Hence i3  i1  i2  
+Example: 72
+
+54
+6V
+
+1
+
+1
+A
+3
+
+2
+
+i3
+12 V
+
+8V
+
+5
+A
+6
+
+A part of a circuit in steady state along with the current flowing in the branches, with value of each
+resistance is shown in figure. What will be the energy stored in the capacitor C0
+(a) 6  10–4 J
+
+3
+2A
+
+(b) 8  10–4 J
+(c) 16 
+
+10–4
+
+1A
+3
+
+4F
+
+2A
+
+J
+
+A
+
+1
+
+5
+
+D
+i1
+1
+
+i2
+B
+
+2
+
+C
+
+3
+
+i3
+4
+
+1A
+
+(d) Zero
+Solution : (b)
+
+12 V
+
+Applying Kirchhoff’s first law at junctions A and B respectively we have 2 + 1 – i1 = 0 i.e., i1 = 3A
+and i2 + 1 – 2 – 0 = 0 i.e., i2 = 1A
+Now applying Kirchhoff’s second law to the mesh ADCBA treating capacitor as a seat of emf V in open
+circuit
+– 3  5 – 3  1 – 1  2 + V = 0 i.e. V(= VA – VB) = 20 V
+So, energy stored in the capacitor U 
+
+Example: 73
+
+Solution : (c)
+
+1
+CV
+2
+
+2
+
+
+
+1
+(4  10  6 )  (20 ) 2  8  10  4 J
+2
+
+In the following circuit the potential difference between P and Q is
+(a) 15 V
+
+(b) 10 V
+
+(c) 5 V
+
+(d) 2.5 V
+
+P
+
+R
+
+Q
+2A
+
+15V
+
+By using KVL 5  2  VPQ  15  0  VPQ = 5V
+
+E1
+
+Tricky Example: 9
+As the switch S is closed in the circuit shown in figure, current passed through it is
+20 V
+
+2
+
+4
+
+5V
+B
+
+A
+2
+S
+
+5
+E2
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+44 Current Electricity
+
+Solution : (a)
+
+(a) 4.5 A
+(b) 6.0 A
+(c) 3.0 A
+(d) Zero
+Let V be the potential of the junction as shown in figure. Applying junction law, we have
+or
+
+20  V 5  V
+V 0
+
+
+or 40 – 2V + 5 – V = 2V
+2
+4
+2
+
+or 5V = 45  V = 9V
+
+
+i3 
+
+V
+ 4 .5 A
+2
+
+Different Measuring Instruments.
+(1) Galvanometer : It is an instrument used to detect small current passing through it by showing
+deflection. Galvanometers are of different types e.g. moving coil galvanometer, moving magnet
+galvanometer, hot wire galvanometer. In dc circuit usually moving coil galvanometer are used.
+(i) It’s symbol :
+
+; where G is the total internal resistance of the galvanometer.
+
+G
+
+(ii) Principle : In case of moving coil galvanometer deflection is directly proportional to the current
+that passes through it i.e. i  θ .
+(iii) Full scale deflection current : The current required for full scale deflection in a galvanometer
+is called full scale deflection current and is represented by ig.
+(iv) Shunt : The small resistance connected in parallel to galvanometer coil, in order to control
+current flowing through the galvanometer is known as shunt.
+Merits of shunt
+
+Demerits of shunt
+
+(a) To protect the galvanometer
+coil from burning
+
+Shunt resistance decreases
+sensitivity of galvanometer.
+
+G
+
+the
+
+(b) It can be used to convert any
+galvanometer into ammeter of
+desired range.
+
+S
+
+K
+
+(2) Ammeter : It is a device used to measure current and is always connected in series with the
+‘element’ through which current is to be measured.
+(i) The reading of an ammeter is always lesser than actual current in the circuit.
+(ii) Smaller the resistance of an ammeter more accurate will be its reading. An ammeter is said to be
+ideal if its resistance r is zero.
+(iii) Conversion of galvanometer into ammeter : A galvanometer may be converted into an
+ammeter by connecting a low resistance (called shunt S) in parallel to the galvanometer G as shown in
+figure.
+S
+
+GS
+(a) Equivalent resistance of the combination 
+GS
+(b) G and S are parallel to each other hence both will have equal
+potential difference i.e. ig G  (i  ig )S ; which gives
+Required shunt S 
+
+ig
+(i  i g )
+
+G
+
+i
+
+i – ig
+ig
+Ammeter
+
+G
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 45
+
+(c) To pass nth part of main current (i.e. ig 
+S
+
+i
+) through the galvanometer, required shunt
+n
+
+G
+.
+(n  1)
+
+(3) Voltmeter : It is a device used to measure potential difference and is always put in parallel with
+the ‘circuit element’ across which potential difference is to be measured.
+V
+
+(i) The reading of a voltmeter is always lesser than true value.
+(ii) Greater the resistance of voltmeter, more accurate will be its
+reading. A voltmeter is said to be ideal if its resistance is infinite, i.e., it draws
+no current from the circuit element for its operation.
+
+R
+
+i
++
+
+V
+
+–
+
+(iii) Conversion of galvanometer into voltmeter : A
+galvanometer may be converted into a voltmeter by connecting a large resistance R in series with the
+galvanometer as shown in the figure.
+R
+
+(a) Equivalent resistance of the combination = G + R
+(b) According to ohm’s law
+
+G
+
+V = ig (G + R); which gives
+
+Required series resistance R 
+
+Vg = igG
+
+V – Vg
+
+ig
+
+V
+
+V
+G  
+1  G
+
+
+ig
+ Vg
+
+
+V
+
+(c) If nth part of applied voltage appeared across galvanometer (i.e. Vg 
+
+V
+) then required series
+n
+
+resistance R  (n  1) G .
+(4) Wheatstone bridge : Wheatstone bridge is an arrangement of four resistance which can be used
+to measure one of them in terms of rest. Here arms AB and BC are called
+B
+ratio arm and arms AC and BD are called conjugate arms
+P
+
+(i) Balanced bridge : The bridge is said to be balanced when
+deflection in galvanometer is zero i.e. no current flows through the
+P
+R
+
+galvanometer or in other words VB = VD. In the balanced condition
+,
+Q
+S
+
+A
+
+C
+
+G
+R
+
+S
+
++ –
+
+D
+
+on mutually changing the position of cell and galvanometer this condition
+will not change.
+(ii) Unbalanced bridge : If the bridge is not balanced current will
+flow from D to B if VD > VB i.e. (V A  VD )  (V A  VB ) which gives PS > RQ.
+
+Q
+
+K1
+
+K2
+
+R
+i
+
+A
+
++
+
+(iii) Applications of wheatstone bridge : Meter bridge, post office
+box and Carey Foster bridge are instruments based on the principle of
+wheatstone bridge and are used to measure unknown resistance.
+
+V
+
+–
+
+(5) Meter bridge : In case of meter bridge, the resistance wire AC is 100 cm long. Varying the
+position of tapping point B, bridge is balanced. If in balanced position of bridge AB = l, BC (100 – l) so that
+P R
+Q (100  l)
+(100  l)
+
+. Also
+ S
+R
+
+S
+Q S
+l
+P
+l
+R
+R.B.
+G
+
+A
+
+P
+l cm
+
+B
+
+Q
+(100 – l) cm
+
+C
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+46 Current Electricity
+
+Concepts
+
+
+
+
+Wheatstone bridge is most sensitive if all the arms of bridge have equal resistances i.e. P = Q = R = S
+
+
+
+In Wheatstone bridge to avoid inductive effects the battery key should be pressed first and the galvanometer key
+afterwards.
+
+
+
+The measurement of resistance by Wheatstone bridge is not affected by the internal resistance of the cell.
+
+If the temperature of the conductor placed in the right gap of metre bridge is increased, then the balancing length
+decreases and the jockey moves towards left.
+
+Example
+s
+Example: 74
+
+The scale of a galvanometer of resistance 100  contains 25 divisions. It gives a deflection of one
+division on passing a current of 4  10–4 A. The resistance in ohms to be added to it, so that it may
+become a voltmeter of range 2.5 volt is
+(a) 100
+
+Solution : (b)
+
+(b) 150
+
+(c) 250
+
+(d) 300
+
+Current sensitivity of galvanometer = 4  10–4 Amp/div.
+So full scale deflection current (ig) = Current sensitivity  Total number of division = 4  10–4  25 =
+10–2 A
+To
+
+convert galvanometer in
+V
+2 .5
+R
+G 
+ 100  150 
+ig
+10  2
+
+Example: 75
+
+Solution : (c)
+
+Example: 76
+
+to
+
+voltmeter,
+
+resistance
+
+to
+
+be
+
+put
+
+in
+
+series
+
+is
+
+A galvanometer, having a resistance of 50  gives a full scale deflection for a current of 0.05 A. the
+length in meter of a resistance wire of area of cross-section 2.97  10–2 cm2 that can be used to convert
+the galvanometer into an ammeter which can read a maximum of 5A current is : (Specific resistance of
+the wire = 5  10–7 m)
+[EAMCET 2003]
+(a) 9
+(b) 6
+(c) 3
+(d) 1.5
+Given G = 50 , ig = 0.05 Amp., i = 5A, A = 2.97  10–2 cm2 and  = 5  10–7-m
+G.ig
+Gig
+Gig A
+l
+i
+G
+
+
+ l
+By using
+ S 
+on putting values l = 3 m.
+1
+(i  ig )
+A (i  ig )
+(i  ig )
+ig
+S
+100 mA current gives a full scale deflection in a galvanometer of resistance 2 . The resistance
+connected with the galvanometer to convert it into a voltmeter of 5 V range is
+[KCET 2002; UPSEAT 1998; MNR 1994 Similar to MP PMT 1999]
+
+(a) 98 
+
+(b) 52 
+
+(c) 80 
+
+(d) 48 
+
+V
+5
+G 
+ 2  50  2  48  .
+Ig
+100  10  3
+
+Solution : (d)
+
+R
+
+Example: 77
+
+A milliammeter of range 10 mA has a coil of resistance 1 . To use it as voltmeter of range 10 volt, the
+resistance that must be connected in series with it will be
+(a) 999 
+
+(b) 99 
+
+V
+G
+ig
+
+10
+
+(d) None of these
+
+Solution : (a)
+
+By using R 
+
+Example: 78
+
+In the following figure ammeter and voltmeter reads 2 amp and 120 volt respectively. Resistance of
+voltmeter is
+(a) 100 
+
+R
+
+(c) 1000 
+
+10  10 3
+
+ 1  999 
+
+A
+
+X
+
+75 
+
+V
+
+Y
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 47
+
+(b) 200 
+(c) 300 
+(d) 400 
+Solution : (c)
+
+Let resistance of voltmeter be RV. Equivalent resistance between X and Y is R XY 
+
+75 R V
+75  R V
+
+75 R V
+ RV =
+75  R V
+
+Reading of voltmeter = potential difference across X and Y = 120 = i  RXY = 2 
+300
+Example: 79
+
+In the circuit shown in figure, the voltmeter reading would be
+2
+
+1
+
+(a) Zero
+(b) 0.5 volt
+
+A
+
+(c) 1 volt
+
++
+
+(d) 2 volt
+
+V
+
+–
+3V
+
+Solution : (a)
+
+Ammeter has no resistance so there will be no potential difference across it, hence reading of
+voltmeter is zero.
+
+Example: 80
+
+Voltmeters V1 and V2 are connected in series across a d.c. line. V1reads 80 V and has a per volt
+resistance of 200 , V2 has a total resistance of 32 k. The line voltage is
+(a) 120 V
+
+Solution : (d)
+
+(b) 160 V
+
+(c) 220 V
+
+Resistance of voltmeter V1 is R1 = 200  80 = 16000  and resistance of voltmeter V2 is R2 = 32000 
+ R'
+By using relation V '  
+ R eq
+
+
+
+ V ; where V = potential difference across any resistance R in a series
+
+
+R1
+R2
+
+grouping.
+
+V1
+
+So for voltmeter V1 potential difference across it is
+ R1
+80  
+ R1  R 2
+Example: 81
+
+(d) 240 V
+
+V2
+
+80 V
+
+
+ .V  V = 240 V
+
+
++
+
+–
+V
+
+The resistance of 1 A ammeter is 0.018 . To convert it into 10 A ammeter, the shunt resistance
+required will be
+(a) 0.18 
+
+i
+
+(b) 0.0018 
+
+1
+
+(c) 0.002 
+
+(d) 0.12 
+
+10
+0 . 018
+4
+1
+
+ S = 0.002 
+1
+S
+S
+
+Solution : (c)
+
+By using
+
+Example: 82
+
+In meter bridge the balancing length from left and when standard resistance of 1  is in right gas is
+found to be 20 cm. The value of unknown resistance is
+[CBSE PMT 1999]
+
+ig
+
+(a) 0.25 
+
+Solution: (a)
+
+(b) 0.4 
+
+The condition of wheatstone bridge gives
+
+(c) 0.5 
+
+(d) 4 
+
+X 20 r
+
+, r- resistance of wire per cm, X- unknown
+R 80 r
+X
+R = 1
+
+resistance
+
+
+X 
+
+20
+1
+ R   1  0 . 25 
+80
+4
+P = 20 r
+
+Q = 80 r
+
+A galvanometer having a resistance of 8  is shunted by a wire of resistance 2 . If the total current is
+80 cm
+20 cm
+1 amp, the part of it passing through the shunt will be
+[CBSE PMT 1998]
+Example: 83
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+48 Current Electricity
+(a) 0.25 amp
+Solution: (b)
+
+(b) 0.8 amp
+
+(c) 0.2 amp
+
+(d) 0.5 amp
+
+Fraction of current passing through the galvanometer
+
+ig
+i
+
+
+
+ig
+S
+2
+or
+
+ 0.2
+S G
+i
+28
+
+So fraction of current passing through the shunt
+
+ig
+is
+1
+ 1  0.2  0.8 amp
+i
+i
+Example: 84
+
+A moving coil galvanometer is converted into an ammeter reading upto 0.03 A by connecting a
+shunt of resistance 4r across it and into an ammeter reading upto 0.06 A when a shunt of
+resistance r connected across it. What is the maximum current which can be through this
+galvanometer if no shunt is used
+[MP PMT 1996]
+
+(a) 0.01 A
+Solution: (b)
+
+For ammeter, S 
+
+(b) 0.02 A
+
+ig
+(i  ig )
+
+G
+
+So ig G  (0.03  ig )4 r
+Dividing equation (i) by (ii)
+
+(c) 0.03 A
+
+(d) 0.04 A
+
+ ig G  (i  ig )S
+…… (i)
+1
+
+and
+
+(0 .03  ig ) 4
+0 .06  ig
+
+ig G  (0.06  ig )r
+
+…… (ii)
+
+ 0 .06  ig  0 .12  4 ig
+
+ 3ig = 0.06  ig = 0.02 A
+Tricky Example: 10
+The ammeter A reads 2 A and the voltmeter V reads 20 V. The value of resistance R is
+R
+A
+
+(a) Exactly 10 ohm
+(c) More than 10 ohm
+
+V
+
+(b) Less than 10 ohm
+(d) We cannot definitely say
+
+If current goes through the resistance R is i then iR = 20 volt  R 
+
+Solution: (c)
+
+20
+. Since i < 2A so R >
+i
+
+10.
+
+Potentiometer.
+Potentiometer is a device mainly used to measure emf of a given cell and to compare emf’s of cells. It is
+also used to measure internal resistance of a given cell.
+(1) Superiority of potentiometer over voltmeter : An ordinary voltmeter cannot measure the
+emf accurately because it does draw some current to show the deflection. As per definition of emf, it is the
+potential difference when a cell is in open circuit or no current through the cell. Therefore voltmeter can
+only measure terminal voltage of a give n cell.
+Potentiometer is based on no deflection method. When the potentiometer gives zero deflection, it does
+not draw any current from the cell or the circuit i.e. potentiometer is effectively an ideal instrument of
+infinite resistance for measuring the potential difference.
+(2) Circuit diagram : Potentiometer consists of a long resistive wire AB of length L (about 6m to 10
+m long) made up of mangnine or constantan. A battery of known voltage e and internal resistance r called
+supplier battery or driver cell. Connection of these two forms primary circuit.
+
+[JI
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 49
+
+One terminal of another cell (whose emf E is to be measured) is connected at one end of the main
+circuit and the other terminal at any point on the resistive wire through a galvanometer G. This forms the
+secondary circuit. Other details are as follows
+K
+
+e, r
+
+J = Jockey
+
+Primary
+circuit
+
+K = Key
+R = Resistance of potentiometer wire,
+
+ = Specific resistance of potentiometer wire.
+
+J
+
+A
+Secondary
+circuit
+
+Rh
+
+E
+
+B
+
+G
+
+Rh = Variable resistance which controls the current through the wire AB
+(3) Points to be remember
+(i) The specific resistance () of potentiometer wire must be high but its temperature coefficient of
+resistance () must be low.
+(ii) All higher potential points (terminals) of primary and secondary circuits must be connected
+together at point A and all lower potential points must be connected to point B or jockey.
+(iii) The value of known potential difference must be greater than the value of unknown potential
+difference to be measured.
+(iv) The potential gradient must remain constant. For this the current in the primary circuit must
+remain constant and the jockey must not be slided in contact with the wire.
+(v) The diameter of potentiometer wire must be uniform everywhere.
+(4) Potential gradient (x) : Potential difference (or fall in potential) per unit length of wire is called
+potential gradient i.e. x 
+
+
+
+e
+V iR iρ
+e
+R
+V volt
+. R . So x 
+where V  iR  
+
+
+
+.
+L
+L
+A (R  R h  r) L
+L m
+ R  Rh  r 
+
+(i) Potential gradient directly depends upon
+(a) The resistance per unit length (R/L) of potentiometer wire.
+(b) The radius of potentiometer wire (i.e. Area of cross-section)
+(c) The specific resistance of the material of potentiometer wire (i.e. )
+(d) The current flowing through potentiometer wire (i)
+(ii) x indirectly depends upon
+(a) The emf of battery in the primary circuit (i.e. e)
+(b) The resistance of rheostat in the primary circuit (i.e. Rh)
+
+Note : 
+
+When potential difference V is constant then
+
+x1
+L
+ 2
+x2
+L1
+
+ Two different wire are connected in series to form a potentiometer wire then
+
+x1
+R L
+ 1. 2
+x2
+R 2 L1
+
+ If the length of a potentiometer wire and potential difference across it’s ends are kept
+constant and if it’s diameter is changed from d1  d2 then potential gradient remains
+unchanged.
+ The value of x does not change with any change effected in the secondary circuit.
+
+(5) Working : Suppose jocky is made to touch a point J on wire then potential difference between A
+and J will be V  xl
+Rh
+e, r
+K
+At this length (l) two potential difference are obtained
+l
+A
+
+J1
+G
+
+J
+
+J2
+G
+
+B
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+50 Current Electricity
+(i) V due to battery e and
+(ii) E due to unknown cell
+If V > E then current will flow in galvanometer circuit in one direction
+If V < E then current will flow in galvanometer circuit in opposite direction
+If V = E then no current will flow in galvanometer circuit this condition to known as null deflection
+position, length l is known as balancing length.
+In balanced condition E  xl or E  xl 
+
+Note :  If V is constant then L  l
+
+
+
+
+ R
+V
+iR
+e
+ .  l
+l
+l  
+L
+L
+ R  Rh  r  L
+
+L1
+l
+ 1
+L 2 l2
+
+(6) Standardization of potentiometer : The process of determining potential gradient
+experimentally is known as standardization of potentiometer.
+Let the balancing length for the standard emf E0 is l0 then by the
+E
+principle of potentiometer E0 = xl0  x  0
+l0
+
+e, r
+
+K
+
+Rh
+
+J
+B
+
+A
+
+(7) Sensitivity of potentiometer : A potentiometer is said to be
+more sensitive, if it measures a small potential difference more
+accurately.
+
+E0
+
+G
+
+E
+
+(i) The sensitivity of potentiometer is assessed by its potential
+gradient. The sensitivity is inversely proportional to the potential gradient.
+(ii) In order to increase the sensitivity of potentiometer
+(a) The resistance in primary circuit will have to be decreased.
+(b) The length of potentiometer wire will have to be increased so that the length may be measured more
+accuracy.
+(8) Difference between voltmeter and potentiometer
+Voltmeter
+
+Potentiometer
+
+(i)
+
+It’s resistance is high but finite
+
+Its resistance is high but infinite
+
+(ii)
+
+It draws some current from source of emf
+
+It does not draw any current from the source of known
+emf
+
+(iii
+)
+
+The potential difference measured by it is lesser
+than the actual potential difference
+
+The potential difference measured by it is equal to
+actual potential difference
+
+(iv)
+
+Its sensitivity is low
+
+Its sensitivity is high
+
+(v)
+
+It is a versatile instrument
+
+It measures only emf or potential difference
+
+(vi)
+
+It is based on deflection method
+
+It is based on zero deflection method
+
+Application of Potentiometer.
+(1) To determine the internal resistance of a primary cell
+(i) Initially in secondary circuit key K' remains open and balancing length (l1) is obtained. Since cell E
+is in open circuit so it’s emf balances on length l1 i.e. E = xl1
+……. (i)
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 51
+
+(ii) Now key K is closed so cell E comes in closed circuit. If the
+process is repeated again then potential difference V balances on
+length l2 i.e. V = xl2
+……. (ii)
+E
+
+(iii) By using formula internal resistance r    1  . R '
+V
+
+l l
+r   1 2
+ l2
+
+Rh
+
+K
+
+e, r
+
+J
+
+A
+
+G
+
+E
+K
+
+R
+
+
+ . R '
+
+
+B
+
+(2) Comparison of emf’s of two cell : Let l1 and l2 be the balancing lengths with the cells E1 and E2
+respectively then E1 = xl1 and E2 = xl2 
+
+Note :  Let
+
+E1 l1
+
+E 2 l2
+
+K
+
+e, r
+
+Rh
+
+E1 > E2 and both are connected in series. If
+
+balancing length is l1 when cell assist each other and it is
+
+J
+
+l2 when they
+oppose
+each other as shown
+then
+:
+E1
+E2
+E1
+E2
++ –
+
++
+
++ –
+
+–
+
+–
+
+B
+
+A
+E1
+
++
+
+E2
+
+(E1  E 2 )  xl 1
+
+2
+
+(E1  E 2 )  xl 2
+
+E1  E 2
+l
+ 1
+E1  E 2
+l2
+
+
+
+G
+
+1
+
+or
+
+E1 l1  l 2
+
+E 2 l1  l 2
+
+(3) Comparison of resistances : Let the balancing length for resistance R1 (when XY is connected)
+is l1 and let balancing length for resistance R1 + R2 (when YZ is connected) is
+l2.
+
+Then iR1 = xl1 and i(R1 + R2) = xl2
+
+
+R
+
+K
+
+h
+
+J
+
+A
+
+R 2 l 2  l1
+
+R1
+l1
+
+X
+
+Y
+
+R1
+
+i
+
+G
+
+B
+Z
+
+R
+2
+
+K1
+
+Rh
+
+1
+
+(4) To determine thermo emf
+(i) The value of thermo-emf in a thermocouple for ordinary temperature difference is very low (10–6
+volt). For this the potential gradient x must be also very low (10–4 V/m).
+
++
+
+Hence a high resistance (R) is connected in series with the potentiometer
+wire in order to reduce current.
+A
+
+–
+
+R
+HRB
+
+(ii) The potential difference across R must be equal to the emf of
+standard cell i.e. iR = E0  i 
+
+A
+B
+G
+
++
+E0
+
+E0
+R
+
+Rh
+
+K
+
+–
+
+G
+
+1 2 3
+Cold ice
+
+(iii) The small thermo emf produced in the thermocouple e = xl
+(iv) x  i 
+
+iR
+L
+
+e
+
+= balancing length for e
+
+iRl
+L
+
+Hot
+sand
+
+where L = length of potentiometer wire,  = resistance per unit length, l
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+52 Current Electricity
+(5) To calibrate ammeter and voltmeter
+Calibration of ammeter
+(i) If p.d. across 1 resistance is measured by potentiometer, then current through this (indirectly measured) is
+thus known or if R is known then i = V/R can be found.
+(ii) Circuit and method
+(a) Standardisation is required and per formed as already described earlier. (x = E0/l0)
+(b) The current through R or 1 coil is measured by the connected
+ammeter and same is calculated by potentiometer by finding a
+balancing length as described blow.
+
+e
++ –
+A
+
++
+
+B
+
+E1
++ –
+
+Let i ' current flows through 1 resistance giving p.d. as V '  i' (1)  xl 1
+
+1
+2
+
+1
+
+where l1 is the balancing length. So error can be found as [i (measured
+
+E
+by ammeter) i'  i  i'  xl1   0
+
+ l0
+
+K1
+
+G
+3
++
+
+ 
+ l1 
+
+ 
+
+A
+
+–
+
+K2
+
++ –
+
+Calibration of voltmeter
+(i) Practical voltmeters are not ideal, because these do not have infinite resistance. The error of such practical
+voltmeter can be found by comparing the voltmeter reading with calculated value of p.d. by potentiometer.
+(ii) Circuit and procedure
+(a) Standardisation : If l0 is balancing length for E0 the emf of
+standard cell by connecting 1 and 2 of bi-directional key, then x = E0/l0.
+(b) The balancing length l1 for unknown potential difference V is given
+by (by closing 2 and 3) V '  xl 1  (E0 / l0 )l1 .
+If the voltmeter reading is V then the error will be (V – V) which
+may be +ve, – ve or zero.
+
+e
++ –
+A
+
+Rh
+
+K1
+
++
++
+
+V
+RB
+
+–
+
++ –
+
+B
+
+C
+
+E0
++ – 1
+2
+
+G
+
+3
+K2
+Rh
+
+Concepts
+
+
+
+In case of zero deflection in the galvanometer current flows in the primary circuit of the potentiometer, not in the
+galvanometer circuit.
+
+
+
+A potentiometer can act as an ideal voltmeter.
+
+Example
+s
+Example: 85
+
+A battery with negligible internal resistance is connected with 10m long wire. A standard cell gets
+balanced on 600 cm length of this wire. On increasing the length of potentiometer wire by 2m then
+the null point will be displaced by
+(a) 200 cm
+
+Solution : (b)
+
+By using
+
+(b) 120 cm
+
+(c) 720 cm
+
+(d) 600 cm
+
+L1
+l
+10 600
+ l 2  720 cm .
+ 1 
+
+L2
+l2
+12
+l2
+
+Hence displacement = 720 – 600 = 120 cm
+Example: 86
+
+In the following circuit a 10 m long potentiometer wire with resistance 1.2 ohm/m, a resistance R1 and
+an accumulator of emf 2 V are connected in series. When the emf of thermocouple is 2.4 mV then the
+deflection in galvanometer is zero. The current supplied by the accumulator will be
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 53
+R1
+
+–
+
++
+i
+
+5m
+
+A
+
+G
+
+Hot
+Junction
+
+B
+
+Cold
+Junction
+
+(a) 4  10–4 A
+
+(b) 8  10–4 A
+
+Solution : (a)
+
+E  x l  i l
+
+ i
+
+Example: 87
+
+The resistivity of a potentiometer wire is 40  10–8 m and its area of cross section is 8  10–6 m2.
+If 0.2 amp. Current is flowing through the wire, the potential gradient will be
+(a) 10–2 volt/m
+
+(c) 4  10–3 A
+
+(d) 8  10–3 A
+
+E
+E
+2 .4  10 3
+
+
+ 4  10  4 A .
+l l
+1 .2  5
+
+(b) 10–1 volt/m
+
+(c) 3.2  10–2 volt/m
+
+(d) 1 volt/m
+
+V iR iL i 0.2  40  10 8
+
+
+
+
+ 10  2 V/ m
+6
+L
+L
+AL
+A
+8  10
+
+Solution : (a)
+
+Potential gradient 
+
+Example: 88
+
+A deniel cell is balanced on 125 cm length of a potentiometer wire. When the cell is short circuited
+with a 2  resistance the balancing length obtained is 100 cm. Internal resistance of the cell will
+be [RPMT 1998]
+(a) 1.5 
+
+(b) 0.5 
+
+(c) 1.25 
+
+(d) 4/5 
+
+l1  l2
+125  100
+1
+ R'  r 
+ 2   0 .5 
+l2
+100
+2
+
+Solution: (b)
+
+By using r 
+
+Example: 89
+
+A potentiometer wire of length 10 m and a resistance 30  is connected in series with a battery of
+emf 2.5 V and internal resistance 5  and an external resistance R. If the fall of potential along
+the potentiometer wire is 50 V/mm, the value of R is (in )
+(a) 115
+
+Solution : (a)
+
+By using x 
+
+
+
+50  10 6
+10
+
+Example: 90
+
+(b) 80
+
+3
+
+(c) 50
+
+(d) 100
+
+e
+R
+.
+(R  R h  r) L
+
+
+2 .5
+30
+ R = 115
+
+(30  R  5) 10
+
+A 2 volt battery, a 15  resistor and a potentiometer of 100 cm length, all are connected in series. If
+the resistance of potentiometer wire is 5 , then the potential gradient of the potentiometer wire is [AIIMS 1982
+(a) 0.005 V/cm
+
+(b) 0.05 V/cm
+
+(c) 0.02 V/cm
+
+(d) 0.2 V/cm
+
+e
+R
+2
+5
+.
+ x
+  0.5 V /m  0.005 V /cm
+(R  R h  r) L
+(5  15  0) 1
+
+Solution : (a)
+
+By using x 
+
+Example: 91
+
+In an experiment to measure the internal resistance of a cell by potentiometer, it is found that the
+balance point is at a length of 2 m when the cell is shunted by a 5  resistance; and is at a length of 3
+m when the cell is shunted by a 10  resistance. The internal resistance of the cell is, then
+(a) 1.5 
+
+(b) 10 
+
+(c) 15 
+
+(d) 1 
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+54 Current Electricity
+Solution : (b)
+
+Example: 92
+
+ l  l2
+By using r   1
+ l2
+
+
+l  2
+ R '  r   1
+  5
+ 2 
+
+
+and
+
+l  3
+r   1
+  10
+ 3 
+
+On solving (i) and (ii)
+
+r = 10 
+
+…… (i)
+
+……. (ii)
+
+A resistance of 4  and a wire of length 5 metres and resistance 5  are joined in series and connected
+to a cell of emf 10 V and internal resistance 1 . A parallel combination of two identical cells is
+balanced across 300 cm of the wire. The emf E of each cell is
+4
+10 V, 1
+3m
+5
+
+E
+
+5m
+
+G
+E
+
+(a) 1.5 V
+
+(b) 3.0 V
+
+(c) 0.67 V
+
+(d) 1.33 V
+
+e
+R
+10
+5
+. l  E 
+  3  E = 3 volt
+(R  R h  r) L
+(5  4  1) 5
+
+Solution : (b)
+
+By using E eq 
+
+Example: 93
+
+A potentiometer has uniform potential gradient across it. Two cells connected in series (i) to support
+each other and (ii) to oppose each other are balanced over 6 m and 2 m respectively on the
+potentiometer wire. The emf’s of the cells are in the ratio of
+[MP PMT 2002; RPMT 2000]
+(a) 1 : 2
+
+Solution : (d)
+
+(c) 3 : 1
+
+(d) 2 : 1
+
+If suppose emf’s of the cells are E1 and E2 respectively then
+and
+
+
+Example: 94
+
+(b) 1 : 1
+
+E1 + E2 = x  6
+
+……. (i)
+
+E1 – E2 = x  2
+
+…….(ii)
+
+[x = potential gradient) ]
+
+E1  E 2
+E
+3
+2
+  1 
+E1  E 2
+1
+E2
+1
+
+In the following circuit the potential difference between the points B and C is balanced against 40 cm
+length of potentiometer wire. In order to balance the potential difference between the points C and D,
+where should jockey be pressed
+Rh
+
++
+X
+
+–
+40 cm
+10 
+
+B
+A
+
+(a) 32 cm
+Solution : (a)
+
+(b) 16 cm
+
+10 
++ –
+6V
+
+Y
+G
+C
+
+4
+
+r = 1
+
+(c) 8 cm
+
+1
+1
+1
+2
+1
+
+
+
+
+or R1 = 5 
+R 10 10 10 5
+
+R2 = 4, l1 = 40 cm, l2 = ?
+
+l 2  l1
+
+R2
+40  4
+ 32 cm
+or l 2 
+5
+R1
+
+D
+K
+
+F
+
+(d) 4 cm
+
+genius
+
+PHYSICS
+
+Pradeep Kshetrapal
+Current Electricity 55
+
+Example: 95
+
+In the following circuit diagram fig. the lengths of the wires AB and BC are same but the radius of AB
+is three times that of BC. The ratio of potential gradients at AB and BC will be
+(a) 1 : 9
+
++ –
+
+(b) 9 : 1
+(c) 3 : 1
+(d) 1 : 3
+Solution : (a)
+
+x  Rp 
+
+A
+
+1
+r2
+
+B
+
+C
+
+2
+
+
+
+x1
+r2  r 
+1
+ 22    
+x2
+3
+r
+9
+r1
+ 
+
+Example: 96 With a certain cell the balance point is obtained at 0.60 m from one end of the potentiometer. With
+another cell whose emf differs from that of the first by 0.1 V, the balance point is obtained at 0.55 m.
+Then, the two emf’s are
+(a) 1.2 V, 1.1 V
+Solution : (a)
+
+(b) 1.2 V, 1.3 V
+
+E1 = x (0.6) and E2 = E1 – 0.1 = x (0.55) 
+
+or 55 E1 = 60 E1 – 6  E 1 
+
+(c) – 1.1 V, – 1.0 V
+
+(d) None of the above
+
+E1
+0.6
+
+E1  0.1 0.55
+
+6
+ 1 . 2 V thus E2 = 1.1 V
+5
+
+Tricky Example: 11
+A cell of internal resistance 1.5 and of emf 1.5 volt balances 500 cm on a potentiometer wire. If a
+wire of 15 is connected between the balance point and the cell, then the balance point will shift
+[MP PMT 1985]
+
+Solution : (d)
+
+(a) To zero
+
+(b) By 500 cm
+
+(c) By 750 cm
+
+(d) None of the above
+
+In balance condition no current flows in the galvanometer circuit. Hence there will be no shift in
+balance point after connecting a resistance between balance point and cell.
+
+genius
+56 Current Electricity
+.
+
+PHYSICS
+
+Pradeep Kshetrapal
+
+
