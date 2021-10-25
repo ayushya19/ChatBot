@@ -1,0 +1,82 @@
+Electric Motor - Have you ever noticed a blender, or a fan. Why can the component spin? If you are curious, just calm down because this time we will discuss the working principles and parts of simple electric motors and their functions.
+
+In the world of electronics, the electric motor becomes an inseparable component. It also applies to the automotive vehicle. Electric motors can not be separated in a car or motorcycle. Examples of the use of electric motors in the car, you can see on the starter system, wiper, and power windows.
+
+While in general, electric motors will be very easy to meet in everyday life. Examples are fans, water pumps, washing machines and blenders. Then do you know why these objects can spin?
+
+What is Electric motor ?
+Quoted from wikipedia, electric motor is a tool that serves to convert electrical energy into motion energy. These tools include dynamic power tools as they produce motion. The working principle of electric motors is to utilize magnetic pull force.
+
+We certainly understand, when two magnets with the same poles are brought together, the two magnets move away. Conversely, if the magnetic poles are different then it will attract each other. This is the bacic principle of electric motors.
+
+When a magnetic rod is placed in a magnetic field it will produce a movement on the magnetic bar. The trunk, the magnet is placed on a pivot with the circuit in such a way that it can produce rotary motion when these two components interact.
+
+
+Electric Motor main Components
+1. Stator Coil
+2. Rotor Coil
+3. Main Shaft
+4. Brush
+5. Bearing
+6. Drive Pulley
+7. Motor Housing
+
+Simple Motor Parts and their function
+
+1. Stator / Armature Coil
+
+The stator includes the main components of the electric motor. Because this component will be in direct contact with the performance of the motor. The stator is a static copper winding located around the main axis. The function of the stator is to generate a magnetic field around the rotor.
+
+This component is composed of iron plates wrapped by copper. This copper is connected to a current source. So when the winding is electric current, will cause magnetism in the stator. On a motor generally has three stator coil. This depends on the capacity of the motor itself of course. The more the number of coils, the greater the magnetism generated. This will certainly affect the speed of the motor.
+
+But for simple electric motors, generally just complement the stator using a permanent magnet. So the current used is also lighter. So, whether permanent magnet can be used on electric motors powerless? Certainly can, but the resulting round tends to be small. That is why the magnetic winding is an option to make the output satisfactory as well.
+
+This part also resembles a stator, except that the rotor is a dynamic copper wire. Why is it dynamic? Because the coil is attached with the main shaft or main axle of the motor that will rotate.
+
+2. Rotor Coil
+
+As well as the stator coil, the more the number of turns on the rotor the greater the resulting spin. Commonly used copper with a small diameter. It aims to make the number of windings more even if it requires a large wire length.
+
+The wound end will be connected to another rotor located at the end of the main shaft.
+
+3. Main Shaft
+
+The main shaft is a metal component that extends as a place to attach some components. In addition to the coil rotor, the component attached to this shaft is a drive pulley. Generally the main shaft is made of aluminum which is anti-rust. In addition, this component must also be stable at high rotation and temperature.
+
+4. Brush
+
+Brush is a copper brush that will connect a lithric current source with a coil rotor. This brush is attached to a small rotor located at the end of the main rotor. Friction that occurs will flow the current in the same direction even though the rotor rotates. So that the rotation can be synchronous and continuous.
+
+This friction will be supported by a spring located behind the copper brush. This spring will always hit the brush so that this brush will always stick to the rotor despite spinning at high RPM.
+
+In a simple electric motor should be equipped with two brushes. This brush will supply current and time for the coil rotor. In addition, this component is a popular cause that causes electric motor to die. The crust attached to the surface of the brush will cause the flow of the current to be inhibited. In addition, the condition of the brush is worn because it continues to be rubbed can also inhibit the flow of obstructed flow.
+
+5. Bearing
+
+Because this tool produces rotation, it is necessary a special component that will be used as a pad for a smooth round. This is the function of the bearing, as a bearing between the shaft surface and the motor housing. Bearing generally made from aluminum that has a light friction style. So as not to inhibit motor rotation.
+
+6. Pulley Drive
+
+This component is located at the outer end of the main shaft. Its function is to transfer motor rotation to other components. This component is generally in the form of gear or pulley, which is ready to be connected with components that need to be driven with this motor.
+
+7. Motor Housing
+
+Outside of the electric motor we will see an iron plate that is used to protect all parts of the electric motor. In addition, motor housing also serves to protect us as the user of a very high rotation rotors.
+
+Type Of Electric Motor
+
+1. AC Motor
+
+An AC electric motor is a type of electric motor operating with an alternating current (AC, Alternating Current) voltage source. This AC  electric motor can be distinguished by its resources as follows.
+
+Synchronous motor, is an AC motor working at a fixed speed at a certain frequency system. This motor requires direct current (DC) for power generation and has a low initial torque, and therefore synchronous motors are suitable for low-load initial use, such as air compressors, frequency changes and motor generators. Synchronous motors are able to improve the system power factor, so it is often used on systems that use a lot of electricity.
+
+Induction motor, is an AC power motor that works based on induction magnetic meda between rotor and stator.
+
+2. DC Motor
+
+Direct current electric motor is a type of electric motor that operates with a direct current DC voltage source (DC, Direct Current). DC direct current electric motor can be distinguished again based on the following resources.
+
+Separately Excited Motor. It is a type of DC motor that the field current source is supplied from a separate source, so the DC electric motor is called a separate DC power source (separately excited).
+
+motorSelf Excited motor. It is a type of DC motor that the field current source is supplied from the same source as the electric motor coil, so the DC electric motor is called a self-excited DC power motor.

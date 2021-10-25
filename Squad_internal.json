@@ -1,0 +1,639 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "what are magnetic and non-magnetic materials\n",
+              "id": 156021,
+              "answers": [
+                {
+                  "answer_id": 219888,
+                  "document_id": 287325,
+                  "question_id": 156021,
+                  "text": "We understand that magnet attracts certain materials whereas some do not get attracted towards magnet.\n The materials which get attracted towards a magnet are magnetic – for example, iron, nickel or cobalt.\n The materials which are not attracted towards a magnet are non-magnetic.",
+                  "answer_start": 4284,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what are poles of magnets",
+              "id": 156032,
+              "answers": [
+                {
+                  "answer_id": 219899,
+                  "document_id": 287325,
+                  "question_id": 156032,
+                  "text": "All magnets have two poles whatever their shape may be.\n Usually, north (N) and south (S) poles are marked on the magnets.",
+                  "answer_start": 10778,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "who discovered the magnets",
+              "id": 155716,
+              "answers": [
+                {
+                  "answer_id": 219524,
+                  "document_id": 287325,
+                  "question_id": 155716,
+                  "text": " there was a shepherd named Magnes, who lived in ancient Greece.\n He used to take his herd of sheep and goats to the nearby mountains for grazing.\n He would take a stick with him to control his herd.\n The stick had a small piece of iron attached at one end.\n One day he was surprised to find that he had to pull hard to free his stick from a rock ",
+                  "answer_start": 1177,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what are artificial magnets",
+              "id": 156020,
+              "answers": [
+                {
+                  "answer_id": 219887,
+                  "document_id": 287325,
+                  "question_id": 156020,
+                  "text": "process of making magnets from pieces of iron",
+                  "answer_start": 2554,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "who discovered the magnets",
+              "id": 156019,
+              "answers": [
+                {
+                  "answer_id": 219886,
+                  "document_id": 287325,
+                  "question_id": 156019,
+                  "text": "It seemed as if the stick was being attracted by the rock.\n The rock was a natural magnet and it attracted the iron tip of the shepherd's stick.\n It is said that this is how natural magnets were discovered.\n Such rocks were given the name magnetite, perhaps after the name of that shepherd.\n Magnetite contains iron.\n Some people believe that magnetite was first discovered at a place called Magnesia.\n The substances having the property of attracting iron are now known as magnets.\n This is how the story goes.\n In any case, people now have discovered that certain rocks have the property of attracting pieces of iron.\n They also found that small pieces of these rocks have some special properties.\n They named these naturally occurring materials magnets.",
+                  "answer_start": 1783,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what are north-seeking magnets\n",
+              "id": 156027,
+              "answers": [
+                {
+                  "answer_id": 219894,
+                  "document_id": 287325,
+                  "question_id": 156027,
+                  "text": "The end of the magnet that points towards North is called its North seeking",
+                  "answer_start": 10474,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what are south-seeking magnets",
+              "id": 156031,
+              "answers": [
+                {
+                  "answer_id": 219898,
+                  "document_id": 287325,
+                  "question_id": 156031,
+                  "text": "end that points towards the South is called South seeking end or the South pole of the magnet.",
+                  "answer_start": 10682,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the use of magnetic poles",
+              "id": 156034,
+              "answers": [
+                {
+                  "answer_id": 219901,
+                  "document_id": 287325,
+                  "question_id": 156034,
+                  "text": "All magnets have two poles whatever their shape may be.\n Usually, north (N) and south (S) poles are marked on the magnets.\n This property of the magnet is very useful for us.\n For centuries, travellers have been making use of this property of magnets to find directions.\n It is said that in olden days, travellers used to find directions by suspending natural magnets with a thread, which they always carried with them.\n Later on, a device was developed based on this property of magnets.\n It is known as the compass.",
+                  "answer_start": 10778,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is a compas",
+              "id": 156038,
+              "answers": [
+                {
+                  "answer_id": 219905,
+                  "document_id": 287325,
+                  "question_id": 156038,
+                  "text": "A compass is usually a small box with a glass cover on it.\n A magnetised needle is pivoted inside the box, which can rotate freely",
+                  "answer_start": 11297,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how do magnets loose their properties",
+              "id": 156129,
+              "answers": [
+                {
+                  "answer_id": 220019,
+                  "document_id": 287325,
+                  "question_id": 156129,
+                  "text": "Magnets loose their properties if they are heated, hammered or dropped from some height (Fig.\n Also, magnets become weak if they are not stored properly.",
+                  "answer_start": 15191,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "13  Fun with Magnets  P  aheli and Boojho went to a place where a lot of waste material was piled into huge heaps.\n Something exciting was happening! A crane was moving towards the heap of junk.\n The long hand of the crane lowered a block over a heap.\n It then began to move.\n Many pieces of iron junk were sticking to the block, as it moved away (Fig.\n1)!  sticking to the holder.\n In some pencil boxes, the lid fits tightly when we close it even without a locking arrangement.\n Such stickers, pin holders and pencil boxes have magnets fitted inside (Fig.\n If you have any one of these items, try to locate the magnets hidden in these.\n2 Some common items that have magnets inside them Fig.\n1 Picking up pieces of iron from waste  They had just read a very interesting book on magnets and knew immediately that there must be a magnet attached to the end of the crane that was picking up iron from the junk yard.\n You might have seen magnets and have even enjoyed playing with them.\n Have you seen stickers that remain attached to iron surfaces like almirahs or the doors of refrigerators?\n In some pin holders, the pins seem to be  How Magnets Were Discovered It is said that, there was a shepherd named Magnes, who lived in ancient Greece.\n He used to take his herd of sheep and goats to the nearby mountains for grazing.\n He would take a stick with him to control his herd.\n The stick had a small piece of iron attached at one end.\n One day he was surprised to find that he had to pull hard to free his stick from a rock on the  2021–22  \fFig.\n4 Magnets of different shapes  magnets are prepared in different shapes.\n For example, bar magnet, horseshoe magnet, cylindrical or a ball-ended magnet.\n4 shows a few such magnets.\n3 A natural magnet on a hillside!  mountainside (Fig.\n It seemed as if the stick was being attracted by the rock.\n The rock was a natural magnet and it attracted the iron tip of the shepherd's stick.\n It is said that this is how natural magnets were discovered.\n Such rocks were given the name magnetite, perhaps after the name of that shepherd.\n Magnetite contains iron.\n Some people believe that magnetite was first discovered at a place called Magnesia.\n The substances having the property of attracting iron are now known as magnets.\n This is how the story goes.\n In any case, people now have discovered that certain rocks have the property of attracting pieces of iron.\n They also found that small pieces of these rocks have some special properties.\n They named these naturally occurring materials magnets.\n Later on the process of making magnets from pieces of iron was discovered.\n These are known as artificial magnets.\n Nowadays artificial  Activity 1 Take a plastic or a paper cup.\n Fix it on a stand with the help of a clamp as shown in Fig.\n Place a magnet inside the cup and cover it with a paper so that the magnet is not visible.\n Attach a thread to a clip made of iron.\n Fix the other end of the thread at the base of the stand.\n (Mind you, the trick involved here, is to keep the length of the thread sufficiently short.\n) Bring the clip near the base of the cup.\n The clip is raised in air without support, like a kite.\n5 Effect of magnet - a paper clip hanging in air! SCIENCE  2021–22  \f13.\n1 MAGNETIC MATERIALS  AND  NON-MAGNETIC  Activity 2 Let us walk in the footsteps of Magnes.\n Only, this time, we will change the positions of the magnet and the iron.\n There will be a magnet at the end of our shepherd's stick.\n We can attach a small magnet to a hockey stick, walking stick or a cricket wicket with a tape or some glue.\n Let us now go out on a \"Magnes walk\" through the school playground.\n What does our \"Magnes stick\" pick up from the school ground?\n What about objects in the classroom?\n Collect various objects of day-to-day use from your surroundings.\n Test these with the \"Magnes stick\".\n You can also take a magnet, touch these objects with it and observe which objects stick to the magnet.\n Prepare a table in your notebook as shown in Table 13.\n and record your observations.\n Look at the last column of Table 13.\n1 and note the objects that are attracted by a magnet.\n Now, make a list of  materials from which these objects are made.\n Is there any material common in all the objects that were attracted by the magnet?\n We understand that magnet attracts certain materials whereas some do not get attracted towards magnet.\n The materials which get attracted towards a magnet are magnetic – for example, iron, nickel or cobalt.\n The materials which are not attracted towards a magnet are non-magnetic.\n What materials did you find to be nonmagnetic from Table 13.\n Is soil a magnetic or a non-magnetic material?\n  Boojho has this question for you.\n A tailor was stitching buttons on his shirt.\n The needle has slipped from his hand on to the floor.\n Can you help the tailor to find the needle?\n1 Finding the objects attracted by magnet Material which the object is made of (Cloth/plastic/ aluminium/ wood/ glass/ iron/ any other  Attracted by Magnes stick/ magnet (Yes/No)  Iron ball  Iron  Yes  Scale  Plastic  No  Shoe  Leather  ?\n  Name of the object  127  FUN WITH MAGNETS  2021–22  \fActivity 3 Rub a magnet in the sand or soil.\n Pull out the magnet.\n Are there some particles of sand or soil sticking to the magnet?\n Now, gently shake the magnet to remove the particles of sand or soil.\n Are some particles still sticking to it?\n These might be small pieces of iron (iron filings) picked up from the soil.\n Through such an activity, we can find out whether the soil or sand from a given place contains particles that have iron.\n Try this activity near your home, school or the places you visit on your holidays.\n Does the magnet with iron filings sticking to it, look like any one of those shown in Fig.\n Make a table of what you find.\n (a)  If you fill this table and send it to Paheli and Boojho, they can compare the amount of iron filings found in soil from different parts of the country.\n They can share this information with you.\n2 POLES  OF  MAGNET  We observed that iron filings (if they are present) stick to a magnet rubbed in the soil.\n Did you observe anything special about the way they stick to the magnet?\n  Activity 4 Spread some iron filings on a sheet of paper.\n Now, place a bar magnet on this sheet.\n What do you observe?\n Do the iron filings stick all over the magnet?\n Do you observe that more iron filings get attracted to some parts of the magnet than others (Fig.\n Remove the iron filings sticking to the magnet and repeat the  (b)  (c) Fig.\n6 Magnet with (a) many iron filings (b) few iron filings and (c) no iron filings sticking to it.\n7 Iron filings sticking to a bar magnet  Table 13.\n2 Magnet rubbed in sand.\n How many iron filings?\n id you find iron Name of location fD i l ings sticking to (Colony and the magnet?\n town/ city/ ( M any/ very few/ village) none)  activity.\n Do you observe any change in the pattern with which the iron filings get attracted by different parts of the magnet?\n You can do this activity using pins or iron nails in place of iron filings and also with magnets of different shapes.\n Draw a diagram to show the way iron filings stick to the magnet.\n Is your drawing similar to that shown in Fig.\n We find that the iron filings are attracted more towards the region close  128  SCIENCE  2021–22  \fPaheli has this puzzle for you.\n You are given two identical bars which look as if they might be made of iron.\n One of them is a magnet, while the other is a simple iron bar.\n How will you find out, which one is a magnet?\n  to two ends of a bar magnet.\n Poles of a magnet are said to be near these ends.\n Try and bring a few magnets of different shapes to the classroom.\n Check for the location of the poles on these magnets using iron filings.\n Can you now mark the location of poles in the kind of magnets shown in Fig.\n3 FINDING DIRECTIONS Magnets were known to people from ancient times.\n Many properties of magnets were also known to them.\n You might have read many interesting stories about the uses of magnets.\n One such story is about an emperor in China named Hoang Ti.\n It is said that he had a chariot with a statue of a lady that could rotate in any direction.\n It had an extended arm as if it was showing the way (Fig.\n The statue had an interesting property.\n It would rest in such a position that its extended arm always pointed towards South.\n By looking at the extended arm of the statue, the Emperor was able to locate directions when he went to new places on his chariot.\n8 The chariot with direction finding statue  Let us make such a direction finder for ourselves.\n  Activity 5 Take a bar magnet.\n Put a mark on one of its ends for identification.\n Now, tie a thread at the middle of the magnet so that you may suspend it from a wooden stand (Fig.\n Make sure that the magnet can rotate freely.\n Let it come to rest.\n Mark two points on the ground to show the position of the ends of the magnet when it comes to rest.\n9 A freely suspended bar magnet always comes to rest in the same direction 129  FUN WITH MAGNETS  2021–22  \fline joining the two points.\n This line shows the direction in which the magnet was pointing in its position of rest.\n Now, rotate the magnet by gently pushing one end in any direction and let it come to rest.\n Again, mark the position of the two ends in its position of rest.\n Does the magnet now point in a different direction?\n Rotate the magnet in other directions and note the final direction in which it comes to rest.\n Do you find that the magnet always comes to rest in the same direction?\n Now can you guess the mystery behind the statue in the Emperor's chariot?\n Repeat this activity with an iron bar and a plastic or a wooden scale instead of a magnet.\n Do not use light objects for this activity and avoid doing it where there are currents of air.\n Do the other materials also always come to rest in the same direction?\n We find that a freely suspended bar magnet always comes to rest in a particular direction, which is the NorthSouth direction.\n Use the direction of the rising sun in the morning to find out the rough direction towards east, where you are doing this experiment.\n If you stand facing east, to your left will be North.\n Using the Sun for finding directions may not be very exact, but, it will help to make out the direction North from the South, on your line.\n Using this you can figure out which end of the magnet is pointing to the North and which points to the South.\n The end of the magnet that points towards North is called its North seeking  In which direction is the main gate of your school situated from your classroom?\n  end or the North pole of the magnet.\n The other end that points towards the South is called South seeking end or the South pole of the magnet.\n All magnets have two poles whatever their shape may be.\n Usually, north (N) and south (S) poles are marked on the magnets.\n This property of the magnet is very useful for us.\n For centuries, travellers have been making use of this property of magnets to find directions.\n It is said that in olden days, travellers used to find directions by suspending natural magnets with a thread, which they always carried with them.\n Later on, a device was developed based on this property of magnets.\n It is known as the compass.\n A compass is usually a small box with a glass cover on it.\n A magnetised needle is pivoted inside the box, which can rotate freely (Fig.\n The compass also has a dial  130  Fig.\n10 A compass SCIENCE  2021–22  \fwith directions marked on it.\n The compass is kept at the place where we wish to know the directions.\n Its needle indicates the north-south direction when it comes to rest.\n The compass is then rotated until the north and south marked on the dial are at the two ends of the needle.\n To identify the north-pole of the magnetic needle, it is usually painted in a different colour.\n4 MAKE YOUR OWN MAGNET There are several methods of making magnets.\n Let us learn the simplest one.\n Take a rectangular piece of iron.\n Place it on the table.\n Now take a bar magnet and place one of its poles near one edge of the bar of iron.\n Without lifting the bar magnet, move it along the length of the iron bar till you reach the other end.\n Now, lift the magnet and bring the pole (the same pole you started with) to the same point of the iron bar from which you began (Fig.\n Move the magnet again along the iron bar in the same direction as you did before.\n Repeat this process about 30-40 times.\n Bring a pin or some iron filings near the iron bar to check whether it has become a magnet.\n If not, continue the process for some  more time.\n Remember that the pole of the magnet and the direction of its movement should not change.\n You can also use an iron nail, a needle or a blade and convert them into a magnet.\n You now know how to make a magnet.\n Would you like to make your own compass?\n  Activity 6 Magnetise an iron needle using a bar magnet.\n Now, insert the magnetised needle through a small piece of cork or foam.\n Let the cork float in water in a Fig.\n12 A bowl or a tub.\n Make compass in a cup sure that the needle does not touch the water (Fig.\n Your compass is now ready to work.\n Make a note of the direction in which the needle points when the cork is floating.\n Rotate the cork, with the needle fixed in it, in different directions.\n Note the direction in which the needle points when the cork begins to float again without rotating.\n Does the needle always point in the same direction, when the cork stops rotating?\n5 A TTRACTION AND R EPULSION BETWEEN MAGNETS  Fig.\n11 Making your own magnet  Let us play another interesting game with magnets.\n Take two small toy cars and label them A and B.\n Place a bar magnet on top of each car along its length and fix them with rubber bands 131  FUN WITH MAGNETS  2021–22  \fA B Fig.\n13 Do opposite poles attract each other?\n14 Repulsion between similar poles?\n In car A, keep the south pole of the magnet towards its front.\n Place the magnet in opposite direction in car B.\n Now, place the two cars close to one another (Fig.\n What do you observe?\n Do the cars remain at their places?\n Do the cars run away from each other?\n Do they move towards each other and collide?\n Record your observations in a table as shown in Table 13.\n Now, place the toy cars close to each other such that the rear side of car A faces the front side of car B (Fig 13.\n Do they move as before?\n Note the direction in which the cars move now.\n Next, place the car A behind car B and note the direction in which they move in each case.\n Repeat the activity by placing cars  with their rear sides facing each other.\n Record your observations in each case.\n What do we find from this activity?\n Do two similar poles attract or repel each other?\n What about opposite poles — do they attract or repel each other?\n This property of the magnets can also be observed by suspending a magnet and bringing one by one the poles of another magnet near it.\n  Boojho has this question for you.\n What will happen if a magnet is brought near a compass?\n  A Few Cautions Table 13.\n3 How do the cars move?\n Move towards/ Position of the cars away from each other/ not move at all  Magnets loose their properties if they are heated, hammered or dropped from some height (Fig.\n Also, magnets become weak if they are not stored properly.\n To keep them safe, bar  Front of car A facing the front of car B Rear of car A facing the front of car B Car A placed behind car B Rear of car B facing rear of car A  Fig.\n15 Magnets lose their property on heating, hammering and droping  132  SCIENCE  2021–22  \fFig.\n16 Store your magnets safely  magnets should be kept in pairs with their unlike poles on the same side.\n They must be separated by a piece of wood while two pieces of soft iron should be placed across their ends (Fig.\n  For horse-shoe magnet, one should keep a piece of iron across the poles.\n Keep magnets away from cassettes, mobiles, television, music system, compact disks (CDs) and the computer.\n  Compass Magnet Magnetite North pole South pole  n n n n n n  Magnetite is a natural magnet.\n Magnet attracts materials like iron, nickel, cobalt.\n These are called magnetic materials.\n Materials that are not attracted towards magnet are called non-magnetic.\n Each magnet has two magnetic poles—North and South.\n A freely suspended magnet always aligns in N-S direction.\n Opposite poles of two magnets attract each other whereas similar poles repel one another.\n  133  FUN WITH MAGNETS  2021–22  \f1.\n  Fill in the blanks in the following (i) Artificial magnets are made in different shapes such as __________, __________ and ____________.\n (ii) The Materials which are attracted towards a magnet are called________.\n (iii) Paper is not a ______ material.\n (iv) In olden days, sailors used to find direction by suspending a piece of ___________.\n (v) A magnet always has __________ poles.\n  State whether the following statements are true or false: (i) A cylindrical magnet has only one pole.\n (ii) Artificial magnets were discovered in Greece.\n (iii) Similar poles of a magnet repel each other.\n (iv) Maximum iron filings stick in the middle of a bar magnet when it is brought near them.\n (v) Bar magnets always point towards North-South direction.\n (vi) A compass can be used to find East-West direction at any place.\n (vii) Rubber is a magnetic material.\n  It was observed that a pencil sharpener gets attracted by both the poles of a magnet although its body is made of plastic.\n Name a material that might have been used to make some part of it.\n  Column I shows different positions in which one pole of a magnet is placed near that of the other.\n Column II indicates the resulting action between them for each situation.\n Fill in the blanks.\n Column I  Column II  N-N  _________  N - _________  Attraction  S-N  _________  _________ - S  Repulstion  5.\n  Write any two properties of a magnet.\n  Where are poles of a bar magnet located?\n  A bar magnet has no markings to indicate its poles.\n How would you find out near which end is its north pole located?\n  You are given an iron strip.\n How will you make it into a magnet?\n  How is a compass used to find directions?\n A magnet was brought from different directions towards a toy boat that has 134  SCIENCE  2021–22  \fbeen floating in water in a tub.\n Affect observed in each case is stated in Column I.\n Possible reasons for the observed affects are mentioned in Column II.\n Match the statements given in Column I with those in Column II.\n Column I  Column II  Boat gets attracted towards the magnet  Boat is fitted with a magnet with north pole towards its head  Boat is not affected by the magnet  Boat is fitted with a magnet with south pole towards its head  Boat moves towards the magnet if north pole of the magnet is brought near its head  Boat has a small magnet fixed along its length  Boat moves away from the magnet when north pole is brought near its head  Boat is made of magnetic material  Boat floats without changing its direction  Boat is made up non-magnetic material  SOME SUGGESTED ACTIVITIES 1.\n  Using a compass, find the direction in which windows and entrance to your house or classroom open.\n  Try to place two equal sized bar magnets one above the other such that their north poles are on the same side.\n Note what happens and write your observations in your note book.\n  Few iron nails and screws got mixed with the wooden shavings while a carpenter was working with them.\n How can you help him in getting the nails and screws back from the scrap without wasting his time in searching with his hands?\n  You can make an intelligent doll, which picks up the things it likes (Fig.\n Take a doll and attach a small magnet in one of its hands.\n Cover this hand with small gloves so that the magnet is not visible.\n Now, your intelligent doll is ready.\n Ask your friends to bring different objects near the doll's hand.\n Knowing the material of the object you can tell in advance whether the doll would catch it or not.\n  THINGS TO READ  Fig.\n17 An intelligent doll  ‘Gulliver's Travels’ which has this fantasy of the whole island of Laputa, floating in air.\n Could magnets be involved?\n 135  FUN WITH MAGNETS  2021–22   \n",
+          "document_id": 287325
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "what is magnetic field",
+              "id": 156265,
+              "answers": [
+                {
+                  "answer_id": 220207,
+                  "document_id": 287328,
+                  "question_id": 156265,
+                  "text": "A magnetic field exists in the region surrounding a magnet, in which the force of the magnet can be detected.",
+                  "answer_start": 37741,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is an electric motor",
+              "id": 156270,
+              "answers": [
+                {
+                  "answer_id": 220212,
+                  "document_id": 287328,
+                  "question_id": 156270,
+                  "text": "An electric motor is a device that converts electric energy into mechanical energy.",
+                  "answer_start": 39093,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the use of a fuse",
+              "id": 156278,
+              "answers": [
+                {
+                  "answer_id": 220220,
+                  "document_id": 287328,
+                  "question_id": 156278,
+                  "text": "A fuse in a circuit prevents damage to the appliances and the circuit due to overloading.",
+                  "answer_start": 36372,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is short circuiting ",
+              "id": 156279,
+              "answers": [
+                {
+                  "answer_id": 220221,
+                  "document_id": 287328,
+                  "question_id": 156279,
+                  "text": "Overloading can occur when the live wire and the neutral wire come into direct contact.\n (This occurs when the insulation of wires is damaged or there is a fault in the appliance.\n) In such a situation, the current in the circuit abruptly increases.\n This is called short-circuiting.",
+                  "answer_start": 36463,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the use of a fuse",
+              "id": 156280,
+              "answers": [
+                {
+                  "answer_id": 220222,
+                  "document_id": 287328,
+                  "question_id": 156280,
+                  "text": "The use of an electric fuse prevents the electric circuit and the appliance from a possible damage by stopping the flow of unduly high electric current.",
+                  "answer_start": 36748,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is short circuiting\n",
+              "id": 156281,
+              "answers": [
+                {
+                  "answer_id": 220223,
+                  "document_id": 287328,
+                  "question_id": 156281,
+                  "text": "Overloading can also occur due to an accidental hike in the supply voltage.\n Sometimes overloading is caused by connecting too many appliances to a single socket.",
+                  "answer_start": 36990,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is alternating current",
+              "id": 156285,
+              "answers": [
+                {
+                  "answer_id": 220227,
+                  "document_id": 287328,
+                  "question_id": 156285,
+                  "text": "a current, which changes direction after equal intervals of time, is called an alternating current",
+                  "answer_start": 32668,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is a compass",
+              "id": 156287,
+              "answers": [
+                {
+                  "answer_id": 220229,
+                  "document_id": 287328,
+                  "question_id": 156287,
+                  "text": "A compass needle is, in fact, a small bar magnet.\n The ends of the compass needle point approximately towards north and south directions.\n The end pointing towards north is called north seeking or north pole.\n The other end that points towards south is called south seeking or south pole.",
+                  "answer_start": 2146,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is MRI",
+              "id": 156337,
+              "answers": [
+                {
+                  "answer_id": 220302,
+                  "document_id": 287328,
+                  "question_id": 156337,
+                  "text": "Even weak ion currents that travel along the nerve cells in our body produce magnetic fields.\n When we touch something, our nerves carry an electric impulse to the muscles we need to use.\n This impulse produces a temporary magnetic field.\n These fields are very weak and are about one-billionth of the earth’s magnetic field.\n Two main organs in the human body where the magnetic field produced is significant, are the heart and the brain.\n The magnetic field inside the body forms the basis of obtaining the images of different body parts.\n This is done using a technique called Magnetic Resonance Imaging (MRI).\n Analysis of these images helps in medical diagnosis.\n Magnetism has, thus, got important uses in medicine.",
+                  "answer_start": 20637,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what are magnetic field lines",
+              "id": 156267,
+              "answers": [
+                {
+                  "answer_id": 220209,
+                  "document_id": 287328,
+                  "question_id": 156267,
+                  "text": "Field lines are used to represent a magnetic field.\n A field line is the path along which a hypothetical free north pole would tend to move.\n The direction of the magnetic field at a point is given by the direction that a north pole placed at that point would take.\n Field lines are shown closer together where the magnetic field is greater.\n  n  A metallic wire carrying an electric current has associated with it a magnetic field.\n The field lines about the wire consist of a series of concentric circles whose direction is given by the right-hand rule.\n  n  The pattern of the magnetic field around a conductor due to an electric current flowing through it depends on the shape of the conductor.\n The magnetic field of a solenoid carrying a current is similar to that of a bar magnet.",
+                  "answer_start": 37856,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is fleming's left hand rule",
+              "id": 156269,
+              "answers": [
+                {
+                  "answer_id": 220211,
+                  "document_id": 287328,
+                  "question_id": 156269,
+                  "text": "A current-carrying conductor when placed in a magnetic field experiences a force.\n If the direction of the field and that of the current are mutually perpendicular to each other, then the force acting on the conductor will be perpendicular to both and will be given by Fleming’s left-hand rule",
+                  "answer_start": 38756,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is electro-magnetic induction",
+              "id": 156272,
+              "answers": [
+                {
+                  "answer_id": 220214,
+                  "document_id": 287328,
+                  "question_id": 156272,
+                  "text": "The phenomenon of electromagnetic induction is the production of induced current in a coil placed in a region where the magnetic field changes with time.\n The magnetic field may change due to a relative motion between the coil and a magnet placed near to the coil.\n If the coil is placed near to a current-carrying conductor, the magnetic field may change either due to a change in the current through the conductor or due to the relative motion between the coil and conductor.",
+                  "answer_start": 39182,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is fleming's right hand rule",
+              "id": 156273,
+              "answers": [
+                {
+                  "answer_id": 220215,
+                  "document_id": 287328,
+                  "question_id": 156273,
+                  "text": "he phenomenon of electromagnetic induction is the production of induced current in a coil placed in a region where the magnetic field changes with time.\n The magnetic field may change due to a relative motion between the coil and a magnet placed near to the coil.\n If the coil is placed near to a current-carrying conductor, the magnetic field may change either due to a change in the current through the conductor or due to the relative motion between the coil and conductor.\n The direction of the induced current is given by the Fleming’s right-hand rule.",
+                  "answer_start": 39183,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is a generator",
+              "id": 156274,
+              "answers": [
+                {
+                  "answer_id": 220216,
+                  "document_id": 287328,
+                  "question_id": 156274,
+                  "text": " A generator converts mechanical energy into electrical energy.\n It works on the basis of electromagnetic induction.",
+                  "answer_start": 39745,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how do we get power at our homes?",
+              "id": 156277,
+              "answers": [
+                {
+                  "answer_id": 220219,
+                  "document_id": 287328,
+                  "question_id": 156277,
+                  "text": " In our houses we receive AC electric power of 220 V with a frequency of 50 Hz.\n One of the wires in this supply is with red insulation, called live wire.\n The other one is of black insulation, which is a neutral wire.\n The potential difference between the two is 220 V.\n The third is the earth wire that has green insulation and this is connected to a metallic body deep inside earth.\n It is used as a safety measure to ensure that any leakage of current to a metallic body does not give any severe shock to a user.\n  n  Fuse is the most important safety device, used for protecting the circuits due to short-circuiting or overloading of the circuits.",
+                  "answer_start": 39866,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is domestic electric circuit",
+              "id": 156283,
+              "answers": [
+                {
+                  "answer_id": 220225,
+                  "document_id": 287328,
+                  "question_id": 156283,
+                  "text": "In our homes, we receive supply of electric power through a main supply (also called mains), either supported through overhead electric poles or by underground cables.\n One of the wires in this supply, usually with red insulation cover, is called live wire (or positive).\n Another wire, with black insulation, is called neutral wire (or negative).\n In our country, the potential difference between the two is 220 V.\n At the metre-board in the house, these wires pass into an electricity meter through a main fuse.\n Through the main switch they are connected to the line wires in the house.\n These wires supply electricity to separate circuits within the house.",
+                  "answer_start": 34240,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Explain direction of magnetic field",
+              "id": 156289,
+              "answers": [
+                {
+                  "answer_id": 220231,
+                  "document_id": 287328,
+                  "question_id": 156289,
+                  "text": "The direction of the magnetic field is taken to be the direction in which a north pole of the compass needle moves inside it.\n Therefore it is taken by convention that the field lines emerge from north pole and merge at the south pole ",
+                  "answer_start": 5062,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is direction of field lines inside the magnet",
+              "id": 156290,
+              "answers": [
+                {
+                  "answer_id": 220232,
+                  "document_id": 287328,
+                  "question_id": 156290,
+                  "text": "Inside the magnet, the direction of field lines is from its south pole to its north pole.\n Thus the magnetic field lines are closed curves.",
+                  "answer_start": 5349,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Define magnetic field lines\n",
+              "id": 156293,
+              "answers": [
+                {
+                  "answer_id": 220235,
+                  "document_id": 287328,
+                  "question_id": 156293,
+                  "text": "The relative strength of the magnetic field is shown by the degree of closeness of the field lines.\n The field is stronger, that is, the force acting on the pole of another magnet placed is greater where the field lines are crowded (see Fig.\n No two field-lines are found to cross each other.\n If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.",
+                  "answer_start": 5490,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the right hand thumb rule",
+              "id": 156296,
+              "answers": [
+                {
+                  "answer_id": 220238,
+                  "document_id": 287328,
+                  "question_id": 156296,
+                  "text": " \fImagine that you are holding a current-carrying straight conductor in your right hand such that the thumb points towards the direction of current.\n Then your fingers will wrap around the conductor in the direction of the field lines of the magnetic field, as shown in Fig.\n This is known as the right-hand thumb rule*.",
+                  "answer_start": 10903,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "define magnetic field lines inside a current carrying loop",
+              "id": 156302,
+              "answers": [
+                {
+                  "answer_id": 220244,
+                  "document_id": 287328,
+                  "question_id": 156302,
+                  "text": "the magnetic field produced by a current-carrying straight wire depends inversely on the distance from it.\n Similarly at every point of a current-carrying circular loop, the concentric circles representing the magnetic field around it would become larger and larger as we move away from the wire (Fig.\n By the time we reach at the centre of the circular loop, the arcs of these big circles would appear as straight lines.\n Every point on the wire carrying current would give rise to the magnetic field appearing as straight lines at the center of the loop.\n By applying the right hand rule, it is easy to check that every section of the wire contributes to the magnetic field lines in the same direction within the loop.\n  * This rule is also called Maxwell’s corkscrew rule.",
+                  "answer_start": 12332,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "why does solenoid produce more magnetic field than a simple loop",
+              "id": 156307,
+              "answers": [
+                {
+                  "answer_id": 220249,
+                  "document_id": 287328,
+                  "question_id": 156307,
+                  "text": "the magnetic field produced by a current-carrying wire at a given point depends directly on the current passing through it.\n Therefore, if there is a circular coil having n turns, the field produced is n times as large as that produced by a single turn.\n This is because the current in each circular turn has the same direction, and the field due to each turn then just adds up.",
+                  "answer_start": 13315,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what are the similarities between solenoid and bar magnet",
+              "id": 156308,
+              "answers": [
+                {
+                  "answer_id": 220250,
+                  "document_id": 287328,
+                  "question_id": 156308,
+                  "text": "one end of the solenoid behaves as a magnetic north pole, while the other behaves as the south pole.\n The field lines inside the solenoid are in the form of parallel straight lines.\n This indicates that the magnetic field is the same at all points inside the solenoid.\n That is, the field is uniform inside the solenoid.",
+                  "answer_start": 14578,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "define electromagnets",
+              "id": 156309,
+              "answers": [
+                {
+                  "answer_id": 220251,
+                  "document_id": 287328,
+                  "question_id": 156309,
+                  "text": "A strong magnetic field produced inside a solenoid can be used to magnetise a piece of magnetic material, like soft iron, when placed inside the coil (Fig.\n The magnet so formed is called an electromagnet",
+                  "answer_start": 14900,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "which devices use electro-magnetic induction",
+              "id": 156334,
+              "answers": [
+                {
+                  "answer_id": 220296,
+                  "document_id": 287328,
+                  "question_id": 156334,
+                  "text": " Devices that use current-carrying conductors and magnetic fields include electric motor, electric generator, loudspeakers, microphones and measuring instruments.",
+                  "answer_start": 19057,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Use of electromagnetic induction in the field of medicine",
+              "id": 156338,
+              "answers": [
+                {
+                  "answer_id": 220305,
+                  "document_id": 287328,
+                  "question_id": 156338,
+                  "text": "Even weak ion currents that travel along the nerve cells in our body produce magnetic fields.\n When we touch something, our nerves carry an electric impulse to the muscles we need to use.\n This impulse produces a temporary magnetic field.\n These fields are very weak and are about one-billionth of the earth’s magnetic field.\n Two main organs in the human body where the magnetic field produced is significant, are the heart and the brain.\n The magnetic field inside the body forms the basis of obtaining the images of different body parts.\n This is done using a technique called Magnetic Resonance Imaging (MRI).\n Analysis of these images helps in medical diagnosis.\n Magnetism has, thus, got important uses in medicine.",
+                  "answer_start": 20637,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is electric motor",
+              "id": 156340,
+              "answers": [
+                {
+                  "answer_id": 220308,
+                  "document_id": 287328,
+                  "question_id": 156340,
+                  "text": "An electric motor is a rotating device that converts electrical energy to mechanical energy.\n Electric motor is used as an important component in electric fans, refrigerators, mixers, washing machines, computers, MP3 players etc.",
+                  "answer_start": 21424,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "who was Michael Faraday",
+              "id": 156344,
+              "answers": [
+                {
+                  "answer_id": 220314,
+                  "document_id": 287328,
+                  "question_id": 156344,
+                  "text": " Michael Faraday (1791–1867) Michael Faraday was an experimental physicist.\n He had no formal education.\n He worked in a book-binding shop during his early years.\n He used to read books that came for binding.\n This way Faraday developed his interest in science.\n He got an opportunity to listen to some public lectures by Humphrey Davy of Royal Institute.\n He made careful notes of Davy’s lectures and sent them to Davy.\n Soon he was made an assistant in Davy’s laboratory at the Royal Institute.\n Faraday made several path-breaking discoveries that include electromagnetic induction and the laws of electrolysis.\n Several universities conferred on him the honorary degrees but he turned down such honours.\n Faraday loved his science work more than any honour.",
+                  "answer_start": 26890,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is electromagnetic induction",
+              "id": 156345,
+              "answers": [
+                {
+                  "answer_id": 220316,
+                  "document_id": 287328,
+                  "question_id": 156345,
+                  "text": " process, by which a changing magnetic field in a conductor induces a current in another conductor, is called electromagnetic induction.",
+                  "answer_start": 29446,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how can we induce electromagnetic induction",
+              "id": 156348,
+              "answers": [
+                {
+                  "answer_id": 220319,
+                  "document_id": 287328,
+                  "question_id": 156348,
+                  "text": "In practice we can induce current in a coil either by moving it in a magnetic field or by changing the magnetic field around it.\n It is convenient in most situations to move the coil in a magnetic field.\n The induced current is found to be the highest when the direction of motion of the coil is at right angles to the magnetic field.\n In this situation, we can use a simple rule to know the direction of the induced current.",
+                  "answer_start": 29584,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is fleming's right-hand rule",
+              "id": 156349,
+              "answers": [
+                {
+                  "answer_id": 220320,
+                  "document_id": 287328,
+                  "question_id": 156349,
+                  "text": "Stretch the thumb, forefinger and middle finger of right hand so that they are perpendicular to each other, as shown in Fig.\n If the forefinger indicates the direction of the magnetic field and the thumb shows the direction of motion of conductor, then the middle finger will show the direction Figure 13.\n18 of induced current.\n This simple rule is called Fleming’s Fleming’s right-hand rule right-hand rule.",
+                  "answer_start": 30011,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "CHAPTER  13  Magnetic Effects of Electric Current I  n the previous Chapter on ‘Electricity’ we learnt about the heating effects of electric current.\n What could be the other effects of electric current?\n We know that an electric current-carrying wire behaves like a magnet.\n Let us perform the following Activity to reinforce it.\n1 n  n n n  Take a straight thick copper wire and place it between the points X and Y in an electric circuit, as shown in Fig.\n The wire XY is kept perpendicular to the plane of paper.\n Horizontally place a small compass near to this copper wire.\n See the position of its needle.\n Pass the current through the circuit by inserting the key into the plug.\n Observe the change in the position of the compass needle.\n1 Compass needle is deflected on passing an electric current through a metallic conductor  We see that the needle is deflected.\n What does it mean?\n It means that the electric current through the copper wire has produced a magnetic effect.\n Thus we can say that electricity and magnetism are linked to each other.\n Then, what about the reverse possibility of an electric effect of moving magnets?\n In this Chapter we will study magnetic fields and such electromagnetic effects.\n We shall also study about electromagnets and electric motors which involve the magnetic effect of electric current, and electric generators which involve the electric effect of moving magnets.\n Hans Christian Oersted (1777–1851) Hans Christian Oersted, one of the leading scientists of the 19th century, played a crucial role in understanding electromagnetism.\n In 1820 he accidentally discovered that a compass needle got deflected when an electric current passed through a metallic wire placed nearby.\n Through this observation Oersted showed that electricity and magnetism were related phenomena.\n His research later created technologies such as the radio, television and fiber optics.\n The unit of magnetic field strength is named the Oersted in his honor.\n  2015-16 (11-11-2014)  \f13.\n1 MAGNETIC FIELD AND FIELD LINES We are familiar with the fact that a compass needle gets deflected when brought near a bar magnet.\n A compass needle is, in fact, a small bar magnet.\n The ends of the compass needle point approximately towards north and south directions.\n The end pointing towards north is called north seeking or north pole.\n The other end that points towards south is called south seeking or south pole.\n Through various activities we have observed that like poles repel, while unlike poles of magnets attract each other.\n  U  E  S  T  I  O  N  Why does a compass needle get deflected when brought near a bar magnet?\n2 n n n  n n  Fix a sheet of white paper on a drawing board using some adhesive material.\n Place a bar magnet in the centre of it.\n Sprinkle some iron filings uniformly around the bar magnet (Fig.\n A salt-sprinkler may be used for this purpose.\n Now tap the board gently.\n What do you observe?\n2 Iron filings near the bar magnet align themselves along the field lines.\n  The iron filings arrange themselves in a pattern as shown Fig.\n Why do the iron filings arrange in such a pattern?\n What does this pattern demonstrate?\n The magnet exerts its influence in the region surrounding it.\n Therefore the iron filings experience a force.\n The force thus exerted makes iron filings to arrange in a pattern.\n The region surrounding a magnet, in which the force of the magnet can be detected, is said to have a magnetic field.\n The lines along which the iron filings align themselves represent magnetic field lines.\n Are there other ways of obtaining magnetic field lines around a bar magnet?\n Yes, you can yourself draw the field lines of a bar magnet.\n3 n n n n  224  Take a small compass and a bar magnet.\n Place the magnet on a sheet of white paper fixed on a drawing board, using some adhesive material.\n Mark the boundary of the magnet.\n Place the compass near the north pole of the magnet.\n How does it behave?\n The south pole of the needle points towards the north pole of the magnet.\n The north pole of the compass is directed away from the north pole of the magnet.\n  Science  2015-16 (11-11-2014)  \fn n  n  n  n  n  Mark the position of two ends of the needle.\n Now move the needle to a new position such that its south pole occupies the position previously occupied by its north pole.\n In this way, proceed step by step till you reach the south pole of the magnet as shown in Fig.\n Join the points marked on the paper by a smooth curve.\n This curve represents a field line.\n Repeat the above procedure and draw as many lines as you can.\n You will get a pattern shown in Fig.\n These lines represent the magnetic field around the magnet.\n These are known as magnetic field lines.\n Observe the deflection in the compass needle as you move it along a field line.\n The deflection increases as the needle is moved towards the poles.\n3 Drawing a magnetic field line with the help of a compass needle  Figure 13.\n4 Field lines around a bar magnet  Magnetic field is a quantity that has both direction and magnitude.\n The direction of the magnetic field is taken to be the direction in which a north pole of the compass needle moves inside it.\n Therefore it is taken by convention that the field lines emerge from north pole and merge at the south pole (note the arrows marked on the field lines in Fig.\n Inside the magnet, the direction of field lines is from its south pole to its north pole.\n Thus the magnetic field lines are closed curves.\n The relative strength of the magnetic field is shown by the degree of closeness of the field lines.\n The field is stronger, that is, the force acting on the pole of another magnet placed is greater where the field lines are crowded (see Fig.\n No two field-lines are found to cross each other.\n If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.\n 2 MA GNETIC FIELD DUE TO A CURRENT MAGNETIC CURRENT--C ARRYING CONDUCTOR In Activity 13.\n1, we have seen that an electric current through a metallic conductor produces a magnetic field around it.\n In order to find the direction of the field produced let us repeat the activity in the following way –  Magnetic Effects of Electric Current  225  2015-16 (11-11-2014)  \fActivity 13.\n4 n n n n  n  n  Take a long straight copper wire, two or three cells of 1.\n5 V each, and a plug key.\n Connect all of them in series as shown in Fig.\n Place the straight wire parallel to and over a compass needle.\n Plug the key in the circuit.\n Observe the direction of deflection of the north pole of the needle.\n If the current flows from north to south, as shown in Fig.\n5 (a), the north pole of the compass needle would move towards the east.\n Replace the cell connections in the circuit as shown in Fig.\n This would result in the change of the direction of current through the copper wire, that is, from south to north.\n Observe the change in the direction of deflection of the needle.\n You will see that now the needle moves in opposite direction, that is, towards the west [Fig.\n It means that the direction of magnetic field produced by the electric current is also reversed.\n  (a)  (b)  Figure 13.\n5 A simple electric circuit in which a straight copper wire is placed parallel to and over a compass needle.\n The deflection in the needle becomes opposite when the direction of the current is reversed.\n1 Magnetic Field due to a Current through a Straight Conductor What determines the pattern of the magnetic field generated by a current through a conductor?\n Does the pattern depend on the shape of the conductor?\n We shall investigate this with an activity.\n We shall first consider the pattern of the magnetic field around a straight conductor carrying current.\n5 n  n  226  Take a battery (12 V), a variable resistance (or a rheostat), an ammeter (0–5 A), a plug key, and a long straight thick copper wire.\n Insert the thick wire through the centre, normal to the plane of a rectangular cardboard.\n Take care that the cardboard is fixed and does not slide up or down.\n  Science  2015-16 (11-11-2014)  \fn  n  n  n  n  n n  n  Connect the copper wire vertically between the points X and Y, as shown in Fig.\n6 (a), in series with the battery, a plug and key.\n Sprinkle some iron filings uniformly on the cardboard.\n (You may use a salt sprinkler for this purpose.\n) Keep the variable of the rheostat at a fixed position and note the current through the ammeter.\n Close the key so that a current flows through the wire.\n Ensure that the copper wire placed between the points X and Y remains vertically straight.\n Gently tap the cardboard a few times.\n Observe the patter n of the iron filings.\n You would find that the iron filings align themselves showing a pattern of concentric circles around the copper wire (Fig.\n What do these concentric circles represent?\n They represent the magnetic field lines.\n How can the direction of the magnetic field be found?\n Place a compass at a point (say P) over a circle.\n Observe the direction of the needle.\n The direction of the north pole of the compass needle would give the direction of the field lines produced by the electric current through the straight wire at point P.\n Show the direction by an arrow.\n Does the direction of magnetic field lines get reversed if the direction of current through the straight copper wire is reversed?\n  Variable resistance  (a)  (b) Figure 13.\n6 (a) A pattern of concentric circles indicating the field lines of a magnetic field around a straight conducting wire.\n The arrows in the circles show the direction of the field lines.\n (b) A close up of the pattern obtained.\n  What happens to the deflection of the compass needle placed at a given point if the current in the copper wire is changed?\n To see this, vary the current in the wire.\n We find that the deflection in the needle also changes.\n In fact, if the current is increased, the deflection also increases.\n It indicates that the magnitude of the magnetic field produced at a given point increases as the current through the wire increases.\n What happens to the deflection of the needle if the compass is moved from the copper wire but the current through the wire remains the same?\n To see this, now place the compass at a farther point from the conducting wire (say at point Q).\n What change do you observe?\n We see that the deflection in the needle decreases.\n Thus the magnetic field produced by a given current in the conductor decreases as the distance from it increases.\n6, it can be noticed that the concentric circles representing the magnetic field around a current-carrying straight wire become larger and larger as we move away from it.\n2 Right-Hand Thumb Rule A convenient way of finding the direction of magnetic field associated with a current-carrying conductor is –  Magnetic Effects of Electric Current  227  2015-16 (11-11-2014)  \fImagine that you are holding a current-carrying straight conductor in your right hand such that the thumb points towards the direction of current.\n Then your fingers will wrap around the conductor in the direction of the field lines of the magnetic field, as shown in Fig.\n This is known as the right-hand thumb rule*.\n1 A current through a horizontal power line flows in east to west direction.\n What is the direction of magnetic field at a point directly below it and at a point directly above it?\n7 Right-hand thumb rule  Solution The current is in the east-west direction.\n Applying the right-hand thumb rule, we get that the magnetic field (at any point below or above the wire) turns clockwise in a plane perpendicular to the wire, when viewed from the east end, and anti-clockwise, when viewed from the west end.\n  U  E  S  T  I  O  Draw magnetic field lines around a bar magnet.\n List the properties of magnetic lines of force.\n Why don’t two magnetic lines of force intersect each other?\n3 Magnetic Field due to a Current through a Circular Loop  Figure 13.\n8 Magnetic field lines of the field produced by a current-carrying circular loop  We have so far observed the pattern of the magnetic field lines produced around a current-carrying straight wire.\n Suppose this straight wire is bent in the form of a circular loop and a current is passed through it.\n How would the magnetic field lines look like?\n We know that the magnetic field produced by a current-carrying straight wire depends inversely on the distance from it.\n Similarly at every point of a current-carrying circular loop, the concentric circles representing the magnetic field around it would become larger and larger as we move away from the wire (Fig.\n By the time we reach at the centre of the circular loop, the arcs of these big circles would appear as straight lines.\n Every point on the wire carrying current would give rise to the magnetic field appearing as straight lines at the center of the loop.\n By applying the right hand rule, it is easy to check that every section of the wire contributes to the magnetic field lines in the same direction within the loop.\n  * This rule is also called Maxwell’s corkscrew rule.\n If we consider ourselves driving a corkscrew in the direction of the current, then the direction of the corkscrew is the direction of the magnetic field.\n  228  Science  2015-16 (11-11-2014)  \fWe know that the magnetic field produced by a current-carrying wire at a given point depends directly on the current passing through it.\n Therefore, if there is a circular coil having n turns, the field produced is n times as large as that produced by a single turn.\n This is because the current in each circular turn has the same direction, and the field due to each turn then just adds up.\n6 n  n n n n  Take a rectangular cardboard having two holes.\n Insert a circular coil having large number of turns through them, normal to the plane of the cardboard.\n Connect the ends of the coil in series with a battery, a key and a rheostat, as shown in Fig.\n Sprinkle iron filings uniformly on the cardboard.\n Tap the cardboard gently a few times.\n Note the pattern of the iron filings that emerges on the cardboard.\n9 Magnetic field produced by a currentcarrying circular coil.\n4 Magnetic Field due to a Current in a Solenoid A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a solenoid.\n The pattern of the magnetic field lines around a current-carrying solenoid is shown in Fig.\n Compare the pattern of the field with the magnetic field around a bar magnet (Fig.\n Do they look similar?\n Yes, they are similar.\n In fact, one end of the solenoid behaves as a magnetic north pole, while the other behaves as the south pole.\n The field lines inside the solenoid are in the form of parallel straight lines.\n This indicates that the magnetic field is the same at all points inside the solenoid.\n That is, the field is uniform inside the solenoid.\n A strong magnetic field produced inside a solenoid can be used to magnetise a piece of magnetic material, like soft iron, when placed inside the coil (Fig.\n The magnet so formed is called an electromagnet.\n  Q  U  E  S  T  I  O  1.\n  Consider a circular loop of wire lying in the plane of the table.\n Let the current pass through the loop clockwise.\n Apply the right-hand rule to find out the direction of the magnetic field inside and outside the loop.\n  The magnetic field in a given region is uniform.\n Draw a diagram to represent it.\n  Magnetic Effects of Electric Current  N  Figure 13.\n10 Field lines of the magnetic field through and around a current carrying solenoid.\n11 A current-carrying solenoid coil is used to magnetise steel rod inside it – an electromagnet.\n  229  2015-16 (11-11-2014)  \f3.\n  Choose the correct option.\n The magnetic field inside a long straight solenoid-carrying current (a)  is zero.\n  (b)  decreases as we move towards its end.\n  (c)  increases as we move towards its end.\n  (d)  is the same at all points.\n 3 FORCE ON A CURRENT CURRENT-- C ARRYING CONDUCTOR IN A MAGNETIC FIELD We have learnt that an electric current flowing through a conductor produces a magnetic field.\n The field so produced exerts a force on a magnet placed in the vicinity of the conductor.\n French scientist Andre Marie Ampere (1775–1836) suggested that the magnet must also exert an equal and opposite force on the current-carrying conductor.\n The force due to a magnetic field acting on a current-carrying conductor can be demonstrated through the following activity.\n7 n  n  n n n  n  Take a small aluminium rod AB (of about 5 cm).\n Using two connecting wires suspend it horizontally from a stand, as shown in Fig.\n Place a strong horse-shoe magnet in such a way that the rod lies between the two poles with the magnetic field directed upwards.\n For this put the north pole of the magnet vertically below and south pole vertically above the aluminium rod (Fig.\n Connect the aluminium rod in series with a battery, a key and a rheostat.\n Now pass a current through the aluminium rod from end B to end A.\n What do you observe?\n It is observed that the rod is displaced towards the left.\n You will notice that the r od gets displaced.\n Reverse the direction of current flowing through the rod and observe the direction of its displacement.\n It is now towards the right.\n Why does the rod get displaced?\n12 A current-carrying rod, AB, experiences a force perpendicular to its length and the magnetic field.\n  The displacement of the rod in the above activity suggests that a force is exerted on the current-carrying aluminium rod when it is placed in a magnetic field.\n It also suggests that the direction of force is also reversed when the direction of current through the conductor is reversed.\n Now change the direction of field to vertically downwards by interchanging the two poles of the magnet.\n It is once again observed that  230  Science  2015-16 (11-11-2014)  \fthe direction of force acting on the current-carrying rod gets reversed.\n It shows that the direction of the force on the conductor depends upon the direction of current and the direction of the magnetic field.\n Experiments have shown that the displacement of the rod is largest (or the magnitude of the force is the highest) when the direction of current is at right angles to the direction of the magnetic field.\n In such a condition we can use a simple rule to find the direction of the force on the conductor.\n In Activity 13.\n7, we considered the direction of the current and that of the magnetic field perpendicular to each other and found that the force is perpendicular to both of them.\n The three directions can be illustrated through a simple rule, called Fleming’s left-hand rule.\n According to this rule, stretch the thumb, forefinger and middle finger of your left hand such that they are mutually perpendicular (Fig.\n If the first finger points in the direction of magnetic field and the second finger in the direction of current, then the Figure 13.\n13 thumb will point in the direction of motion or Fleming’s left-hand rule the force acting on the conductor.\n Devices that use current-carrying conductors and magnetic fields include electric motor, electric generator, loudspeakers, microphones and measuring instruments.\n In the next few sections we shall study about electric motors and generators.\n2 An electron enters a magnetic field at right angles to it, as shown in Fig.\n The direction of force acting on the electron will be (a) to the right.\n (b) to the left.\n (c) out of the page.\n (d) into the page.\n14  Solution Answer is option (d).\n The direction of force is perpendicular to the direction of magnetic field and current as given by Fleming’s left hand rule.\n Recall that the direction of current is taken opposite to the direction of motion of electrons.\n The force is therefore directed into the page.\n  U  E  S  T  I  O  N  S  Which of the following property of a proton can change while it moves freely in a magnetic field?\n (There may be mor e than one correct answer.\n) (a)  mass  (b)  speed  (c)  velocity  (d)  momentum  Magnetic Effects of Electric Current  ?\n 231  2015-16 (11-11-2014)  \f2.\n  In Activity 13.\n7, how do we think the displacement of rod AB will be affected if (i) current in rod AB is increased; (ii) a stronger horse-shoe magnet is used; and (iii) length of the rod AB is increased?\n A positively-charged particle (alpha-particle) projected towards west is deflected towards north by a magnetic field.\n The direction of magnetic field is (a) towards south (b) towards east  3.\n  More to Know!  (c)  downward  (d)  upward  Magnetism in medicine An electric current always produces a magnetic field.\n Even weak ion currents that travel along the nerve cells in our body produce magnetic fields.\n When we touch something, our nerves carry an electric impulse to the muscles we need to use.\n This impulse produces a temporary magnetic field.\n These fields are very weak and are about one-billionth of the earth’s magnetic field.\n Two main organs in the human body where the magnetic field produced is significant, are the heart and the brain.\n The magnetic field inside the body forms the basis of obtaining the images of different body parts.\n This is done using a technique called Magnetic Resonance Imaging (MRI).\n Analysis of these images helps in medical diagnosis.\n Magnetism has, thus, got important uses in medicine.\n4 ELECTRIC MOTOR  N  Figure 13.\n15 A simple electric motor  232  An electric motor is a rotating device that converts electrical energy to mechanical energy.\n Electric motor is used as an important component in electric fans, refrigerators, mixers, washing machines, computers, MP3 players etc.\n Do you know how an electric motor works?\n An electric motor, as shown in Fig.\n15, consists of a rectangular coil ABCD of insulated copper wire.\n The coil is placed between the two poles of a magnetic field such that the arm AB and CD are perpendicular to the direction of the magnetic field.\n The ends of the coil are connected to the two halves P and Q of a split ring.\n The inner sides of these halves are insulated and attached to an axle.\n The external conducting edges of P and Q touch two conducting stationary brushes X and Y, respectively, as shown in the Fig.\n Current in the coil ABCD enters from the source battery through conducting brush X and flows back to the battery through brush Y.\n Notice that the current in arm AB of the coil flows from A to B.\n In arm CD it flows from C to D, that is, opposite to the direction of current through arm AB.\n On applying Fleming’s left hand rule for the direction of force on a current-carrying  Science  2015-16 (11-11-2014)  \fconductor in a magnetic field (see Fig.\n We find that the force acting on arm AB pushes it downwards while the force acting on arm CD pushes it upwards.\n Thus the coil and the axle O, mounted free to turn about an axis, rotate anti-clockwise.\n At half rotation, Q makes contact with the brush X and P with brush Y.\n Therefore the current in the coil gets reversed and flows along the path DCBA.\n A device that reverses the direction of flow of current through a circuit is called a commutator.\n In electric motors, the split ring acts as a commutator.\n The reversal of current also reverses the direction of force acting on the two arms AB and CD.\n Thus the arm AB of the coil that was earlier pushed down is now pushed up and the arm CD previously pushed up is now pushed down.\n Therefore the coil and the axle rotate half a turn more in the same direction.\n The reversing of the current is repeated at each half rotation, giving rise to a continuous rotation of the coil and to the axle.\n The commercial motors use (i) an electromagnet in place of permanent magnet; (ii) large number of turns of the conducting wire in the currentcarrying coil; and (iii) a soft iron core on which the coil is wound.\n The soft iron core, on which the coil is wound, plus the coils, is called an armature.\n This enhances the power of the motor.\n  Q  U  E  S  T  I  O  1.\n  State Fleming’s left-hand rule.\n  What is the principle of an electric motor?\n  What is the role of the split ring in an electric motor?\n5 ELECTROMAGNETIC INDUCTION We have studied that when a current-carrying conductor is placed in a magnetic field such that the direction of current is perpendicular to the magnetic field, it experiences a force.\n This force causes the conductor to move.\n Now let us imagine a situation in which a conductor is moving inside a magnetic field or a magnetic field is changing around a fixed conductor.\n What will happen?\n This was first studied by English physicist Michael Faraday.\n In 1831, Faraday made an important breakthrough by discovering how a moving magnet can be used to generate electric currents.\n To observe this effect, let us perform the following activity.\n8 n n n  Take a coil of wire AB having a large number of turns.\n Connect the ends of the coil to a galvanometer as shown in Fig.\n Take a strong bar magnet and move its north pole towards the end B of the coil.\n Do you find any change in the galvanometer needle?\n  Magnetic Effects of Electric Current  233  2015-16 (11-11-2014)  \fn  n  n  n  There is a momentary deflection in the needle of the galvanometer, say to the right.\n This indicates the presence of a current in the coil AB.\n The deflection becomes zero the moment the motion of the magnet stops.\n Now withdraw the north pole of the magnet away from the coil.\n Now the galvanometer is deflected toward the left, showing that the current is now set up in the direction opposite to the first.\n Place the magnet stationary at a point near to the coil, keeping its north pole towards the end B of the coil.\n We see that the galvanometer needle deflects toward the right when the coil is moved towards the north pole of the magnet.\n Similarly the needle moves toward left when the coil is moved away.\n When the coil is kept stationary with respect to the magnet, the deflection of the galvanometer drops to zero.\n What do you conclude from this activity?\n16 Moving a magnet towards a coil sets up a current in the coil circuit, as indicated by deflection in the galvanometer needle.\n  A galvanometer is an instrument that can detect the presence of a current in a circuit.\n The pointer remains at zero (the centre of the scale) for zero current flowing through it.\n It can deflect either to the left or to the right of the zero mark depending on the direction of current.\n You can also check that if you had moved south pole of the magnet towards the end B of the coil, the deflections in the galvanometer would just be opposite to the previous case.\n When the coil and the magnet are both stationary, there is no deflection in the galvanometer.\n It is, thus, clear from this activity that motion of a magnet with respect to the coil produces an induced potential difference, which sets up an induced electric current in the circuit.\n Michael Faraday (1791–1867) Michael Faraday was an experimental physicist.\n He had no formal education.\n He worked in a book-binding shop during his early years.\n He used to read books that came for binding.\n This way Faraday developed his interest in science.\n He got an opportunity to listen to some public lectures by Humphrey Davy of Royal Institute.\n He made careful notes of Davy’s lectures and sent them to Davy.\n Soon he was made an assistant in Davy’s laboratory at the Royal Institute.\n Faraday made several path-breaking discoveries that include electromagnetic induction and the laws of electrolysis.\n Several universities conferred on him the honorary degrees but he turned down such honours.\n Faraday loved his science work more than any honour.\n  234  Science  2015-16 (11-11-2014)  \fLet us now perform a variation of Activity 13.\n8 in which the moving magnet is replaced by a current-carrying coil and the current in the coil can be varied.\n9 n  n  n  n  Take two different coils of copper wire having large number of turns (say 50 and 100 turns respectively).\n Insert them over a non-conducting cylindrical r oll, as shown in Fig.\n (You may use a thick paper roll for this purpose.\n) Connect the coil-1, having larger number of turns, in series with a battery and a plug key.\n Also connect the other coil-2 with a galvanometer as shown.\n Plug in the key.\n Observe the galvanometer.\n Is there a deflection in its needle?\n You will observe that the needle of the galvanometer instantly jumps to one side and just as quickly returns to zero, indicating a momentary current in coil-2.\n Disconnect coil-1 from the battery.\n You will observe that the needle momentarily moves, but to the opposite side.\n It means that now the current flows in the opposite direction in coil-2.\n17 Current is induced in coil-2 when current in coil-1 is changed  In this activity we observe that as soon as the current in coil-1 reaches either a steady value or zero, the galvanometer in coil-2 shows no deflection.\n From these observations, we conclude that a potential difference is induced in the coil-2 whenever the electric current through the coil–1 is changing (starting or stopping).\n Coil-1 is called the primary coil and coil-2 is called the secondary coil.\n As the current in the first coil changes, the magnetic field associated with it also changes.\n Thus the magnetic field lines around the secondary coil also change.\n Hence the change in magnetic field lines associated with the secondary coil is the cause of induced electric current in it.\n This process, by which a changing magnetic field in a conductor induces a current in another conductor, is called electromagnetic induction.\n In practice we can induce current in a coil either by moving it in a magnetic field or by changing the magnetic field around it.\n It is convenient in most situations to move the coil in a magnetic field.\n The induced current is found to be the highest when the direction of motion of the coil is at right angles to the magnetic field.\n In this situation, we can use a simple rule to know the direction of the induced current.\n Stretch the thumb, forefinger and middle finger of right hand so that they are perpendicular to each other, as shown in Fig.\n If the forefinger indicates the direction of the magnetic field and the thumb shows the direction of motion of conductor, then the middle finger will show the direction Figure 13.\n18 of induced current.\n This simple rule is called Fleming’s Fleming’s right-hand rule right-hand rule.\n  Magnetic Effects of Electric Current  235  2015-16 (11-11-2014)  \fQ 1.\n  U  E  S  T  I  Explain different ways to induce current in a coil.\n6 ELECTRIC GENER ATOR GENERA  Figure 13.\n19 Illustration of the principle of electric generator  236  Based on the phenomenon of electromagnetic induction, the experiments studied above generate induced current, which is usually very small.\n This principle is also employed to produce large currents for use in homes and industry.\n In an electric generator, mechanical energy is used to rotate a conductor in a magnetic field to produce electricity.\n An electric generator, as shown in Fig.\n19, consists of a rotating rectangular coil ABCD placed between the two poles of a permanent magnet.\n The two ends of this coil are connected to the two rings R1 and R2.\n The inner side of these rings are made insulated.\n The two conducting stationary brushes B1 and B2 are kept pressed separately on the rings R1 and R2, respectively.\n The two rings R1 and R2 are internally attached to an axle.\n The axle may be mechanically rotated from outside to rotate the coil inside the magnetic field.\n Outer ends of the two brushes are connected to the galvanometer to show the flow of current in the given external circuit.\n When the axle attached to the two rings is rotated such that the arm AB moves up (and the arm CD moves down) in the magnetic field produced by the permanent magnet.\n Let us say the coil ABCD is rotated clockwise in the arrangement shown in Fig.\n By applying Fleming’s right-hand rule, the induced currents are set up in these arms along the directions AB and CD.\n Thus an induced current flows in the direction ABCD.\n If there are larger numbers of turns in the coil, the current generated in each turn adds up to give a large current through the coil.\n This means that the current in the external circuit flows from B2 to B1.\n After half a rotation, arm CD starts moving up and AB moving down.\n As a result, the directions of the induced currents in both the arms change, giving rise to the net induced current in the direction DCBA.\n The current in the external circuit now flows from B1 to B2.\n Thus after every half rotation the polarity of the current in the respective arms changes.\n Such a current, which changes direction after equal intervals of time, is called an alternating current (abbreviated as AC).\n This device is called an AC generator.\n To get a direct current (DC, which does not change its direction with time), a split-ring type commutator must be used.\n With this arrangement, one brush is at all times in contact with the arm moving up in the field, while the other is in contact with the arm moving down.\n We have seen the working of a split ring commutator in the case of an electric motor  Science  2015-16 (11-11-2014)  \f(see Fig.\n Thus a unidirectional current is produced.\n The generator is thus called a DC generator.\n The difference between the direct and alternating currents is that the direct current always flows in one direction, whereas the alternating current reverses its direction periodically.\n Most power stations constructed these days produce AC.\n In India, the AC changes direction after every 1/100 second, that is, the frequency of AC is 50 Hz.\n An important advantage of AC over DC is that electric power can be transmitted over long distances without much loss of energy.\n  Q  U  E  S  T  1.\n  State the principle of an electric generator.\n  Name some sources of direct current.\n  Which sources produce alternating current?\n  Choose the correct option.\n  I  O  N  S  A rectangular coil of copper wires is rotated in a magnetic field.\n The direction of the induced current changes once in each (a)  two revolutions  (b)  one revolution  (c)  half revolution  (d)  one-fourth revolution  ?\n7 DOMESTIC ELECTRIC CIRCUITS In our homes, we receive supply of electric power through a main supply (also called mains), either supported through overhead electric poles or by underground cables.\n One of the wires in this supply, usually with red insulation cover, is called live wire (or positive).\n Another wire, with black insulation, is called neutral wire (or negative).\n In our country, the potential difference between the two is 220 V.\n At the metre-board in the house, these wires pass into an electricity meter through a main fuse.\n Through the main switch they are connected to the line wires in the house.\n These wires supply electricity to separate circuits within the house.\n Often, two separate circuits are used, one of 15 A current rating for appliances with higher power ratings such as geysers, air coolers, etc.\n The other circuit is of 5 A current rating for bulbs, fans, etc.\n The earth wire, which has insulation of green colour, is usually connected to a metal plate deep in the earth near the house.\n This is used as a safety measure, especially for those appliances that have a metallic body, for example, electric press, toaster, table fan, refrigerator, etc.\n The metallic body is connected to the earth wire, which provides a low-resistance conducting path for the current.\n Thus, it ensures that any leakage of current to the metallic body of the appliance keeps its potential to that of the earth, and the user may not get a severe electric shock.\n  Magnetic Effects of Electric Current  237  2015-16 (11-11-2014)  \fFigure 13.\n20 A schematic diagram of one of the common domestic circuits  Figure 13.\n20 gives a schematic diagram of one of the common domestic circuits.\n In each separate circuit, different appliances can be connected across the live and neutral wires.\n Each appliance has a separate switch to ‘ON’/‘OFF’ the flow of current through it.\n In order that each appliance has equal potential difference, they are connected parallel to each other.\n Electric fuse is an important component of all domestic circuits.\n We have already studied the principle and working of a fuse in the previous chapter (see Section 12.\n A fuse in a circuit prevents damage to the appliances and the circuit due to overloading.\n Overloading can occur when the live wire and the neutral wire come into direct contact.\n (This occurs when the insulation of wires is damaged or there is a fault in the appliance.\n) In such a situation, the current in the circuit abruptly increases.\n This is called short-circuiting.\n The use of an electric fuse prevents the electric circuit and the appliance from a possible damage by stopping the flow of unduly high electric current.\n The Joule heating that takes place in the fuse melts it to break the electric circuit.\n Overloading can also occur due to an accidental hike in the supply voltage.\n Sometimes overloading is caused by connecting too many appliances to a single socket.\n  Q  U  E  S  T  I  O  N  S  1.\n  Name two safety measures commonly used in electric circuits and appliances.\n  An electric oven of 2 kW power rating is operated in a domestic electric circuit (220 V) that has a current rating of 5 A.\n What result do you expect?\n  What precaution should be taken to avoid the overloading of domestic electric circuits?\n Science  2015-16 (11-11-2014)  \fWhat you have learnt n  A compass needle is a small magnet.\n Its one end, which points towards north, is called a north pole, and the other end, which points towards south, is called a south pole.\n  n  A magnetic field exists in the region surrounding a magnet, in which the force of the magnet can be detected.\n  n  Field lines are used to represent a magnetic field.\n A field line is the path along which a hypothetical free north pole would tend to move.\n The direction of the magnetic field at a point is given by the direction that a north pole placed at that point would take.\n Field lines are shown closer together where the magnetic field is greater.\n  n  A metallic wire carrying an electric current has associated with it a magnetic field.\n The field lines about the wire consist of a series of concentric circles whose direction is given by the right-hand rule.\n  n  The pattern of the magnetic field around a conductor due to an electric current flowing through it depends on the shape of the conductor.\n The magnetic field of a solenoid carrying a current is similar to that of a bar magnet.\n  n  An electromagnet consists of a core of soft iron wrapped around with a coil of insulated copper wire.\n  n  A current-carrying conductor when placed in a magnetic field experiences a force.\n If the direction of the field and that of the current are mutually perpendicular to each other, then the force acting on the conductor will be perpendicular to both and will be given by Fleming’s left-hand rule.\n This is the basis of an electric motor.\n An electric motor is a device that converts electric energy into mechanical energy.\n  n  The phenomenon of electromagnetic induction is the production of induced current in a coil placed in a region where the magnetic field changes with time.\n The magnetic field may change due to a relative motion between the coil and a magnet placed near to the coil.\n If the coil is placed near to a current-carrying conductor, the magnetic field may change either due to a change in the current through the conductor or due to the relative motion between the coil and conductor.\n The direction of the induced current is given by the Fleming’s right-hand rule.\n  n  A generator converts mechanical energy into electrical energy.\n It works on the basis of electromagnetic induction.\n  n  In our houses we receive AC electric power of 220 V with a frequency of 50 Hz.\n One of the wires in this supply is with red insulation, called live wire.\n The other one is of black insulation, which is a neutral wire.\n The potential difference between the two is 220 V.\n The third is the earth wire that has green insulation and this is connected to a metallic body deep inside earth.\n It is used as a safety measure to ensure that any leakage of current to a metallic body does not give any severe shock to a user.\n  n  Fuse is the most important safety device, used for protecting the circuits due to short-circuiting or overloading of the circuits.\n  Magnetic Effects of Electric Current  239  2015-16 (11-11-2014)  \fE X E R C I S E S 1.\n Which of the following correctly describes the magnetic field near a long straight wire?\n (a)  The field consists of straight lines perpendicular to the wire.\n  (b)  The field consists of straight lines parallel to the wire.\n  (c)  The field consists of radial lines originating from the wire.\n  (d)  The field consists of concentric circles centred on the wire.\n The phenomenon of electromagnetic induction is (a)  the process of charging a body.\n  (b)  the process of generating magnetic field due to a current passing through a coil.\n  (c)  producing induced current in a coil due to relative motion between a magnet and the coil.\n  (d)  the process of rotating a coil of an electric motor.\n The device used for producing electric current is called a (a)  generator.\n  (b)  galvanometer.\n The essential difference between an AC generator and a DC generator is that (a)  AC generator has an electromagnet while a DC generator has permanent magnet.\n  (b)  DC generator will generate a higher voltage.\n  (c)  AC generator will generate a higher voltage.\n  (d)  AC generator has slip rings while the DC generator has a commutator.\n At the time of short circuit, the current in the circuit (a)  reduces substantially.\n  (b)  does not change.\n  (c)  increases heavily.\n  (d)  vary continuously.\n State whether the following statements are true or false.\n (a)  An electric motor converts mechanical energy into electrical energy.\n  (b)  An electric generator works on the principle of electromagnetic induction.\n  (c)  The field at the centre of a long circular coil carrying current will be parallel straight lines.\n  (d)  A wire with a green insulation is usually the live wire of an electric supply.\n List two methods of producing magnetic fields.\n  240  Science  2015-16 (11-11-2014)  \f8.\n How does a solenoid behave like a magnet?\n Can you determine the north and south poles of a current–carrying solenoid with the help of a bar magnet?\n When is the force experienced by a current–carrying conductor placed in a magnetic field largest?\n Imagine that you are sitting in a chamber with your back to one wall.\n An electron beam, moving horizontally from back wall towards the front wall, is deflected by a strong magnetic field to your right side.\n What is the direction of magnetic field?\n Draw a labelled diagram of an electric motor.\n Explain its principle and working.\n What is the function of a split ring in an electric motor?\n Name some devices in which electric motors are used.\n A coil of insulated copper wire is connected to a galvanometer.\n What will happen if a bar magnet is (i) pushed into the coil, (ii) withdrawn from inside the coil, (iii) held stationary inside the coil?\n Two circular coils A and B are placed closed to each other.\n If the current in the coil A is changed, will some current be induced in the coil B?\n State the rule to determine the direction of a (i) magnetic field produced around a straight conductor-carrying current, (ii) force experienced by a current-carrying straight conductor placed in a magnetic field which is perpendicular to it, and (iii) current induced in a coil due to its rotation in a magnetic field.\n Explain the underlying principle and working of an electric generator by drawing a labelled diagram.\n What is the function of brushes?\n When does an electric short circuit occur?\n What is the function of an earth wire?\n Why is it necessary to earth metallic appliances?\n  Magnetic Effects of Electric Current  241  2015-16 (11-11-2014)   \n",
+          "document_id": 287328
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+AC Generator – How it Works, Parts, Diagram of AC Generator and Types.
+
+AC Generator transforms mechanical energy to electrical energy to form an Alternating Current (AC). This post will discuss in detail about what is AC Generator, its types, how it works, various parts, diagram of AC Generator, applications and advantages.
+
+What is AC Generator
+AC Generator converts mechanical energy to electrical energy. The output is in the form of sinusoidal waveform or AC. Alternating Current (AC) is used in homes and other parts of the globe through power plants that supply Alternating Current from an energy source.
+Introduction to AC Generator
+
+Natural Gas, Nuclear Power, Hydropower, Wind, Solar Power are a few energy sources that power plants use to create electricity. When the power plant dispenses current through an AC Generator, the voltage is stepped up to a substantial level through Transformers. Invariably this increases the efficiency of the supply, as it aids in preventing power loss when the current travel long distance.
+
+Therefore large quantities of electricity run through a series of transformers that distribute the current to every home or commercial space at a safe level. This mechanism works on the principle of Michael Faraday’s law of Electromagnetic Induction. This law states that the voltage or EMF produced by a current-carrying conductor cuts a magnetic field.
+
+In AC generator, the coil through which charge or current flows is fixed and the magnet moves. Due to the south and north poles of the magnet, the current flows in opposite directions, generating Alternating Current. The output power of an AC Generator is normally 120 volts and above. The output voltage produced varies in time and amplitude.
+
+Types of AC Generator
+There are fundamentally two types of AC generators:
+Asynchronous Generators
+Synchronous Generators
+Asynchronous Generators
+
+They are also known as Induction Generators. Here the slip rings help the rotor to rotate. Though the rotor tries to match the synchronous speed of a stator, its attempt fails. If the synchronous speed of a stator, is complemented by the speed of the rotor, the velocity is zero. Hence the rotor gets no torque. And so
+such generators are suitable for running wind turbines.
+
+Synchronous Generators
+Synchronous Generators rotate at a synchronous speed. The generator functions on the basis of Faraday’s law of electromagnetic induction. Hence when the coil turns, a uniform magnetic field forms. These generators are seen in power plants as it helps to generate high voltages.
+
+Components of AC Generator
+AC Generator primarily consists of the following parts:
+Field
+Armature
+Prime Mover
+Rotor
+Stator
+Slip Rings
+Components
+
+1. Field
+It consists of coils of conductors that receive the voltage from the excitation which produces the magnetic flux. The flux formed cuts the armature to produce voltage. Thus Alternating Current generator produces the output voltage.
+
+2. Armature
+It is a crucial part of the Alternating Current generator where voltage is generated. It consists of numerous coiled wires that carry the full-load current of the generator.
+
+3. Prime Mover
+The prime mover is the unit that operates the Alternating Current generator. The prime mover can be any machine that rotates such as a diesel engine or a mechanical motor such as Steam Turbine, Hydro Turbine.
+
+4. Rotor
+It is the component that helps in producing the rotations in an Alternating Current generator. The Rotor is operated by the Prime Mover.
+
+5. Stator
+As the name suggests this is the stationary part of the Alternating Current generator. The Stator has windings that provides the moving magnetic field that the Rotor creates during its rotations.
+
+6. Slip Rings
+They are used to convert power to and from the Rotor. This component is well insulated from the shaft and is connected to the circular conducting material. There are brushes that sit on the slip ring as the rotor rotates. The connections to the brushes are made by electrical connection to the rotor.
+
+From Faradays Laws of Electromagnetism, we know that Electric Current produces magnetic field and conversely, changing magnetic field produces Current in a conductor. In Alternating Current Generator, Electric current is generated when a rotating loop of wire, termed as armature, is placed in a uniform magnetic field and conversely current can also be generated when a stationary armature is placed in a rotating magnetic field.
+
+Working Principle
+Let us consider, rotating armature powered by turbines, is placed in uniform magnetic field. When the armature rotates, one half of the loop moves in a direction opposite to the other half of the loop. Due to this, EMF is induced and current flows through the loop.
+
+The two arms of the armature are connected to brushes. One of the brushes connects to a power distribution system through wire, which connects back to the other brush completing a circuit. As the armature rotates, the current experiences a periodic reversal of the direction which is the characteristic of Alternating Current. Thus, AC generated is used to power up devices.
+Applications of AC Generator
+The applications include:
+
+They are used to power up lights for outdoor events such as sports matches.
+They are generally used to supply power to remote locations.
+They are used in generation of power from wind mills and hydro-electric dams.
+They are also widely used in Automobile Industry.
+They are also used to power up home electrical appliances such as juicers, vacuum cleaners etc.
+Advantages of AC Generator
+The advantages include:
+
+Transmission Loss is negligible when compared to DC Generator.
+Design of this type of generator is simple.
+Generated power is easier to step-up and step-down when used with Transformers.
+Maintenance is less.
+Disadvantages of AC Generator
+The disadvantages are:
+
+Eddy Currents produced cause energy loss.
+Large scale production of AC power using Alternating Current generators alone is dangerous.
