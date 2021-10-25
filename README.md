@@ -32,7 +32,7 @@ A general pipeline is shown below.
 2.  Code for creating Knowledge Graph using networkx is [here](https://colab.research.google.com/drive/1YUiYhv534F9O1XppNNG_E298G_JvV6Ql?usp=sharing) 
 3.  Code for scraping wikipedia data is [here](https://colab.research.google.com/drive/1uih0vyQGkZjU_qtytUZ8LgMEudFzVpB0?usp=sharing)
 4.  Knowledge Graph created from NCERT cleaned data is [here](https://colab.research.google.com/drive/1Dlrs28XnXkA2hnncCTOPEDqjkwq2sUT3?usp=sharing) 
-
+5. Reference Article [here](https://kgtutorial.github.io/)
 
 
 
